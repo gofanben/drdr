@@ -19,20 +19,20 @@
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
 <tr>
-	<td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
+	<td>新唐人安卓版INTD TV</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
 </tr>
 <tr>
-	<td>通过翻墙软件自由门和无界</td>
+	<td>通过翻墙软件</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
 </tr>
 <tr>
-	<td>推荐使用爱博电视新唐人中国频道</td>
+	<td>爱博电视安裝请看桌机板教学</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
 </td>
 </tr>
 <tr>
-	<td>手机请使用新唐人安卓板</td>
+	<td>手机安裝请看安卓板教學</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/ippotvm.mp4?raw=true'>新唐人安卓版教学 </a>
 </td>
 	
