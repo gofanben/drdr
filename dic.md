@@ -39,7 +39,7 @@
 </tr>
 <tr>
 	<td>点击下载翻墙软件集成包</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
 </table>
 
