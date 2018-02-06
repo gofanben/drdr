@@ -14,18 +14,18 @@
 <table>
 <tr>
 	<td>收视方法</td>
-	<td>备注</td>
+	<td>软件下载</td>
 </tr>
 <tr>
-	<td>爱博电视桌机版</td>
+	<td>1.爱博电视桌机版(特別推薦)</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
 <tr>
-	<td>新唐人安卓版INTD TV</td>
+	<td>2.新唐人安卓版INTD TV</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
 </tr>
 <tr>
-	<td>通过翻墙软件</td>
+	<td>3.通过翻墙软件</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
 </tr>
 <tr>
