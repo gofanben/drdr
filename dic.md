@@ -7,7 +7,7 @@
 
 
 <br />
-
+<hr> 
 
 <table>
 <tr>
@@ -16,9 +16,8 @@
 </tr>
 <tr>
 	<td>爱博电视桌机版</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true>爱博电视IPPOTV </a></td>
-</tr>
-		
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
+</tr>		
 <tr>
 	<td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
