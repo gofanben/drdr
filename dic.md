@@ -3,7 +3,7 @@
 <div align="center"><h1>新唐人将对大陆特别播出2018年全球华人新年晚会</h1>
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/shen-yun.jpg?raw=true" width=880></a><br></div>
 
-[<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/gofun72/telove/blob/master/ebook/epub/fangqian.epub?raw=true)
+[<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>]("https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true")
 
 
 <br />
