@@ -17,7 +17,7 @@
 	<td>软件下载</td>
 </tr>
 <tr>
-	<td>1.爱博电视桌机版(特別推薦)</td>
+	<td>1.爱博电视桌机版(*特別推薦*)</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
 <tr>
