@@ -44,6 +44,9 @@
 	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
 </table>
+</hr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233951.jpg?raw=true" width=880></a><br></div>
 
 <br />
 
