@@ -66,7 +66,7 @@
 
 </hr>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233951.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233952.jpg?raw=true" width=880></a><br></div>
 
 
 
