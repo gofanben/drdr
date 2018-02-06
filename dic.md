@@ -44,9 +44,6 @@
 	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
 </table>
-</hr>
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233951.jpg?raw=true" width=880></a><br></div>
 
 <br />
 
@@ -66,5 +63,12 @@
 观赏神韵特别特别推荐这款 *爱博电视桌机版*，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
 特別推薦~  *爱博电视桌机版* 
+
+</hr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233951.jpg?raw=true" width=880></a><br></div>
+
+
+
 
 
