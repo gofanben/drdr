@@ -70,7 +70,7 @@
 </tr>
 <tr>
 	<td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true'>INTD TV </a></td>
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
 </tr>
 <tr>
 	<td>通过翻墙软件自由门和无界</td>
