@@ -13,8 +13,8 @@
 
 <table>
 <tr>
-	<td width=590;>收视方法</td>
-	<td width=300;>软件下载</td>
+	<td width=490;>收视方法</td>
+	<td width=400;>软件下载</td>
 </tr>
 <tr>
 	<td>1.爱博电视桌机版(*特別推薦*)</td>
