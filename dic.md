@@ -30,10 +30,6 @@
 	<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
 </tr>
 
-</table>
-
-<table>
-
 <tr>
 	<td>爱博电视安裝请看桌机板教学</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
