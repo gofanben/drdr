@@ -22,7 +22,7 @@
 
 <tr>
 	<td>2.通过翻墙软件</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
 </tr>
 
 <tr>
