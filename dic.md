@@ -3,7 +3,6 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun--.jpg?raw=true" width=880></a><br></div>
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true)
 
@@ -20,31 +19,31 @@
 	<td>1.爱博电视桌机版(*特別推薦*)</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/GreeniPPOTV_Setup_Ver12Build944b.zip?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
+
 <tr>
-	<td>2.新唐人安卓版INTD TV</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/iNTD_TV.apk?raw=true'>INTD TV </a></td>
-</tr>
-<tr>
-	<td>3.通过翻墙软件</td>
+	<td>2.通过翻墙软件</td>
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
 </tr>
+
+
+</table>
+
+<table>
+		<td width=490;>安装教学</td>
+		<td width=400;>教学影片</td>
 <tr>
 	<td>爱博电视安裝请看桌机板教学</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
 </td>
 </tr>
-<tr>
-	<td>手机安裝请看安卓板教學</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/ippotvm.mp4?raw=true'>新唐人安卓版教学 </a>
-</td>
 	
 </tr>
 <tr>
 	<td>点击下载翻墙软件集成包</td>
 	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
-</table>
 
+</table>
 <br />
 
 
@@ -58,9 +57,7 @@
 
 <div align="center">特別推薦~  *爱博电视桌机版*</div></br>
 
-<hr>
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_23392.jpg?raw=true" width=880></a><br></div>
+
 
 
 
