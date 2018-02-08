@@ -33,8 +33,7 @@
 </table>
 
 <table>
-		<td width=490;>安装教学</td>
-		<td width=400;>教学影片</td>
+
 <tr>
 	<td>爱博电视安裝请看桌机板教学</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
