@@ -1,12 +1,11 @@
-
-	
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun_163024.jpg?raw=true" width=880></a><br></div>
-
-<hr>
 	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-18.jpg?raw=true" width=880></a><br></div>
+
+<hr>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun_163024.jpg?raw=true" width=880></a><br></div>
 
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun--.jpg?raw=true" width=880></a><br></div>
