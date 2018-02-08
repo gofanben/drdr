@@ -25,6 +25,10 @@
 	<td><a href='https://github.com/dfchunsring/wer/blob/master/fq/fangqian.epub?raw=true'>翻墙软件集成包+下载详细说明书</a></td>
 </tr>
 
+<tr>
+	<td>点击下载翻墙软件集成包</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
+</tr>
 
 </table>
 
@@ -37,10 +41,6 @@
 </td>
 </tr>
 	
-</tr>
-<tr>
-	<td>点击下载翻墙软件集成包</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载</a></td>
 </tr>
 
 </table>
