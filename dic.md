@@ -1,7 +1,9 @@
 
 	
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-_160543.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun_163024.jpg?raw=true" width=880></a><br></div>
+
+<hr>
 	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-18.jpg?raw=true" width=880></a><br></div>
@@ -62,7 +64,7 @@
 
 <div align="center">特別推薦~  *爱博电视桌机版*</div></br>
 
-</hr>
+<hr>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/iPhone,%20iPad_233952.jpg?raw=true" width=880></a><br></div>
 
