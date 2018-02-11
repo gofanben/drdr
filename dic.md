@@ -1,26 +1,88 @@
 	
+<table>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018_SY_CHINA_-0000406-600x400.jpg?raw=true" width=880></a><br></div>
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
 
-<table>
+
 <div>	
 【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
 
 五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
 
-海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看， 
-<a href='www.shenyun.com'>演出行程查询：</a>
+<h3>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，</h3> 
+<a href='www.shenyun.com'>演出行程请查询：</a>
 
-对中国大陆播出“神韵艺术团2018年演出”。播出时间如下（均为当地时间）：
+<div align="center"><h2>请大家告诉大家，過年期間错过 得等到元宵节回放！</h2></div>
+
+<h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
+，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+
+<h3>对中国大陆播出“神韵艺术团2018年演出”。播出时间如下（均为当地时间）：</h3>
 <div align="center"><h1>新年晚会</h1></div>
-
-
-
 </div>
 </table>
+<table>
+<tr>
+	<td width=280;>日期</td>
+	<td width=300;>时间</td>
+	<td width=300;>备注</td>
+</tr>	
+<tr>
+	<td>02/15 除夕</td>
+	<td>20:00-23:00</td>
+	<td>新年晚会 首播 180分钟</td>
+</tr>
+<tr>
+	<td>02/15 除夕</td>
+	<td>23:00-02:00</td>
+	<td>新年晚会 重播 180分钟</td>
+</tr>
+	
+<tr>
+	<td>02/16 大年初一</td>
+	<td>08:30-11:30</td>
+	<td>新年晚会 重播 180分钟</td>
+</tr>
+<tr>	
+	<td>02/16 大年初一</td>
+	<td>14:00-17:00</td>
+	<td>新年晚会 重播 180分钟</td>
+</tr>
+
+
+<div align="center"><h1>神韵交响乐团</h1></div>
+
+<tr>
+	<td width=280;>日期</td>
+	<td width=300;>时间</td>
+	<td width=300;>备注</td>
+</tr>
+
+	
+<tr>	
+	<td>02/16 大年初一</td>
+	<td>20:00-</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>	
+
+<tr>	
+	<td>02/17 大年初二</td>
+	<td>08:30-</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>
+<tr>
+	<td>02/17 大年初二</td>
+	<td>17:00-</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>
+	
+</table>	
+
+	
+	
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
