@@ -101,13 +101,18 @@
 	<td width=490;>收视方法</td>
 	<td width=400;>软件下载</td>
 </tr>
+<tr>	
+	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
+</tr>	
+	
 <tr>
-	<td>1.爱博电视桌机版(*特別推薦*)</td>
+	<td>2.爱博电视桌机版(*特別推薦*)</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
 </tr>		
 
 <tr>
-	<td>2.通过翻墙软件</td>
+	<td>3.通过翻墙软件</td>
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
 </tr>
 
@@ -121,16 +126,14 @@
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
 </td>
 </tr>
-	
 </tr>
-
 </table>
 <br />
 
 <table>
-为了照顾大陆广大的朋友，神韵过去很多年都在农历除夕和元宵节播放神韵当年的节目，这是中国大陆独享的。但是因为是锁大陆IP，而且必须透过翻墙软件才能看到。
+为了照顾大陆广大的朋友，神韵过去很多年都在农历除夕和元宵节播放神韵当年的节目，这是中国大陆独享的。因为是锁大陆IP，而且必须透过翻墙软件才能看到。
 
-为了服务朋友，所以特别提醒大家先下载翻墙软件，熟悉使用方式。并请收藏  https://git.io/dic 这个网址，取得IP更新资讯，届时才能再度访问这个页面。</br>
+所以特别提醒大家先下载翻墙软件，熟悉使用方式。并请收藏  https://git.io/dic 这个网址，取得IP更新资讯，届时才能再度访问这个页面。</br>
 
 
 
