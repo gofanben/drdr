@@ -21,7 +21,7 @@
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
-<div align="center"><h1>对中国大陆播出“神韵艺术团2018年演出”。播出时间如下：</h1></div>
+<div align="center"><h2>对中国大陆播出“神韵艺术团2018年演出”。播出时间如下：</h2></div>
 
 <div align="center"><h1>新年晚会</h1></div>
 </div>
