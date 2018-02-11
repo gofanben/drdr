@@ -1,7 +1,26 @@
 	
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018_SY_CHINA_-0000406-600x400.jpg?raw=true" width=880></a><br></div>
 
+<div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
+
+<table>
+<div>	
+【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+
+
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+
+海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看， 
+<a href='www.shenyun.com'>演出行程查询：</a>
+
+对中国大陆播出“神韵艺术团2018年演出”。播出时间如下（均为当地时间）：
+<div align="center"><h1>新年晚会</h1></div>
+
+
+
+</div>
+</table>
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
