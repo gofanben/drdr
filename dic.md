@@ -13,9 +13,6 @@
 
 五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
 
-
-<h4><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h4>
-
 <div align="center"><h2>请大家告诉大家，過年期間错过 得等到元宵节回放！</h2></div>
 
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
@@ -53,6 +50,9 @@
 	<td>新年晚会 重播 180分钟</td>
 </tr>
 </table>
+
+<h4><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h4>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/SYSO-600x338.jpg?raw=true" width=880></a><br></div>
 
