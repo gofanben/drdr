@@ -142,7 +142,14 @@
 观赏神韵特别特别推荐这款 *爱博电视桌机版*，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
-
+<tr>	
+	<td>
+<div align="center"><h2>神韵观众反馈 <a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled1.epub?raw=true'>反馈~~ 1</a></h2></tr>	
+	</td>
+<tr>	
+	<td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2.epub?raw=true'>反馈~~ 2</a></h2>
+</tr>	
+	</td>
 </div>
 </table>
 
