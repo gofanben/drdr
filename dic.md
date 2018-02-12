@@ -141,7 +141,7 @@
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
 
-<div align="center"><h2>【神韵2018世界巡演预告片】~  <a href='http://220.141.122.65'></a></h2>
+<div align="center"><h2>【神韵2018世界巡演预告片】~  <a href='http://220.141.122.65/sy/'></a></h2>
 
 </div>
 </table>
