@@ -53,6 +53,8 @@
 	<td>新年晚会 重播 180分钟</td>
 </tr>
 </table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/SYSO-600x338.jpg?raw=true" width=880></a><br></div>
 
 <h3>同时，新唐人在新年期间将独家播出神韵交响乐团2017年演出，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。播出时间如下: </h3>
 
@@ -140,8 +142,6 @@
 观赏神韵特别特别推荐这款 *爱博电视桌机版*，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
-
-<div align="center"><h2>【神韵2018世界巡演预告片】~  <a href='http://220.141.122.65/sy/'></a></h2>
 
 </div>
 </table>
