@@ -5,7 +5,7 @@
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
 
-<div align="center"><h2>*线上播放新年晚会、播放方法~~公布*</h2> </div></br>
+<div align="center"><h2>*线上播放新年晚会、播放方法~~公佈*</h2> </div></br>
 
 <div>	
 【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
@@ -139,9 +139,10 @@
 
 观赏神韵特别特别推荐这款 *爱博电视桌机版*，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
-<div align="center"><h2>特別推薦~  *爱博电视桌机版*</h2></div></br>
-
+<div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true </a></h2>
+</div>
 </table>
+
 
 
 
