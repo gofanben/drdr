@@ -124,7 +124,7 @@
 
 <tr>
 	<td>点击下载翻墙软件</td>
-	<td><a href='https://github.com/goodabc/GCC/blob/master/fangqian.md'>翻墙软件下载</a></td>
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件下载</a></td>
 </tr>
 
 <tr>
@@ -147,9 +147,10 @@
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>		
 <tr>
-	<td width=280;><h2>神韵观众反馈>>></h2></td>
-	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled1.epub?raw=true'>反馈~~ 1</h2></td>
-	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2.epub?raw=true'>反馈~~ 2</h2></td>
+	<td width=280;><h2>神韵观众反馈>>>相关报导</h2></td>
+	<td width=280;><h2>神韵观众反馈>>>相关报导</h2></td>
+	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled1.epub?raw=true'>反馈报导mp4~~ 1</h2></td>
+	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2.epub?raw=true'>反馈报导mp4~~ 2</h2></td>
 </tr>	
 	
 
