@@ -1,11 +1,15 @@
 	
 <table>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-namd_3.png?raw=true" width=880></a><br></div>
+
+<div align="center"><h2>*线上播放新年晚会、播放时间~~公佈*</h2> </div></br>	
+	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018_SY_CHINA_-0000406-600x400.jpg?raw=true" width=880></a><br></div>
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
-
-<div align="center"><h2>*线上播放新年晚会、播放方法~~公佈*</h2> </div></br>
 
 <div>	
 <h4>【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h4>
