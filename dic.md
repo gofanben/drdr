@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-namd1-_1.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-namd2-_1.png?raw=true" width=880></a><br></div>
 
 <div align="center"><h2>*线上播放新年晚会、播放时间~~公佈*</h2> </div></br>	
 	
