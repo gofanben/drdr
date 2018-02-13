@@ -91,8 +91,7 @@
 </tr>
 	
 </table>	
-
-	
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20(1).epub?raw=true'>2018年观赏完神韵艺术团观众反饋直接点播 </a></td>
 	
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
