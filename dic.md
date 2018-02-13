@@ -90,9 +90,10 @@
 	<td>神韵交响乐团2017年演出</td>
 </tr>
 	
-</table>	
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20(1).epub?raw=true'>2018年观赏完神韵艺术团观众反饋直接点播 </a></td>
-	
+</table>
+
+<div align="center"><h2><a href="https://github.com/dfchunsring/wer/blob/master/epub/gala2018%20(1).epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h2></div>
+
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
