@@ -147,10 +147,10 @@
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>		
 <tr>
-	<td width=280;><h2>神韵观众反馈>>>相关报导</h2></td>
-	<td width=280;><h2>神韵观众反馈>>>相关报导</h2></td>
-	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled1.epub?raw=true'>反馈报导mp4~~ 1</h2></td>
-	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2.epub?raw=true'>反馈报导mp4~~ 2</h2></td>
+	<td width=280;><h2>神韵观众反馈>>报导</h2></td>
+	<td width=280;><h2>神韵观众反馈>>报导</h2></td>
+	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled1.epub?raw=true'>反馈mp4~~ 1</h2></td>
+	<td width=300;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2.epub?raw=true'>反馈mp4~~ 2</h2></td>
 </tr>	
 	
 
