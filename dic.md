@@ -92,7 +92,7 @@
 	
 </table>
 
-<div align="center"><h1><a href="https://github.com/dfchunsring/wer/blob/master/epub/gala2018%20(1).epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
+<div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
 
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
