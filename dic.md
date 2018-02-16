@@ -152,7 +152,7 @@
 	<td width=400;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2a.epub?raw=true'>2018神韵观众反馈mp4</h2></td>
 </tr>	
 </div>	
-hr
+<hr> 
 <tbody>
 
 【明慧网二零一八年二月十一日】每年中国新年期间，针对中国大陆观众，新唐人电视台都会在网络上播出最新的全球华人新年晚会（神韵晚会）”——大陆版。只限于中国大陆地区收看。
