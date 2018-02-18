@@ -5,7 +5,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/a3a6adbb66cd76165.png?raw=true" width=880></a><br></div>
 
 <div align="center"><h2>*线上播放新年晚会、播放时间~~公佈*</h2> </div></br>	
-	
+<div align="center"><h2>*春節期间错过的 请等元宵节回放 请留意.本网站更新播放时间*	</h2> </div></br>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
