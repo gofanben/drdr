@@ -5,7 +5,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/a3a6adbb66cd76165.png?raw=true" width=880></a><br></div>
 
 <div align="center"><h2>*线上播放新年晚会、播放时间~~公佈*</h2> </div></br>	
-<div align="center"><h2>*春節期间错过的 请等元宵节回放 请留意.本网站更新播放时间*	</h2> </div></br>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
@@ -17,7 +17,7 @@
 
 <h4>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h4>
 
-<div align="center"><h2>请大家告诉大家，過年期間错过 得等到元宵节回放！</h2></div>
+<div align="center"><h2>请大家告诉大家，過年期間错过的 得等到元宵节回放！请留意元宵节播放时间!</h2></div>
 
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
