@@ -1,13 +1,14 @@
 	
 <table>
-
-<div align="center"><h2>*线上播放新年晚会、元宵節播放时间~~等待公佈*</h2> </div></br>	
-
+	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
-<h2>看台湾神韵晚会演出场次  请下载epub电子书
-<a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true</a></h2>
+<h2>
+<a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></h2>
+
+
+<div align="center"><h2>*线上播放新年晚会、元宵節播放时间~~等待公佈*</h2> </div></br>
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
   
