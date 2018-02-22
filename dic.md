@@ -5,8 +5,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
 <h2>
-<a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></h2>
-
+<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></h2></div>
 
 <div align="center"><h2>*线上播放新年晚会、元宵節播放时间~~等待公佈*</h2> </div></br>
 
