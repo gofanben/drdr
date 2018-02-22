@@ -4,18 +4,17 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
 
-<h2>
-<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></h2></div>
+<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true"><h2>看台湾神韵晚会演出场次  请下载epub电子书</h2></a></div>
 
 <div align="center"><h2>*线上播放新年晚会、元宵節播放时间~~等待公佈*</h2> </div></br>
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
   
 <div>	
-<h4>【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h4>
+<h3>【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h3>
 
 
-<h4>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h4>
+<h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
 <div align="center"><h1>2018年新唐人全球華人新年晚會，春節期間错过的，元宵節可能還有一場回放，再錯過可能要再等一年，请大家告诉大家，请留意元宵节播放时间!请先下载翻墙软件及爱博电视IPPOTV</h1></div>
 
