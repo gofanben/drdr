@@ -72,7 +72,12 @@
 </tr>
 </table>
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
+	
+<div align="center"><h2>【预告】新唐人元宵节播出2017年神韵交响音乐会及神韵演出特别报导 <a href='https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20(1).epub?raw=true'>神韵交响音乐会及神韵演出特别报导-epub </a></h2>	
+	
 </table>
+
+
 
 <hr> 
 <br />
