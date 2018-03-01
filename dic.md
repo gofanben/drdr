@@ -3,8 +3,8 @@
 	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/p8711531a681780116.jpg?raw=true" width=880></a><br></div>
-<h2>
-<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
+
+<div align="center"><h2>【预告】新唐人元宵节播出2017年神韵交响音乐会</h2> </div></br>
 
 <div align="center"><h2>*“神韵交响乐”回放时间*公布*,请勿再错过,再错过可能要再等一年。*</h2> </div></br>
 
@@ -72,6 +72,9 @@
 </tr>
 </table>
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
+	
+<h2>
+<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
 	
 <div align="center"><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20(1).epub?raw=true'>新唐人元宵节播出2017年神韵交响音乐会及神韵演出特别报导-epub </a></h2>	
 	
