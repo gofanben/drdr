@@ -12,8 +12,6 @@
 神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。相关播出时间安排如下： </h3>
 
 <table>
-	
-<div align="center"><h1>神韵交响乐团</h1></div>
 
 <tr>
 	<td width=280;>日期</td>
@@ -37,13 +35,12 @@
 	<td>17.00</td>
 	<td>神韵交响乐团2017年演出</td>
 </tr>
+<br />
 
-<div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
+<div align="center"><h1>收看新唐人神韵交响乐团的方法</h1>
 
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
 
-
-<br />
 <hr> 
 
 <table>
