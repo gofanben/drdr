@@ -34,10 +34,7 @@
 	<td>神韵交响乐团2017年演出</td>
 </tr>
 
-<hr> 
-
 <table>
-
 
 <div align="center"><h1>收看新唐人神韵交响乐团的方法</h1>
 
@@ -79,6 +76,7 @@
 
 <div align="center"><h2>新唐人新年期间播出2018全球华人新年晚会神韵演出特别报导: http://61.228.119.155/sy/ </h2></div>
 
+<hr> 
 <br />
 
 <div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*请收藏  https://git.io/dic 这个网址，取得IP更新资讯，届时再度访问这个页面。</h2> </div></br>
@@ -133,7 +131,7 @@
 
 <div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
 
-
+<hr> 
 <br />
 
 <table>
