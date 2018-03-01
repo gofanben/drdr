@@ -10,6 +10,8 @@
 
 <div align="center"><h2>*“神--韵交响乐”回放时间公布,请勿再错过。*</h2> </div></br>
 
+<h3>新唐人在新年期间将独家播出神韵交响乐团2017年演出，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。播出时间如下: </h3>
+
 <table>
 	
 <div align="center"><h1>神韵交响乐团</h1></div>
@@ -50,7 +52,7 @@
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
-<div align="center"><h1>2018年新唐人全球華人新年晚會，春節期間错过的，元宵節可能還有一場回放，再錯過可能要再等一年，请大家告诉大家，请留意元宵节播放时间!请先下载翻墙软件及爱博电视IPPOTV</h1></div>
+<div align="center"><h1>请先下载翻墙软件及爱博电视IPPOTV</h1></div>
 
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
@@ -94,9 +96,6 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/SYSO-600x338.jpg?raw=true" width=880></a><br></div>
-
-<h3>同时，新唐人在新年期间将独家播出神韵交响乐团2017年演出，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。播出时间如下: </h3>
-
 
 
 <div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
