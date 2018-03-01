@@ -92,10 +92,6 @@
 
 <h4><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h4>
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/SYSO-600x338.jpg?raw=true" width=880></a><br></div>
-
-
 <div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
 
 <div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
