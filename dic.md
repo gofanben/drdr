@@ -4,7 +4,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/p8711531a681780116.jpg?raw=true" width=880></a><br></div>
 <h2>
-<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
+<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
 
 <div align="center"><h2>*“神--韵交响乐”回放时间公布,请勿再错过,再错过可能要再等一年。*</h2> </div></br>
 
