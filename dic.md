@@ -37,12 +37,53 @@
 	<td>17.00</td>
 	<td>神韵交响乐团2017年演出</td>
 </tr>
+
+<div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
+
+[<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
+
+
+<br />
+<hr> 
+
+<table>
+<tr>
+	<td width=490;>收视方法</td>
+	<td width=400;>软件下载</td>
+</tr>
+<tr>	
+	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
+</tr>	
 	
+<tr>
+	<td>2.爱博电视桌机版(*特別推薦*)</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
+</tr>		
+
+<tr>
+	<td>3.通过翻墙软件</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
+</tr>
+
+<tr>
+	<td>点击下载翻墙软件</td>
+	<td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件下载</a></td>
+</tr>
+
+<tr>
+	<td>爱博电视安裝请看桌机板教学</td>
+	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
+</td>
+</tr>
+</tr>
+</table>
+<div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
 </table>
 
-<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*</h2> </div></br>
-
 <div align="center"><h2>新唐人新年期间播出2018全球华人新年晚会神韵演出特别报导: http://61.228.119.155/sy/ </h2></div>
+
+<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*</h2> </div></br>
   
 <div>	
 <h3>【大纪元2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h3>
@@ -94,46 +135,7 @@
 
 <div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
 
-<div align="center"><h1>收看新唐人全球華人新年晚會的方法</h1>
 
-[<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true)
-
-
-<br />
-<hr> 
-
-<table>
-<tr>
-	<td width=490;>收视方法</td>
-	<td width=400;>软件下载</td>
-</tr>
-<tr>	
-	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
-</tr>	
-	
-<tr>
-	<td>2.爱博电视桌机版(*特別推薦*)</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视IPPOTV </a></td>
-</tr>		
-
-<tr>
-	<td>3.通过翻墙软件</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/fangqian.epub?raw=true'>下载详细说明书</a></td>
-</tr>
-
-<tr>
-	<td>点击下载翻墙软件</td>
-	<td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件下载</a></td>
-</tr>
-
-<tr>
-	<td>爱博电视安裝请看桌机板教学</td>
-	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
-</td>
-</tr>
-</tr>
-</table>
 <br />
 
 <table>
@@ -145,7 +147,7 @@
 
 观赏神韵特别特别推荐这款 *爱博电视桌机版*，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
-<div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>		
+		
 
 <tr>
 	<td width=480;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/syuntitled.epub?raw=true'>2018神韵观众反馈mp4</h2></td>
