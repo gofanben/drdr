@@ -74,8 +74,6 @@
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
 </table>
 
-<div align="center"><h2>新唐人新年期间播出2018全球华人新年晚会神韵演出特别报导: http://61.228.119.155/sy/ </h2></div>
-
 <hr> 
 <br />
 
