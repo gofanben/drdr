@@ -2,11 +2,45 @@
 <table>
 	
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/ShenYun-19-2.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/p8711531a681780116.jpg?raw=true" width=880></a><br></div>
 <h2>
 <div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
 
-<div align="center"><h2>*线上播放新年晚会、元宵節播放时间~~等待公佈*</h2> </div></br>
+<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*</h2> </div></br>
+
+<div align="center"><h2>*“神--韵交响乐”回放时间公布,请勿再错过。*</h2> </div></br>
+
+<table>
+	
+<div align="center"><h1>神韵交响乐团</h1></div>
+
+<tr>
+	<td width=280;>日期</td>
+	<td width=300;>时间</td>
+	<td width=300;>备注</td>
+</tr>
+
+	
+<tr>	
+	<td>2018-3月2日</td>
+	<td>21.30</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>	
+
+<tr>	
+	<td>2018-3月3日</td>
+	<td>08.30</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>
+<tr>
+	<td>20183月3日</td>
+	<td>17.00</td>
+	<td>神韵交响乐团2017年演出</td>
+</tr>
+	
+</table>
+
+
 
 <div align="center"><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
   
@@ -21,7 +55,9 @@
 <h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
 ，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
-<div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">对中国大陆播出“神韵艺术团2018年演出”。播出时间如下：</a></h2></div>
+
+
+<div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">春節期间错过的,请再等一年</a></h2></div>
 <div align="center"><h1>新年晚会</h1></div>
 </div>
 </table>
@@ -61,35 +97,7 @@
 
 <h3>同时，新唐人在新年期间将独家播出神韵交响乐团2017年演出，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。播出时间如下: </h3>
 
-<table>
-	
-<div align="center"><h1>神韵交响乐团</h1></div>
 
-<tr>
-	<td width=280;>日期</td>
-	<td width=300;>时间</td>
-	<td width=300;>备注</td>
-</tr>
-
-	
-<tr>	
-	<td>等待更新</td>
-	<td>等待更新</td>
-	<td>神韵交响乐团2017年演出</td>
-</tr>	
-
-<tr>	
-	<td>等待更新</td>
-	<td>等待更新</td>
-	<td>神韵交响乐团2017年演出</td>
-</tr>
-<tr>
-	<td>等待更新</td>
-	<td>等待更新</td>
-	<td>神韵交响乐团2017年演出</td>
-</tr>
-	
-</table>
 
 <div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
 
