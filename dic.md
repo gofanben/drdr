@@ -6,8 +6,6 @@
 <h2>
 <div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20.1.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
 
-<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*</h2> </div></br>
-
 <div align="center"><h2>*“神--韵交响乐”回放时间公布,请勿再错过,再错过可能要再等一年。*</h2> </div></br>
 
 <h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。
@@ -22,7 +20,6 @@
 	<td width=300;>时间</td>
 	<td width=300;>备注</td>
 </tr>
-
 	
 <tr>	
 	<td>2018-3月2日</td>
@@ -42,6 +39,8 @@
 </tr>
 	
 </table>
+
+<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*</h2> </div></br>
 
 <div align="center"><h2>新唐人新年期间播出2018全球华人新年晚会神韵演出特别报导: http://61.228.119.155/sy/ </h2></div>
   
