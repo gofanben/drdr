@@ -81,7 +81,7 @@
 </table>
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/as2sertyv.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/abc18-03-06_836.jpg?raw=true" width=800></a><br></div>
 
 <hr> 
 <br />
