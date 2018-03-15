@@ -23,13 +23,6 @@
 <td><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐浏览器,Chrome浏览器免费下载</a></td></br>
 
 <tr>
-<td align="center">看更多.....</td>
+<td><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>看更多.....</a></td></br></td>
 </tr>
-<table>
-<tr>
-	<td><a href="https://git.io/whytd">为什么要三退epub</a></td>	
-	<td><a href="https://git.io/mks">马克思的成魔之路epub</a></td>
-	<td><a href="https://git.io/jzmqr">江泽民其人epub</a></td>
 
-</tr>
-</table>
