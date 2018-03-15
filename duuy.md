@@ -1,7 +1,9 @@
 
+<table>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/mhPic_9.jpg?raw=true" width=880></a><br></div>
-  
+</table>  
 <h2><b>目錄</b></h2>
 
 <td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件與电子书免费下载</a></td></br>
@@ -17,4 +19,6 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/ytdbcf0312436.jpg?raw=true" width=880></a><br></div>
   
+<td><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐浏览器,Chrome浏览器免费下载</a></td></br>
+
 
