@@ -22,6 +22,6 @@
 <p></p>
 
 <tr>
-<td><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'><h2>看更多....火狐浏览器,Chrome浏览器免费下载.</h2></a></td></br></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>看更多....火狐浏览器,Chrome浏览器免费下载.</a><h2></td></br></td>
 </tr>
 
