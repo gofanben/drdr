@@ -6,7 +6,7 @@
 </table>  
 <h2><b>目錄</b></h2>
 <p></p>
-<td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>翻墙软件與电子书免费下载</a></td></br>
+<td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件與电子书免费下载</a></td></br>
 <p></p>
 <td><a href='https://github.com/dfchunsring/drdr/blob/master/dic.md'>神韵交响音乐会</a></td></br>
 <p></p>
@@ -22,6 +22,6 @@
 <p></p>
 
 <tr>
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>看更多....火狐浏览器,Chrome浏览器免费下载.</a><h2></td></br></td>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>看更多~~火狐浏览器,Chrome浏览器~免费下载.</a><h2></td></br></td>
 </tr>
 
