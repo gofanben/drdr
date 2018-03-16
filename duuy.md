@@ -4,7 +4,11 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/mhPic_9.jpg?raw=true" width=880></a><br></div>
 </table>  
-<h2><b>目錄</b></h2>
+
+<div align="center"><h2>明真相得福报</h2> </div></br>
+
+<div align="center"><h2>翻墙软件与电子书*全部免费下载*</h2> </div></br>
+
 <p></p>
 <td><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件與电子书免费下载</a></td></br>
 <p></p>
