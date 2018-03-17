@@ -61,7 +61,7 @@
 
 由上可见，四•二五上访之所以发生，完全是中共在不断地打压迫害，而法轮功学员只是本着善意和平的去讲理，以合法的方式制止从一九九六年就开始的中共的迫害。即使没有四•二五，中共这样一个与民为敌的邪党和江泽民这样一个嫉妒成性的独裁小丑还是会寻衅发动迫害。中共的本性就是“假、恶、斗”，中共的历史就是一部内斗外整的历史。从它的出生到今天，中共对中国人的迫害从未停歇。
 <a href=#list><h6 align="right">回目錄</h6></a>
-
+<hr>
 <a name=2><h2 align="center"><b>四•二五上访的直接原因：天津警察抓人打人，拒不放人</b></h2>
 
   <div align=center>
@@ -91,7 +91,7 @@
 
 迫害的严重升级引发了法轮功学员的关注，各地法轮功学员纷纷通过上访国务院信访办的途径来寻求“天津事件”的公正解决。
 <a href=#list><h6 align="right">回目錄</h6></a>
-
+<hr>
 <a name=3><h2 align="center"><b>天津事件之前中共的打压迫害</b></h2>
 
   <div align=center>
@@ -164,6 +164,7 @@
 法轮功学员上访是行使宪法赋予公民的权利。宪法第41条规定：“公民对于任何国家机关和国家工作人员，有提出批评和建议的权利”。
 
 法轮功学员提出的三点要求，第一点是因为天津警察抓人打人，后两点是因为在天津事件之前中共对法轮功的打压和迫害。法轮功学员提出的要求合情合理合法。他们是在维护信仰“真善忍”的权利，维护做好人的权利，他们也是在维护所有中国人的权利，维护中国社会的正气。
+<a href=#list><h6 align="right">回目錄</h6></a>
 
 <a name=5><h2 align="center"><b>四•二五上访现场</b></h2>
   
@@ -190,67 +191,65 @@
 【明慧网二零零九年五月四日】我在北京出生和长大，1999年4月25日我在场。我把一些以前没有公布的照片公布出来，还4.25历史真相。
   <div align=center>
   <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-9.jpg?raw=true" width=600></td>
-</div>
 1999年4月25日当天，在由北向南通过府右街行驶的公共汽车上所摄（通过车厢后窗取景）。照片左侧为上访的法轮功学员，右侧红墙为中南海。法轮功学员与中南海之间为府右街。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-10.jpg?raw=true" width=600></td>
-</div>
 站在府右街北口，从北向南取景。照片右侧为上访的法轮功学员，左侧为中南海围墙。法轮功学员与中南海之间为府右街。横在府右街北口封锁路口的是一些便衣警察和着制服警察。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-11.jpg?raw=true" width=600></td>
-</div>
 站在府右街北口，从北向南取景。照片右侧为上访的法轮功学员，左侧为中南海围墙。法轮功学员与中南海之间为府右街。横在府右街北口封锁路口的是一些便衣警察和着制服警察。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-12.jpg?raw=true" width=600></td>
-</div>
 站在府右街北口，从北向南取景。照片右侧为上访的法轮功学员，左侧为中南海围墙。法轮功学员与中南海之间为府右街。横在府右街北口封锁路口的是一些便衣警察和着制服警察。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-13.jpg?raw=true" width=600></td>
-</div>
 站在府右街北口，从北向南取景。照片右侧为上访的法轮功学员，左侧为中南海围墙。法轮功学员与中南海之间为府右街。横在府右街北口封锁路口的是一些便衣警察和着制服警察。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-14.jpg?raw=true" width=600></td>
-</div>
 站在府右街北口，从北向南取景。照片右侧为上访的法轮功学员，左侧为中南海围墙。法轮功学员与中南海之间为府右街。横在府右街北口封锁路口的是一些便衣警察和着制服警察。
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-15.jpg?raw=true" width=600></td>
-</div>
 站在府右街西侧便道上的上访的法轮功学员（以前没发表过）
+ </div>  
   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-16.jpg?raw=true" width=600></td>
- </div> 
-站在府右街西侧便道上的上访的法轮功学员（以前没发表过）  
+站在府右街西侧便道上的上访的法轮功学员（以前没发表过） 
+ </div>  
    <div align=center> 
- <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-17.jpg?raw=true" width=600></td> 
-</div>   
+ <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-17.jpg?raw=true" width=600></td>   
   站在府右街西侧便道上的上访的法轮功学员（以前没发表过）
+   </div>  
    <div align=center> 
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-18.jpg?raw=true" width=600></td> 
- </div> 
- 站在府右街西侧便道上的上访的法轮功学员（以前没发表过）
+站在府右街西侧便道上的上访的法轮功学员（以前没发表过）
+  </div>  
     <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-19.jpg?raw=true" width=600></td> 
-  </div>
   站在府右街西侧便道上的上访的法轮功学员（以前没发表过）
-    <div align=center>
+   </div>  
+   <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-20.jpg?raw=true" width=600></td>   
- </div> 
   站在府右街西侧便道上的上访的法轮功学员
-      <div align=center>
+  </div>   
+     <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-21-ss.jpg?raw=true" width=600></td>   
- </div> 
-  
  站在府右街西侧便道上的上访的法轮功学员
+  </div>  
       <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-22--ss.jpg?raw=true" width=600></td>   
- </div>  
-  站在府右街西侧便道上的上访的法轮功学员
-       <div align=center>
+站在府右街西侧便道上的上访的法轮功学员
+  </div>   
+    <div align=center>
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-4/w-23--ss.jpg?raw=true" width=600></td>   
- </div>   
-  
- 站在府右街西侧便道上的上访的法轮功学员（从西向东取景。照片上方为中南海一西侧门）
  
+  站在府右街西侧便道上的上访的法轮功学员（从西向东取景。照片上方为中南海一西侧门）
+  </div>  
 <a href=#list><h6 align="right">回目錄</h6></a>
 
 <hr>
