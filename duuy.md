@@ -13,8 +13,7 @@
 
 <td><h1> <a href='https://git.io/Cich'>明慧专题：“四•二五”上访真相</a></h1></td></br>
 <td><h1><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件與电子书免费下载</a></h1> </td></br>
-<p></p>
-<td><h1><a href='https://github.com/dfchunsring/drdr/blob/master/dic.md'>神韵交响音乐会</a></h1></td></br>
+
 <p></p>
 <td><h1> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h1></td></br>
 <p></p>
