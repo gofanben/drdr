@@ -27,6 +27,6 @@
 <p></p>
 
 <tr>
-<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>一键直连~免翻~~火狐浏览器,Chrome浏览器~免费下载.</a><h1></td></br></td>
+<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐浏览器,Chrome浏览器~免费下载~下载浏览器~请先下载翻墙~</a><h1></td></br></td>
 </tr>
 
