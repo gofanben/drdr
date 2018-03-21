@@ -10,6 +10,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/dfzh_0319.png?raw=true" width=880></a><br></div>
 </br>
 <p></p>
+<td><h1> <a href='https://github.com/dfchunsring/wer/blob/master/wdy.md'>一键直连~免翻~</a></h1></td></br>
 
 <td><h1> <a href='https://git.io/Cich'>明慧专题：“四•二五”上访真相</a></h1></td></br>
 <td><h1><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件與电子书*免费下载*</a></h1> </td></br>
