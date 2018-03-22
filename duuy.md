@@ -9,6 +9,10 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/dfzh_0319.png?raw=true" width=880></a><br></div>
 </br>
+
+<tr>
+<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐浏览器,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a><h1></td></br></td>
+</tr>
 <p></p>
 <td><h1> <a href='https://github.com/dfchunsring/wer/blob/master/wdy.md'>一键直连~免翻~</a></h1></td></br>
 
@@ -27,7 +31,5 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/ytdbcf0312436.jpg?raw=true" width=880></a><br></div>
 <p></p>
 
-<tr>
-<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐浏览器,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a><h1></td></br></td>
-</tr>
+
 
