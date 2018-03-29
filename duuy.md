@@ -10,7 +10,7 @@
 <a href="https://github.com/3fmd/true/blob/master/01.md"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/dfzh_0319.png?raw=true" width=880></a><br></div>
 </br>
 <p></p>
-<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件與电子书*免费下载*</a></h1> </td>
+<td><h1><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h1> </td>
 <tr>
 <td><h1><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a><h1></td></td>
  <tr>
