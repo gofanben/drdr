@@ -33,9 +33,9 @@
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e-4.jpg?raw=true" width=600></td>
-</tr>  </div>  
-
-<div align="center">  <tr>
+</tr>  </div>  
+<p>
+<div align="center"><tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e-5.jpg?raw=true" width=600></td>
 </tr>  </div>  
 图4～5：二零一八年三月十一日（星期日），近千名法轮功学员来到纽约第三大华人社区布碌伦第八大道举行盛大游行，传递“法轮大法好”，“天要灭中共，三退保平安”的天机。游行当日，有四十六人退出中共党团队，一百六十六人退出中共团队，三百四十九人退出中共少先队。九百份特刊《共产主义终极目的》和上千本明慧真相画刊送到民众的手中。
