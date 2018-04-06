@@ -4,7 +4,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/gin-0406.jpg?raw=true" width=880></a><br></div>
  </br>
 <div align="center">
-<a href="https://github.com/sodore/dsds/blob/master/yaya.md"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/mhPic_9.jpg?raw=true" width=880></a><br></div>
+<a href="https://github.com/sodore/dsds/blob/master/yaya.md">法轮大法好</a><br></div>
 </table>  
 </br>
 <p></p>
