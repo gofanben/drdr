@@ -25,7 +25,7 @@
 </tr>
 <td><h1> <a href='https://github.com/dfchunsring/wer/blob/master/wdy.md'>一键直连~免翻~</a></h1></td></br>
 <p></p>
-<td><h1> <a href='https://git.io/Cich'>明慧专题：“四•二五”上访真相</a></h1></td></br>
+<td><h1> <a href='https://git.io/Cich'>“四•二五”上访真相</a></h1></td></br>
 </br>
 
 <p></p>
