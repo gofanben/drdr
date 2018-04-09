@@ -4,6 +4,9 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/a-1.jpg?raw=true" width=700></td>
 </div>
 </tr>
+
+<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
+  
 <h1 align="center"><b>明慧专题：“四•二五”上访真相</b></h1>
 
 <a name=list><b>目錄</b><p>
