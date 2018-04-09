@@ -5,6 +5,7 @@
 <tr>
 <td align="center"><IMG SRC="imgang/p4612671a291641254.jpg" width=680></td>
 </tr>
+  <td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
 <tr>
 <td align="center">江泽民一方面是妒忌心所致，另一方面迎合了中共邪党假，恶，斗的邪恶基因，自1999年7月20日开始十五年来，持续镇压法轮功。（资料图片）</td>
 </tr>
