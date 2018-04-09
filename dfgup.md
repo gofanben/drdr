@@ -9,6 +9,10 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee5.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
+  <tr>
+<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
+</tr>
+
  【大纪元2018年03月23日讯】2004年11月19日，大纪元系列社论《九评共产党》诞生，淋漓尽致地剖析了共产党的邪恶本性，深深震撼了亿万人的心灵。觉醒的生命重新审视在中共统治下所发生的一切：几代人在暴政与谎言欺骗中麻木、屈辱度日。
 
 九评帮助中国民众走上了一条解脱枷锁、重塑生命的精神自省之路。迄今为止，已有三亿中国人走入“三退”大潮，声明退出中共党、团、队组织。
@@ -124,7 +128,9 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee12.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
-
+  <tr>
+<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
+</tr>
 
   
   
