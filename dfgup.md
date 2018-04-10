@@ -10,7 +10,9 @@
 </tr>  </div> 
 
   <tr>
-<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
+<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
+<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
+<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
 </tr>
 
  【大纪元2018年03月23日讯】2004年11月19日，大纪元系列社论《九评共产党》诞生，淋漓尽致地剖析了共产党的邪恶本性，深深震撼了亿万人的心灵。觉醒的生命重新审视在中共统治下所发生的一切：几代人在暴政与谎言欺骗中麻木、屈辱度日。
