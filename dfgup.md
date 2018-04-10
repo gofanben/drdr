@@ -3,17 +3,17 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
-  <td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td> 
+ <h1 align="center"><a href='https://git.io/duun'> 重要连结~</a><h1>
   
    <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee5.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
-  <tr>
+<tbody> 
 <h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
 <h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
 <h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
-</tr>
+</tbody> 
 
  【大纪元2018年03月23日讯】2004年11月19日，大纪元系列社论《九评共产党》诞生，淋漓尽致地剖析了共产党的邪恶本性，深深震撼了亿万人的心灵。觉醒的生命重新审视在中共统治下所发生的一切：几代人在暴政与谎言欺骗中麻木、屈辱度日。
 
