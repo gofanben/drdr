@@ -130,9 +130,11 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee12.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
-  <tr>
-<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
-</tr>
+<tbody> 
+<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
+<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
+<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+</tbody> 
 
   
   
@@ -195,9 +197,11 @@
 
 </tbody> 
 
-  <tr>
-<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
-</tr>
+<tbody> 
+<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
+<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
+<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+</tbody> 
 
 <hr>
  <tbody> 
@@ -278,9 +282,11 @@
 
 “你当时那个誓言可是要把生命献给党，所以我们一定要把它给抹掉，彻底退出它。因为你的生命是父母给的，你要为自己奋斗终生，回报你父母才对。”胡总马上接话说：“这话讲的对！”儿子同意退了后，胡总说：“那我也把党退了。都平安了。”最后儿子的同学也把团给退了。
 
-  <tr>
-<td><h1><a href='http://qq.leucas.men/10/'>我要三退</a><h1></td></td> 
-</tr>
+<tbody> 
+<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
+<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
+<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+</tbody> 
 
 
 
