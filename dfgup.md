@@ -10,9 +10,10 @@
 </tr>  </div> 
 
 <tbody> 
-<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
-<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
-<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
 </tbody> 
 
  【大纪元2018年03月23日讯】2004年11月19日，大纪元系列社论《九评共产党》诞生，淋漓尽致地剖析了共产党的邪恶本性，深深震撼了亿万人的心灵。觉醒的生命重新审视在中共统治下所发生的一切：几代人在暴政与谎言欺骗中麻木、屈辱度日。
@@ -131,9 +132,10 @@
 </tr>  </div> 
 
 <tbody> 
-<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
-<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
-<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
 </tbody> 
 
   
@@ -198,9 +200,10 @@
 </tbody> 
 
 <tbody> 
-<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
-<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
-<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
 </tbody> 
 
 <hr>
@@ -283,9 +286,11 @@
 “你当时那个誓言可是要把生命献给党，所以我们一定要把它给抹掉，彻底退出它。因为你的生命是父母给的，你要为自己奋斗终生，回报你父母才对。”胡总马上接话说：“这话讲的对！”儿子同意退了后，胡总说：“那我也把党退了。都平安了。”最后儿子的同学也把团给退了。
 
 <tbody> 
-<h1 align="center"><a href='http://qq.leucas.men/10/'>我要三退</a></h1>
-<h1 align="center"><a href="http://qq.leucas.men/10">大纪元网站自己退</a></h1>
-<h1 align="center"><a href="https://git.io/ysys">或給QQ:908728809 发短信</a></h1> 
+<tr>	
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	 
 </tbody> 
 
 
