@@ -4,7 +4,7 @@
 </tr>  </div> 
 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-1-ok..jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-1-ok..jpg?raw=true" width=800></td>
 </tr>  </div> 
 
 
@@ -62,7 +62,7 @@
 <h2>国际声援退出中共精神运动</h2>
 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-5-ok.jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-5-ok.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
 共产邪灵的倒行逆施也激起了国际社会的公愤。告别共产大联盟发言人黄祖威博士表示，中共把谎言与腐败洒向全球，利用统战特务、设陷利诱等方式渗透各国政商学者与媒体。
@@ -72,7 +72,7 @@
 2017年12月，美国国会资深众议员罗拉巴克（Dana Rohrabacher）在退党研讨会上说：“退党大潮非常重要，它给了共产邪恶体制内的人们退出的机会，让他们不再参与镇压自己的同胞，不再与中共一道成为世界的威胁。”
 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-6-ok.jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-6-ok.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
 2005年5月，美国国防部长拉姆斯菲尔德（Donald Rumsfeld）在林肯纪念堂的老兵音乐会上演讲，退党义工向拉姆斯菲尔德介绍了在中国正发生的退党潮。他说：“我相信人们有获得自由的权利。我鼓励中国人退出中共。”◇＃
