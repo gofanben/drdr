@@ -1,6 +1,6 @@
 <tbody> 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_7-ok.jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_7-ok.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
 <div align="center">  <tr>
@@ -18,7 +18,7 @@
 截止2018年3月23日，退党网站共收到三亿人的公开声明，以真名或化名的形式，退出曾经加入过的中国共产党及其相关组织。
 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-2-ok.jpg?raw=true" width=500></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-2-ok.jpg?raw=true" width=400></td>
 </tr>  </div> 
 中国民主运动海外联席会议主席魏京生表示，很多中国老百姓生活在压抑之中，而退党运动为他们提供了吐露心声的机会，通过退党得以洗涤灵魂，是“内心的必需品”。
 
@@ -39,7 +39,7 @@
 <h2>无畏迫害 千万退党义工坚守</h2>
 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-3-ok.jpg?raw=true" width=500></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-3-ok.jpg?raw=true" width=400></td>
 </tr>  </div> 
 美国守护者联盟主席李祥春博士说，法轮功学员劝退党的主要形式包括面对面讲真相、派发真相资料、在纸币上印退党信息，还有打电话、发短信、发电子邮件、在社交平台讲真相等，“只要是有中国人的地方，都有法轮功学员将三退的消息传递到那里。”尤其是中国大陆法轮功学员在严峻的打压下仍冒着生命危险，十几年如一日地坚持劝退党，而达成今天的退党数字。
 
@@ -47,7 +47,7 @@
 
 易蓉女士说：“借此机会，全球退党服务中心要向这十多年来坚持讲清真相，劝三退的海内外退党义工们表达崇高的敬意，你们不畏生死，救中华儿女于危难，救中华民族于水火。不愧为神的使者！”
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-4-ok.jpg?raw=true" width=500></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-4-ok.jpg?raw=true" width=400></td>
 </tr>  </div> 
 
 追查迫害法轮功国际组织主席汪志远博士说：“法轮功修炼者十八年来在随时面临被迫害、被剥夺生命的情况下，仍然历尽千难万险呼唤良知劝人三退、帮人抹去兽记摆脱邪恶，走向光明。这是完全为他人着想的无私无我的大善之举。”
