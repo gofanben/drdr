@@ -1,6 +1,6 @@
 <tbody> 
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_17-ok.jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_7-ok.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
 <div align="center">  <tr>
