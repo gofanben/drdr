@@ -1,5 +1,18 @@
 <tbody> 
-  <div align="center">  <tr>
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_17-ok.jpg?raw=true" width=850></td>
+</tr>  </div> 
+
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsichiao-1-ok..jpg?raw=true" width=850></td>
+</tr>  </div> 
+
+
+
+
+
+<hr>
+<div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
