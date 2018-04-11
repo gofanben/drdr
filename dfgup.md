@@ -81,7 +81,7 @@
 
 <hr>
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=850></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
  <h1 align="center"><a href='https://git.io/duun'> 重要连结~</a><h1>
