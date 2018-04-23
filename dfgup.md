@@ -1,4 +1,47 @@
 <tbody> 
+
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/3ee-0.jpg?raw=true" width=800></td>
+</tr>  </div> 
+ <tr>
+ <td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/mp4/20180422_018282-video.mp4?raw=true'>425上访19周年 台湾法轮功反迫害游行.mp4</a></h2></td>
+</tr>
+
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/3ee-1.jpg?raw=true" width=800></td>
+</tr>  </div> 
+
+【新唐人2018年04月22日讯】大约2700名法轮功学员，在法轮功425上访19周年前夕，在台北精华区举行大游行，展现法轮功的美好，呼吁各国制止中国共产党的迫害，法办元凶江泽民。同时也声援3亿中国人良心觉醒，退出中共相关组织。
+
+天国乐团悠扬乐声的引领下，2700名法轮功学员，不分老少，行经台北市繁忙的精华路线，整齐、详和、精神十足，沿线吸引许多民众游客关注、拍照，想进一步了解法轮功是什么。
+
+纽西兰、英国游客：〝感到惊喜。游行看来非常好！我非常喜欢。引起很多的关注。〞
+
+印度游客：〝音乐非常好，这些人看来很好。〞
+
+加拿大游客：〝我觉得很好。我想，台湾是个民主国家，人们可以自由表达真实感受、可以像这样游行。〞
+
+19年前的4月25日，万名法轮功学员在北京和平上访，维护信仰权利，后来中共却发动镇压。今天游行中呈现了酷刑、活摘器官等模拟情境，这类的迫害在中国已持续19年。
+
+法轮功学员林芳暖：〝中共竟然可以迫害，用这种残忍虐杀的方式，让我觉得非常沉痛。
+
+台湾民众柯先生：〝感触很多啊，因为跟大陆这么大不同点。[//]这(法轮功)很好的一个传法啊，大陆(中共)竟然这样迫害，你想想看有多残忍。[//]你(中共)竟然把人，比动物都不如。〞
+
+法轮功学员钟闓泽：〝425是个很重要的日子，它让我走上修炼，了解生命的意义。〞
+
+然而，也因为425上访，法轮功学员展现的平和理性，获得国际高度评价，台湾学员从此快速增加到几十万人，法轮功还洪传到上百个国家。
+
+新唐人亚太电视陈辉模、张东旭台湾台北报导
+
+<tbody> 
+ <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
+<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
+</tr>	
+</tbody> 
+
+<hr>
+
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_7-ok.jpg?raw=true" width=750></td>
 </tr>  </div> 
