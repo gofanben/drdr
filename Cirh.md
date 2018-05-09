@@ -5,7 +5,7 @@
 </div>
 </tr>
 
-<td><h1><a href='https://git.io/duun'> 重要连结~</a><h1></td>
+<td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a><h1></td>
   
 <h1 align="center"><b>明慧专题：“四•二五”上访真相</b></h1>
 
