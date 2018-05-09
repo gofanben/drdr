@@ -35,8 +35,9 @@
 新唐人亚太电视陈辉模、张东旭台湾台北报导
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+
+<td><h2><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h2></td></td> 
+
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -128,15 +129,14 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
- <h1 align="center"><a href='https://git.io/duun'> 重要连结~</a><h1>
+ <h1 align="center"><a href='https://git.io/duun'> 点击连结~看更多~</a><h1>
   
    <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee5.jpg?raw=true" width=850></td>
 </tr>  </div> 
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h2></td></td> 
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -257,8 +257,7 @@
 </tr>  </div> 
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h2></td></td> 
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -325,8 +324,7 @@
 </tbody> 
 
 <tbody> 
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h2></td></td> 
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	
 </tbody> 
@@ -412,13 +410,12 @@
 
 <tbody> 
 <tr>	
- <td><h2><a href='http://qq.leucas.men/10/'>我要三退</a></h2></td>
-<td><h2><a href='http://qq.leucas.men/10'>大纪元网站自己退</a></h2></td>
+<td><h2><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h2></td></td> 
 <td><h2><a href='https://git.io/duun'>或給QQ:908728809 发短信</a></h2></td>
 </tr>	 
 </tbody> 
 
-
+ <h1 align="center"><a href='https://git.io/duun'> 点击连结~看更多~</a><h1>
 
 
 
