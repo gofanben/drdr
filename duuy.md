@@ -48,6 +48,6 @@
 <p></p>
 
   <tr>
-<td><h1><a href='https://git.io/jpy'>请透过翻墙 自己到大纪元网站三退</a><h1></td></td> 
+<td><h1><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h1></td></td> 
 </tr>
 
