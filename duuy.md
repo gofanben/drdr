@@ -33,7 +33,7 @@
 <p></p>
 
   <tr>
-<td><h1><a href='https://git.io/jpy'>透过翻墙 大纪元网站自己退</a><h1></td></td> 
+<td><h1><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a><h1></td></td> 
 </tr>
 
 <p></p>
