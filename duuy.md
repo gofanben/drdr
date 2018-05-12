@@ -42,6 +42,9 @@
 <td><h1><a href='https://github.com/dfchunsring/wer/blob/master/jzmqr.md'>江泽民其人</a></h1></td></br>
 
 <p></p>
+<td><h1><a href='https://git.io/czz'>《真实的江泽民》</a></h1></td></br>
+
+<p></p>
 <div align="center"><h1>与你的生命有关 三千年一开的佛国圣花</h1> </div></br>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/ytdbcf0312436.jpg?raw=true" width=880></a><br></div>
