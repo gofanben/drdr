@@ -32,6 +32,9 @@
 <td><h1><a href='https://git.io/3w'>为什么要"三退"?</a><h1></td></td> 
 <p></p>
 
+  <tr>
+<td><h1><a href='https://git.io/jpy'>透过翻墙 大纪元网站自己退</a><h1></td></td> 
+</tr>
 
 <p></p>
 <td><h1> <a href='https://git.io/Cich'>“四•二五”上访真相</a></h1></td></br>
@@ -53,7 +56,5 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/ytdbcf0312436.jpg?raw=true" width=880></a><br></div>
 <p></p>
 
-  <tr>
-<td><h1><a href='https://git.io/jpy'>请透过翻墙 大纪元网站自己退</a><h1></td></td> 
-</tr>
+
 
