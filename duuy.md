@@ -48,8 +48,8 @@
 <td><h1><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a><h1></td></td> 
 
 <p></p>
-<div align="center"><h1>每一個真相都与你的生命攸关</h1> </div></br>
 
+ <td><h1><a href='https://git.io/hur'>每一個真相都与你的生命攸关~</a></h1> </td>
 
 
 
