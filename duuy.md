@@ -49,7 +49,7 @@
 
 <p></p>
 
- <td><h1><a href='https://git.io/hur'>每一個真相都与你的生命攸关~</a></h1> </td>
+ <td><h1><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h1> </td>
 
 
 
