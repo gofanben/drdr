@@ -13,7 +13,7 @@
 
  <h1 align="center"><td><a href="https://github.com/sodore/dsds/blob/master/yaya.md">法轮大法好在哪里?点进去看就知道了!</a></td></h1><p></p>
  
- <td><h1><a href='https://git.io/zb'>了解更多真相~有福报~</a></h1> </td>
+ <td><h1><a href='https://git.io/zb'>了解真相有福报~看更多</a></h1> </td>
  
 <p></p>
 
