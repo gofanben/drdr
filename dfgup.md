@@ -1,8 +1,7 @@
-<tbody> 
-
-<div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/3ee-3.png?raw=true" width=800></td>
-</tr>  </div> 
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0421.jpg?raw=true" width=880></a><br></div>
+</table>
 
  <div align="center"><tr>
  <td><h1><a href='https://goo.gl/fBK7Zx'>425上访19周年 台湾法轮功反迫害游行.mp4</a></h1></td>
