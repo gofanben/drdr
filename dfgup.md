@@ -15,8 +15,30 @@
 
 <h3>祝贺三亿人重获尊严与新生</h3>
 <div align="center">  <tr>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-8.jpg?raw=true" width=800></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-8.jpg?raw=true" width=600></td>
 </tr> <br>悉尼退党服务中心发言人李元华（左）祝贺三亿同胞重获新生。（安平雅／大纪元） </div> 
+
+悉尼退党服务中心发言人李元华表示，三亿中国人与邪党决裂，庄严宣告心灵自由，祝贺他们摆脱邪恶枷锁，重获尊严与新生。
+
+李元华介绍，2004年《九评》发表后，触发了中国民众退出中共及其相关组织的和平自我精神觉醒的“退党大潮”。这场被称为“三退”（退党、团、队）的运动将中国人的精神从中共控制下解放出来，对恢复传统文化，回归人的本性，重建人与神的联系起到不可估量的作用。
+
+李元华表示，“三退”人数达到一亿，经历了6年8个月；从1亿人到2亿人用 了3年8个月；从2亿人到3亿人，只用了2年10个月。可见，大陆人心普遍觉醒，中国人抛弃中共的速度越来越快，2017年平均每天的三退人数约9万人。可以预见的是，世上最大的共产专制政权会随着三退大潮土崩瓦解。
+
+<h3>证据表明中共活摘罪行仍在发生</h3>
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-9.jpg?raw=true" width=600></td>
+</tr> <br>Parramatta市市长威尔森（Andrew Wilson）在发言中表示，希望有更多像法轮功学员的人站在这里发声。（安平雅／大纪元） </div> 
+Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这里讲话时，我希望有更多像你们这样的人能够站出来为正确的事情发声。” 他表示，他最初听到法轮大法学员的遭遇时感到震惊，现在从Youtube上就可以找到关于（大陆）医生说他们一周内就可以提供法轮功学员器官的录音证据。我一开始很难相信，因为这种事情绝对不会在澳洲发生，但是现在层出不穷的证据表明这件事在中国还在进行。
+
+他表示，希望悉尼在不断发展的同时也能成为一个注重道德的城市。一个尊重自己历史、自己传统的城市，一个支持世界上最基本人权的城市。同时，他告诉人们中共的狡猾与残暴，让人们放弃对中共的幻想。
+
+<h3>今天是值得纪念的日子</h3>
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-10.jpg?raw=true" width=600></td>
+</tr> <br>Parramatta市市长威尔森（Andrew Wilson）在发言中表示，希望有更多像法轮功学员的人站在这里发声。（安平雅／大纪元） </div> 
+
+
+
 
 
 
