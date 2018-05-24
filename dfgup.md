@@ -4,6 +4,26 @@
 </table>
 
  <div align="center"><tr>
+ <td><h1><a href='http://www.epochtimes.com/gb/'>悉尼民众集会 庆祝三亿中国人三退获新生</a></h1></td>
+</tr> </div> 
+
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-7.jpg?raw=true" width=800></td>
+</tr>  </div> 
+
+【大纪元2018年04月22日讯】秋季的悉尼气候宜人。4月21日，悉尼天国乐团在市中心的海德公园奏响了雄浑的鼓乐，悉尼各界汇聚于此参加“声援三亿勇士退出中共党团队”的庆祝集会，吸引了很多过往市民及游客驻足观看。十余位嘉宾分享了他们对“三退”大潮这一精神运动的赞赏和支持。
+
+<h3>祝贺三亿人重获尊严与新生</h3>
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-8.jpg?raw=true" width=800></td>
+</tr> 悉尼退党服务中心发言人李元华（左）祝贺三亿同胞重获新生。（安平雅／大纪元） </div> 
+
+
+
+
+
+
+ <div align="center"><tr>
  <td><h1><a href='https://goo.gl/fBK7Zx'>425上访19周年 台湾法轮功反迫害游行.mp4</a></h1></td>
 </tr> </div> 
 
