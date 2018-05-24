@@ -16,7 +16,7 @@
 <h3>祝贺三亿人重获尊严与新生</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-8.jpg?raw=true" width=800></td>
-</tr> 悉尼退党服务中心发言人李元华（左）祝贺三亿同胞重获新生。（安平雅／大纪元） </div> 
+</tr> <br>悉尼退党服务中心发言人李元华（左）祝贺三亿同胞重获新生。（安平雅／大纪元） </div> 
 
 
 
