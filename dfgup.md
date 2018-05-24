@@ -17,7 +17,7 @@
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-8.jpg?raw=true" width=650></td>
 </tr> <br>悉尼退党服务中心发言人李元华（左）祝贺三亿同胞重获新生。（安平雅／大纪元） </div> 
-
+<br>
 悉尼退党服务中心发言人李元华表示，三亿中国人与邪党决裂，庄严宣告心灵自由，祝贺他们摆脱邪恶枷锁，重获尊严与新生。
 
 李元华介绍，2004年《九评》发表后，触发了中国民众退出中共及其相关组织的和平自我精神觉醒的“退党大潮”。这场被称为“三退”（退党、团、队）的运动将中国人的精神从中共控制下解放出来，对恢复传统文化，回归人的本性，重建人与神的联系起到不可估量的作用。
@@ -27,7 +27,7 @@
 <h3>证据表明中共活摘罪行仍在发生</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-9.jpg?raw=true" width=650></td>
-</tr> <br>Parramatta市市长威尔森（Andrew Wilson）在发言中表示，希望有更多像法轮功学员的人站在这里发声。（安平雅／大纪元） </div> 
+</tr> <br>Parramatta市市长威尔森（Andrew Wilson）在发言中表示，希望有更多像法轮功学员的人站在这里发声。（安平雅／大纪元） </div> <br>
 Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这里讲话时，我希望有更多像你们这样的人能够站出来为正确的事情发声。” 他表示，他最初听到法轮大法学员的遭遇时感到震惊，现在从Youtube上就可以找到关于（大陆）医生说他们一周内就可以提供法轮功学员器官的录音证据。我一开始很难相信，因为这种事情绝对不会在澳洲发生，但是现在层出不穷的证据表明这件事在中国还在进行。
 
 他表示，希望悉尼在不断发展的同时也能成为一个注重道德的城市。一个尊重自己历史、自己传统的城市，一个支持世界上最基本人权的城市。同时，他告诉人们中共的狡猾与残暴，让人们放弃对中共的幻想。
@@ -35,7 +35,7 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>今天是值得纪念的日子</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-10.jpg?raw=true" width=650></td>
-</tr> <br>澳洲传统价值家庭守护联盟的Paul Folley表示会一直与法轮功学员站在一起。（安平雅／大纪元） </div> 
+</tr> <br>澳洲传统价值家庭守护联盟的Paul Folley表示会一直与法轮功学员站在一起。（安平雅／大纪元） </div> <br>
 
 澳洲传统价值家庭守护联盟的（Paul Folley）表示，“今天是个特殊的，值得我们纪念的日子，因为我相信这是中共垮台的开始。这个邪恶的流氓黑社会，伴随着屠杀，一定会被世界清算。中国，这个经历太多共产党摧残的国家一定会重获自由，展翅高飞，成为强国。这是我愿意看到的。我代表全世界25个国家的传统价值家庭守护联盟送上我们最真挚的祝福，我也想告诉你们，很多澳洲人和你们站在一起，全世界很多人都和你们站在一起。我们支持你们，帮助你们。”
 
@@ -44,19 +44,19 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>三退的人勇气可嘉</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-11.jpg?raw=true" width=650></td>
-</tr> <br>越南社区总秘书Thuy Dinh Tran说中共不等于中国，越共也不等于越南。（安平雅／大纪元） </div> 
+</tr> <br>越南社区总秘书Thuy Dinh Tran说中共不等于中国，越共也不等于越南。（安平雅／大纪元） </div> <br>
 越南社区总秘书Thuy Dinh Tran说：“首先我想祝贺三亿人选择退出中共，他们的勇气可嘉，光明的内心值得赞赏。我听到了许多信仰真善忍、做好人的人被谋杀，这些好人应该被社会尊重、鼓励，这样的国家才能释放人性的光辉。我们怎能容忍一个邪恶的政权借着经济发展的幌子在迫害著这些好人。中共不等于中国，越共也不等于越南。”你也许看到越南人抗议中国的游行，我希望你们明白，我们和中国人站在一起，我们抗议的是邪恶的中共政权。
 
 <h3>真正的强大是以德治国</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-12.jpg?raw=true" width=650></td>
-</tr> <br>澳洲西藏委员会委员Kyinzom Dhuongdue表示真正的强大是以德治国，而不仅仅是经济、军事强大。（安平雅／大纪元）</div> 
+</tr> <br>澳洲西藏委员会委员Kyinzom Dhuongdue表示真正的强大是以德治国，而不仅仅是经济、军事强大。（安平雅／大纪元）</div> <br>
 澳洲西藏委员会委员Kyinzom Dhuongdue表示，中共篡政一年后就开始了对西藏的侵入，并且今天仍在持续。70年来，藏人一直受到中共的镇压。“澳洲接收了很多藏族人，这些人中，有些在中共监狱被关押了20年，仅仅因为抗议中共对藏人的迫害。当今世界都在讨论中共如何强大，我们应该停止这个话题，因为真正的强大是以德治国，而不仅仅是经济、军事强大。一个强大的国家，怎么可能自己的公民连基本人权都没有，连新鲜的空气都呼吸不到？”
 
 <h3>我们都应支持中国人</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-13.jpg?raw=true" width=650></td>
-</tr> <br>人权活动家维尼康博（Bob Vinnicombe）表示解体中共的唯一办法就是让人们抛弃中共。（安平雅／大纪元）</div> 
+</tr> <br>人权活动家维尼康博（Bob Vinnicombe）表示解体中共的唯一办法就是让人们抛弃中共。（安平雅／大纪元）</div> <br>
 中国信息网站编辑，人权活动家维尼康博（Bob Vinnicombe）说：“今天在这里我们庆祝三亿人抛弃了中共，因为这三亿人为自己选择了新生、真相与自由，每年都有这样的庆祝活动。”
 
 他指责中共藉西方的贸易自由趁虚而入，中共大撒金钱购买西方资源，从而获得对西方国家的巨大政治影响力，使得西方对中国的人权迫害视而不见。他还提到正在悉尼进行的人体展可以合理推论是来源是良心犯，大多数是可能是法轮功学员。
@@ -66,7 +66,7 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>三退是伟大的救赎工程</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-14.jpg?raw=true" width=650></td>
-</tr> <br>原大陆退役军官胡伟表示三退运动是一个伟大的救赎工程，是对人的心理与思想的一次救赎。（安平雅／大纪元）</div> 
+</tr> <br>原大陆退役军官胡伟表示三退运动是一个伟大的救赎工程，是对人的心理与思想的一次救赎。（安平雅／大纪元）</div> <br>
 原大陆退役军官胡伟表示，这是一次很重要的集会。三亿人退出中共党团队，获得了心灵的自由与解放。也标志着中共走到了历史的尽头，即将崩溃与解体。
 
 “三退运动是一个伟大的救赎工程，是对人的心理与思想的一次救赎，我们摆脱了中共的控制与恐惧，回归一个自由人的身份，这非常不易，特别是在大陆的同胞。” 他呼吁所有中国人都能保持正义与良知，都能站起来。
@@ -80,13 +80,13 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>三退是伟大历史丰碑</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-16.jpg?raw=true" width=650></td>
-</tr> <br>华人社区领袖何威廉表示，三亿人退出中共党团队，是一个伟大的历史丰碑。（安平雅／大纪元）</div> 
+</tr> <br>华人社区领袖何威廉表示，三亿人退出中共党团队，是一个伟大的历史丰碑。（安平雅／大纪元）</div> <br>
 悉尼华人社区领袖、出身太极世家的何威廉说：“三亿人退出中共党团队，是一个伟大的历史丰碑，是一个重要阶段，已经有越来越多的中国人认清中共的邪恶本质，以及中共给中国人民带来的深重灾难。全民精神觉醒运动已经到了关键的历史阶段，越来越多的中国人认识到没有共产党才有新中国。”他还讲述了自己及家庭曾经遭受的迫害。
 
 <h3>海外处处遇三退义工 作家向法轮功学员致敬</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-17.jpg?raw=true" width=650></td>
-</tr> <br>作家孙宝强表示非常感谢法轮功学员的默默付出。（安平雅／大纪元）</div> 
+</tr> <br>作家孙宝强表示非常感谢法轮功学员的默默付出。（安平雅／大纪元）</div> <br>
 作家孙宝强说：“自己去海外旅游时，无论是在芬兰偏僻的小镇还是在台湾的日月潭，都能看到这些义工默默的做着伟大的事。在此，我向法轮功学员表示我深深的敬意。”
 
 她表示，当人们站出来退党、退团及退队时，说明这个民族有了希望。三亿人退出中共及其组织，说明它的谎言已不再奏效。我感谢那些默默无闻劝三退的义工，他们十多年来一直坚持，甚至是冒着生命危险。
@@ -94,41 +94,41 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>三亿人三退是伟大创举</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-18.jpg?raw=true" width=650></td>
-</tr> <br>人权活动人士张先生表示，三亿中国人退出共匪的邪教组织，这是法轮功的一个伟大创举。（安平雅／大纪元）</div> 
+</tr> <br>人权活动人士张先生表示，三亿中国人退出共匪的邪教组织，这是法轮功的一个伟大创举。（安平雅／大纪元）</div> <br>
 澳洲之声的人权活动人士张先生说：“三亿中国人退出了共匪的邪教组织，这是法轮功的一个伟大创举。”他觉得今天参加这个活动非常有必要也非常有意义。最后他希望当日在场的人能向自己的邻居、好友及国内的亲人讲明真相，让更多中共人早日摆脱共匪的邪教控制。
 
 <h3>读九评了解真相 劝身边人脱离中共</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-19.jpg?raw=true" width=650></td>
-</tr> <br>天主教天津地下教会的高女士劝人们赶紧脱离中共。（安平雅／大纪元）</div> 
+</tr> <br>天主教天津地下教会的高女士劝人们赶紧脱离中共。（安平雅／大纪元）</div> <br>
 天主教天津地下教会的高女士表示，对法轮功遭受的迫害感同身受，但令人鼓舞的是，越来越多的人通过法轮功学员讲述真相了解了中共的邪恶与真面目。
 
 她说，“我本人就是看《大纪元》、《九评》知道了中共有多邪恶——活摘法轮功学员器官的魔鬼行径，让我更相信了中共是天理不容的邪恶组织。我就劝说身边的人赶紧脱离中共，为自己的祖孙后代积福积德，总有一天，我们会把这个邪恶的魔鬼赶回地狱去，正义与真理永存。”
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-20.jpg?raw=true" width=650></td>
-</tr> <br>三退义工赵女士分享了她在三退中的感人故事。（安平雅／大纪元）</div> 
+</tr> <br>三退义工赵女士分享了她在三退中的感人故事。（安平雅／大纪元）</div> <br>
 悉尼三退义工赵女士分享了她十多年在工作之余去景点做三退的心路，以及让她难忘的感人故事。
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-21.jpg?raw=true" width=650></td>
-</tr> <br>法轮大法佛学会的John Deller鼓励人们了解真相。（安平雅／大纪元）</div> 
+</tr> <br>法轮大法佛学会的John Deller鼓励人们了解真相。（安平雅／大纪元）</div> <br>
 法轮大法佛学会的代表John Deller介绍了法轮功的传出，并解释了很多人对于三退数字的疑问。他表示，大陆及海内外的中国人退出中共及其组织是非常重大的事件，并鼓励路过的人拿份单张了解一下。
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-22.jpg?raw=true" width=650></td>
-</tr> <br>路人在向法轮功学员了解真相。（安平雅／大纪元）</div> 
+</tr> <br>路人在向法轮功学员了解真相。（安平雅／大纪元）</div> <br>
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-23.jpg?raw=true" width=650></td>
-</tr> <br>接过真相资料后的一家人露出喜悦表情。（安平雅／大纪元）</div> 
+</tr> <br>接过真相资料后的一家人露出喜悦表情。（安平雅／大纪元）</div> <br>
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-23.jpg?raw=true" width=650></td>
 </tr> <br>从布里斯班来的Anna Schroder（左）和Kylie Grant表示，知道中共活摘法轮功学员器官的罪行，她们会一直支持法轮功学员。（安平雅／大纪元）</div> 
 责任编辑：宗敏清
 
-
+<hr>
  <div align="center"><tr>
  <td><h1><a href='https://goo.gl/fBK7Zx'>425上访19周年 台湾法轮功反迫害游行.mp4</a></h1></td>
 </tr> </div> 
