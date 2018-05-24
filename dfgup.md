@@ -116,6 +116,7 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-21.jpg?raw=true" width=650></td>
 </tr> <br>法轮大法佛学会的John Deller鼓励人们了解真相。（安平雅／大纪元）</div> <br>
 法轮大法佛学会的代表John Deller介绍了法轮功的传出，并解释了很多人对于三退数字的疑问。他表示，大陆及海内外的中国人退出中共及其组织是非常重大的事件，并鼓励路过的人拿份单张了解一下。
+<br><p></p>
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-22.jpg?raw=true" width=650></td>
