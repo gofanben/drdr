@@ -10,7 +10,7 @@
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-7.jpg?raw=true" width=800></td>
 </tr>  </div> 
-
+<br>
 【大纪元2018年04月22日讯】秋季的悉尼气候宜人。4月21日，悉尼天国乐团在市中心的海德公园奏响了雄浑的鼓乐，悉尼各界汇聚于此参加“声援三亿勇士退出中共党团队”的庆祝集会，吸引了很多过往市民及游客驻足观看。十余位嘉宾分享了他们对“三退”大潮这一精神运动的赞赏和支持。
 
 <h3>祝贺三亿人重获尊严与新生</h3>
@@ -74,7 +74,7 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <h3>每个人都向身边人揭露中共</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-15.jpg?raw=true" width=650></td>
-</tr> <br>民主阵线悉尼分部副主席张焱在集会上表示，三退运动卓有成效。（安平雅／大纪元）</div> 
+</tr> <br>民主阵线悉尼分部副主席张焱在集会上表示，三退运动卓有成效。（安平雅／大纪元）</div> <br>
 民主阵线悉尼分部副主席张焱在集会上表示，三亿人退出中共党团队说明三退运动卓有成效。中共党文化洗脑以及邪恶的无神论教育，让曾经的礼仪之邦沦为当今的黄祸。她建议每个人都向身边的人揭露中共魔鬼的真面目。她最后向中共体制内的人喊话，勿追随中共作恶，找法轮功学员三退。
 
 <h3>三退是伟大历史丰碑</h3>
@@ -109,7 +109,7 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-20.jpg?raw=true" width=650></td>
 </tr> <br>三退义工赵女士分享了她在三退中的感人故事。（安平雅／大纪元）</div> <br>
 悉尼三退义工赵女士分享了她十多年在工作之余去景点做三退的心路，以及让她难忘的感人故事。
-
+<br>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-21.jpg?raw=true" width=650></td>
 </tr> <br>法轮大法佛学会的John Deller鼓励人们了解真相。（安平雅／大纪元）</div> <br>
