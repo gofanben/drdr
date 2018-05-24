@@ -109,7 +109,9 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-20.jpg?raw=true" width=650></td>
 </tr> <br>三退义工赵女士分享了她在三退中的感人故事。（安平雅／大纪元）</div> <br>
 悉尼三退义工赵女士分享了她十多年在工作之余去景点做三退的心路，以及让她难忘的感人故事。
-<br><p></
+<br><p></p>
+
+
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-21.jpg?raw=true" width=650></td>
 </tr> <br>法轮大法佛学会的John Deller鼓励人们了解真相。（安平雅／大纪元）</div> <br>
