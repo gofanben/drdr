@@ -4,8 +4,17 @@
 </table>
 
  <div align="center"><tr>
- <td><h1><a href='http://www.epochtimes.com/gb/'>悉尼民众集会 庆祝三亿中国人三退获新生</a></h1></td>
+ <td><h1><a href='http://www.epochtimes.com/gb/'>全球民众 庆祝三亿中国人三退获新生</a></h1></td>
 </tr> </div> 
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e3t-26.jpg?raw=true" width=800></td>
+</tr>  </div> 
+【大纪元2018年05月12日讯】（大纪元记者卓惠如报导）5月11日上午，美国纽约地区的部分法轮功学员先在联合国公园向李洪志大师祝寿，随后在曼哈顿中城42街举行盛大游行，浩浩荡荡的队伍，吸引大批民众驻足观看和拍照。
+
+
+<div align="center">  <tr>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e3t-1-31.jpg?raw=true" width=800></td>
+</tr>  </div> 
 
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/3t-7.jpg?raw=true" width=800></td>
