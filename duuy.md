@@ -1,17 +1,14 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/gin-0423.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/555-1.jpg?raw=true" width=880></a><br></div>
 </table>
  </br>
 
 </br>
 <p></p>
-<div align="center">
-<a href="https://github.com/3fmd/true/blob/master/01.md"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/w-16-5...png?raw=true" width=880></a><br></div>
-</br>
 
- <h2 align="center"><td><a href="https://github.com/sodore/dsds/blob/master/yaya.md">法轮大法好在哪里?点进去看就知道了!</a></td></h2><p></p>
+ <h2><td><a href="https://git.io/cvs">法轮大法好在哪里?点进去看就知道了!</a></td></h2><p></p>
  
  <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td><p></p>
 
