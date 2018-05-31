@@ -8,7 +8,7 @@
 </br>
 <p></p>
 
- <h2><td><a href="https://git.io/cvs">法轮大法好在哪里?点进去看就知道了!</a></td></h2><p></p>
+ <h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2><p></p>
  
  <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td><p></p>
 
