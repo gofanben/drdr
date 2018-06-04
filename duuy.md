@@ -32,6 +32,8 @@
 
 <td><h2><a href='http://git.io/zb'>为什么要"三退"?及"三退"的重要性~</a><h2></td></td><p></p>
  
+ <td><h2><a href='https://git.io/3th'>“三退”才能上“方舟”</a><h2></td></td><p></p>
+ 
 <td><h2><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a><h2></td></td><p></p>
 
  <td><h2><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h2></td>
