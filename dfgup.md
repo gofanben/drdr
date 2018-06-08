@@ -7,7 +7,8 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e3t-1.jpg?raw=true" width=800></td>
 </tr>  </div> 
 <br>
-<a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
+
+ <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 【大纪元2018年05月07日讯】（大纪元记者周鑫澳洲珀斯报导）共产党的倒行逆施激起天怒人怨，海内外华人加速退出中共党、团、队组织，全球“三退”人数在3月底突破三亿。全球各地有数不清的义工帮助中国人“三退”。在澳大利亚西澳州首府珀斯，也有一群常年奉献的义工。他们讲述的“三退”故事让人感叹生命在善念中的正确选择。
 
