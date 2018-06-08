@@ -4,6 +4,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img1/555-1.jpg?raw=true" width=880></a><br></div>
 
+<a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/p8711531a681780116.jpg?raw=true" width=880></a><br></div>
 
