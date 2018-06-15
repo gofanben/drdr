@@ -6,13 +6,13 @@
  </br>
 
 </br>
-<p></p>
 
- <h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2><p></p>
+
+ <h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2></br>
  
- <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td><p></p>
+ <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td></br>
 
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2></td><p></p>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2></td></br>
 
 <td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a><h2></td></td><p></p>
  
