@@ -4,10 +4,10 @@
 </table>
 
 <h1 align="center">三退大潮二〇一八年综合报告（ㄧ）</h1>
-
+<h3 align="center">全球退党服务中心</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3te0.jpg?raw=true" width=800></td>
-</tr> 图为2018年4月7日，旧金山游行庆祝三亿人三退。（周容／大纪元）  </div> 
+</tr><br> 图为2018年4月7日，旧金山游行庆祝三亿人三退。（周容／大纪元）  </div> 
 <br>
 
  <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
