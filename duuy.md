@@ -27,6 +27,8 @@
 
 <td><h2><a href='https://git.io/ssss2'>世纪(伪案)大骗局</a></h2></td><p></p>
 
+<td><h2><a href='https://github.com/sodore/dsds/blob/master/rewuo.md'>【这个星球上前所未有的邪恶】</a></h2></td><p></p>
+
 <td><h2><a href='https://git.io/ming2'>真相驿站 国内看不到的</a></h2></td><p></p>
 
 <td><h2><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人"三退"</a><h2></td></td> <p></p>
