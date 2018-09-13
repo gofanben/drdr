@@ -29,7 +29,7 @@
 
 <td><h3><a href='https://git.io/tr'>【这个星球上前所未有的邪恶】</a></h3></td><p>
  
-<td><h3><a href='https://git.io/zxtk1'> 解开你的迷思>>澄清谎言与疑问</a></h3></td><p>
+<td><h3><a href='https://git.io/zxtk1'> 澄清谎言与疑问>>解开你的迷津</a></h3></td><p>
 
 <td><h3><a href='https://git.io/ming2'>真相驿站 国内看不到的</a></h3></td><p>
 
