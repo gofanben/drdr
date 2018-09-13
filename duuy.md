@@ -5,13 +5,13 @@
 </table>
  </br>
 
- <h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2></b>
+ <h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2><p>
  
- <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td></b>
+ <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2> </td><p>
 
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2></td></b>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h2></td><p>
 
-<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h2></td></td></b>
+<td><h2><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h2></td></td><p>
  
 <td><h2><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h2></td></td></b>
  
