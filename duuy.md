@@ -39,6 +39,8 @@
  
  <td><h3><a href='https://git.io/3th'>“三退”才能上“方舟”</a><h3></td></td><p>
  
+<td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a><h3></td></td><p>
+ 
 <td><h2><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a><h3></td></td><p>
 
  <td><h3><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h2></td><p>
