@@ -1,3 +1,8 @@
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br></div>
+</table>
+
 <h1 align="center"><b>江泽民为何要迫害法轮功？</b></h1>
 
 <table border="0" cellspacing="3" cellpadding="3">
