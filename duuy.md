@@ -4,6 +4,8 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=750></a><br><h3>必看 精彩视频   请直接点击 http://61.228.117.11</h3></div>
 </table>
  </br>
+   <div align=center>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=750></td></div>
 <table>
 <tr> <h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
  
