@@ -5,7 +5,7 @@
 </table>
  </br>
    <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=750></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
 <table>
 <tr> <h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
  
