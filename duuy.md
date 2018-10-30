@@ -8,7 +8,7 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
 
 <table>
- <tr><h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
+ <tr><h2><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h2><p>
  
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td><p></tr> 
 
@@ -16,7 +16,7 @@
 
 <td><h3><a href='https://github.com/dfchunsring/wer/blob/master/phpn.md'>火狐,Chrome浏览器~免费下载~下载浏览器~请先翻墙~</a></h3></td></td><p></tr>
  
-<tr><td><h3><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a><h3></td></td><p>
+<tr><td><h3><a href='https://git.io/orhb'>阅读率最高的epub电子书~免费下载</a></h3></td></td><p>
  
 <td><h3> <a href='https://github.com/dfchunsring/yue/blob/master/uty.md'>《九评》编辑部：《共产主义的终极目的》</a></h3></td><p></tr>
 
@@ -36,17 +36,17 @@
 
 <td><h3><a href='https://git.io/ming2'>真相驿站 国内看不到的</a></h3></td><p></tr>
 
-<tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人"三退"</a><h3></td></td> <p>
+<tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人"三退"</a></h3></td></td> <p>
 
-<td><h3><a href='http://git.io/zb'>为什么要"三退"?及"三退"的重要性~</a><h3></td></td><p></tr>
+<td><h3><a href='http://git.io/zb'>为什么要"三退"?及"三退"的重要性~</a></h3></td></td><p></tr>
  
-<tr> <td><h3><a href='https://git.io/3th'>“三退”才能上“方舟”</a><h3></td></td><p>
+<tr> <td><h3><a href='https://git.io/3th'>“三退”才能上“方舟”</a></h3></td></td><p>
  
-<td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a><h3></td></td><p></tr>
+<td><h3><a href='https://git.io/3e-t3'> 每一位中国人必须面临的选择 </a></h3></td></td><p></tr>
  
-<tr><td><h2><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a><h3></td></td><p>
+<tr><td><h3><a href='https://git.io/jpy'>可以透过翻墙 大纪元网站自己退</a></h3></td></td><p>
 
- <td><h3><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h2></td><p></tr>
+ <td><h3><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h3></td><p></tr>
 
 </table>
 
