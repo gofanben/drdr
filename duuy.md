@@ -11,7 +11,7 @@
  <tr>
  <td><h2><a href="https://git.io/cvs">法轮大法洪传世界</a></h2></td><p>
  
- <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3></td><p></tr> 
+ <td><h2><a href='https://git.io/zb'>了解真相有福报~看更多</a></h2></td><p></tr> 
 
 <tr><td><h3><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>【突破封锁看世界】~翻墙软件*免费下载*</a></h3></td><p>
 
