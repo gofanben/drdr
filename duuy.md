@@ -1,13 +1,14 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=850></a><br><h3>必看 精彩视频   请直接点击 http://220.141.119.145</h3></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/513-1.jpg?raw=true" width=850></a><br><h3>必看 精彩视频   请直接点击 http://61.228.117.175</h3></div>
 </table>
  </br>
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
+
 <table>
-<tr> <h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
+ <tr><h3><td><a href="https://git.io/cvs">法轮大法洪传世界</a></td></h3><p>
  
  <td><h3><a href='https://git.io/zb'>了解真相有福报~看更多</a></h3> </td><p></tr> 
 
