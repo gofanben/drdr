@@ -51,6 +51,8 @@
 
 </table>
 
+<div align="center"> <td><h3><a href='https://git.io/Ju2'>千古奇冤</a></h3></td><p>
+ </div>
  </br>
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
