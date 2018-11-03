@@ -51,7 +51,7 @@
 
 </table>
 
-<div align="center"> <td><h3><a href='https://git.io/Ju2'>千古奇冤</a></h3></td><p>
+<div align="center"> <td><h1><a href='https://git.io/Ju2'>千  古  奇  冤</a></h1></td><p>
  </div>
  </br>
    <div align=center>
