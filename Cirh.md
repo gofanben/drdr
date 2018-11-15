@@ -1,11 +1,14 @@
-
+<table>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/3-9.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://36.227.102.73</h3></div>
+</table>
 
   <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/a-1.jpg?raw=true" width=700></td>
 </div>
 </tr>
 
-<td><h1><a href='https://git.io/duun'> 点击连结~看更多~</a><h1></td>
+<td><h1><a href='https://git.io/duun'>请点击连结~你要的都在这儿~</a><h1></td>
   
 <h1 align="center"><b>明慧专题：“四•二五”上访真相</b></h1>
 
