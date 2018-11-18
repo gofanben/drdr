@@ -49,10 +49,13 @@
 
  <td><h3><a href='https://git.io/hur'>每一个真相都与你的生命攸关~</a></h3></td><p></tr>
 
+<tr> <td><h3><a href='https://git.io/Ju2'>千  古  奇  冤</a></h3></td><p>
+ 
+  <td><h3><a href='https://git.io/Sing'>反迫害19年 磨难中铸就辉煌</a></h3></td><p>
+</tr>
+
 </table>
 
-<div align="center"> <td><h1><a href='https://git.io/Ju2'>千  古  奇  冤</a></h1></td><p>
- </div>
  </br>
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
