@@ -9,7 +9,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/sy-1.jpg?raw=true" width=880></a><br></div>
 
-<div align="center"><h3>感恩節期間，新唐人電視台將獨家播出「神韻藝術團交響樂團2016年音樂會」。 (新唐人網站)</h3> </div></br>
+<div align="center"><h3>感恩节期间，新唐人电视台将独家播出“神韵艺术团交响乐团2016年音乐会”。 (新唐人网站)</h3> </div></br>
 
 <div align="center"><h2>*“神韵交响乐”回放时间*公布*,请勿再错过,再错过可能要再等一年。*</h2> </div></br>
 
