@@ -89,6 +89,16 @@
 </table>
 
 <table>
+<tr>
+<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true' width=400>新唐人安卓版 iNTD TV （Version: 2.1.13）</a></td>
+</tr>	
+	
+<tr>
+<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true' width=400>爱博电视PC版 (iPPOTV)</a></td>
+</tr>
+</table>
+
+<table>
 <tr> 
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/fg/INTDTV-1.png?raw=true" width=400></td>
 <td>
