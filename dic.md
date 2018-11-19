@@ -87,7 +87,8 @@
 </tr>
 </tr>
 </table>
-<p><p>
+
+<p><p><p><p>
 
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/fg/INTDTV-1.png?raw=true" width=300>
 <td>
@@ -103,7 +104,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 	一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</td>
 
 
-
+<p><p>
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
 
