@@ -89,29 +89,20 @@
 </table>
 
 <table>
-<tr>
-<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true'>新唐人安卓版 iNTD TV （Version: 2.1.13）</a></td>
-</tr>	
-	
-<tr>
-<td><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视PC版 (iPPOTV)</a></td>
-</tr>
-</table>
-
-<table>
 <tr> 
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/fg/INTDTV-1.png?raw=true" width=400></td>
 <td>
-<a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true'>新唐人安卓版 iNTD TV （Version: 2.1.13）</a>
+<h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true'>新唐人安卓版 iNTD TV （Version: 2.1.13）</a> </h3><p>
 StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</td>
 </tr>
 
 <tr> 
  <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/fg/IPPOTV944B2-2.png?raw=true" width=400></td>
 <td>
-<a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视PC版 (iPPOTV)</a>	
+	
 <h3>爱博电视 (iPPOTV)</h3><p><p>
-一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</td>
+<h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>爱博电视PC版 (iPPOTV)</a></h3> <p>
+	一款用于实时视频流共享的软件平台，高效稳定的视频传输技术带给用户崭新的视听体验。爱博电视具有突破封锁的得天独厚的优势。</td>
 </tr>
 </table>
 
