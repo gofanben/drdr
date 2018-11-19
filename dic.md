@@ -7,7 +7,7 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/p8711531a681780116.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-yu.jpg?raw=true" width=880></a><br></div>
 
 <div align="center"><h2>【预告】新唐人元宵节播出2017年神韵交响音乐会</h2> </div></br>
 
