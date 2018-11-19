@@ -7,7 +7,7 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-yu.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-yu.jpg?raw=true" width=780></a><br></div>
 
 <div align="center"><h2>【预告】新唐人元宵节播出2017年神韵交响音乐会</h2> </div></br>
 
@@ -23,19 +23,19 @@
 </tr>
 	
 <tr>	
-	<td>2018-3月2日元宵</td>
-	<td>21.30</td>
-	<td>神韵交响乐团2017年演出</td>
+	<td>2018-11月22日感恩節</td>
+	<td>20.00</td>
+	<td>神韵交响乐团2018年演出</td>
 </tr>	
 
 <tr>	
-	<td>2018-3月3日十六</td>
-	<td>08.30</td>
+	<td>2018-11月23日</td>
+	<td>10.30</td>
 	<td>神韵交响乐团2017年演出</td>
 </tr>
 <tr>
-	<td>2018-3月3日十六</td>
-	<td>17.00</td>
+	<td>2018-11月25日</td>
+	<td>10.00</td>
 	<td>神韵交响乐团2017年演出</td>
 </tr>
 </table>
