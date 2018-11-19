@@ -7,13 +7,13 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/2018-yu.jpg?raw=true" width=780></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/sy-1.jpg?raw=true" width=780></a><br></div>
 
-<div align="center"><h2>【预告】新唐人元宵节播出2017年神韵交响音乐会</h2> </div></br>
+<div align="center"><h2>感恩節期間，11月22日（週四）到11月25日（週日），新唐人電視台將獨家播出「神韻藝術團交響樂團2016年音樂會」。 (新唐人網站)</h2> </div></br>
 
 <div align="center"><h2>*“神韵交响乐”回放时间*公布*,请勿再错过,再错过可能要再等一年。*</h2> </div></br>
 
-<h3>【大纪元2018年11月14日讯】感恩节期间，11月22日（周四）到11月25日（周日），“新唐人电视台”将独家播出“2016神韵艺术团交响乐团音乐会”，分别在大陆、美东、美西等频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放。 
+<h3>感恩节期间，11月22日（周四）到11月25日（周日），“新唐人电视台”将独家播出“2016神韵艺术团交响乐团音乐会”，分别在大陆、美东、美西等频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放。 
 
 神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，让您踏上五千年的音乐之旅。
 
