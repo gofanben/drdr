@@ -1,6 +1,6 @@
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/3-9.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://36.227.102.73</h3></div>
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/3-9.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://111.241.88.207</h3></div>
 </table>
 
   <div align=center>
