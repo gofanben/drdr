@@ -130,7 +130,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <p><p>
 
-<div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2>
+<div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2></div>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
@@ -158,7 +158,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <h4><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h4>
 
-<h2>翻墙软件自由门和无界浏览下载。无界一点通最新版下载地址：<p><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
+<h2>翻墙软件自由门'无界浏览。无界一点通最新版下载地址：<p><a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
 
 
 
