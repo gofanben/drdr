@@ -134,11 +134,6 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
-
-<h2>
-<div align="center"><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">看台湾神韵晚会演出场次  请下载epub电子书</a></div></h2>
-	
-<div align="center"><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/gala2018%20(1).epub?raw=true'>新唐人元宵节播出2017年神韵交响音乐会及神韵演出特别报导-epub </a></h2>	
 	
 </table>
 
@@ -146,7 +141,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <br />
 
-<div align="center"><h2>*很抱歉!新年晚会「神韵」,今年元宵节没有回放, 请再等一年。*请收藏  https://git.io/dic 这个网址，取得IP更新资讯，届时再度访问这个页面。</h2> </div></br>
+<div align="center"><h2>请收藏  https://git.io/dic 这个网址，随时再度访问这个页面。</h2> </div></br>
   
 
 <div align="center"><h1>请先下载翻墙软件及爱博电视IPPOTV</h1></div>
