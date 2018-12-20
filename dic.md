@@ -78,7 +78,6 @@
 
 <div align="center"><h1>收看新唐人神韵交响乐团的方法</h1>
 
-[<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/dfchunsring/wer/blob/master/fq/fangqians.epub?raw=true)
 	
 <tr>
 	<td width=490;>收视方法</td>
