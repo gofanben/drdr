@@ -80,7 +80,7 @@
 
 <div align="center"><h1>收看新唐人神韵交响乐团的方法</h1>
 
-	
+<h3>	
 <tr>
 	<td width=490;>收视方法</td>
 	<td width=400;>软件下载</td>
@@ -110,15 +110,15 @@
 	<td><a href='https://github.com/dfchunsring/drdr/blob/master/intdv-installation-teaching/iPPOTV.mp4?raw=true'>爱博桌机板教学 </a>
 </td>
 </tr>
-</tr>
+</h3>
 </table>
 
 <p><p><p><p>
 
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/fg/INTDTV-1.png?raw=true" width=300>
 <td>
-<h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true'>新唐人安卓版 iNTD TV （Version: 2.1.13）</a> </h3><p>
-StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</td>
+<h3><a href='https://github.com/dfchunsring/drdr/blob/master/fg/iNTD_TV2.1.13.apk?raw=true'>新唐人安卓版 iNTD TV （Version: 2.1.13）</a> <p>
+StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版 iNTD TV 可以用于安卓机顶盒，平板电脑，和手机。在安装安卓版 iNTD TV 后，中国大陆用户无需借助翻墙工具，可以直接通过安卓版 iNTD TV 收看新唐人直播或点播节目。</h3></td>
 
 <p><p>
 
