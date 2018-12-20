@@ -152,17 +152,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 </table>
 <table>
 
-<div align="center"><h1><a href="https://github.com/dfchunsring/drdr/blob/master/epub/gala2018.epub?raw=true">2018年观赏完神韵艺术团观众反饋-直接点播</a></h1></div>
-
-
 <br />
-
-<tr>
-	<td width=480;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/syuntitled.epub?raw=true'>2018神韵观众反馈mp4</h2></td>
-	<td width=400;><h2><a href='https://github.com/dfchunsring/drdr/blob/master/epub/untitled2a.epub?raw=true'>2018神韵观众反馈mp4</h2></td>
-</tr>	
-</div>	
-<hr> 
 
 大陆观众请通过翻墙软件自由门或无界浏览观看。还可通过卫星天线接收、爱博电视软件、新唐人安卓版、无界一点通等方式观看。
 
