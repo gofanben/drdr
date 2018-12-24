@@ -1,6 +1,10 @@
 
 <h2><b>今日点击請下载</b></h2>
 
+<td><h3> <a href="https://github.com/dfchunsring/drdr/blob/master/JRDJA-mp4/jr24s.mp4?raw=true" >12-24s.mp4</a><h3> </td>
+<p>
+
+
 <td><h3> <a href="https://github.com/dfchunsring/drdr/blob/master/JRDJA-mp4/JRDJA_s-0918-1s.mp4?raw=true" >09-18-1.mp4</a><h3> </td>
 <p>
 
