@@ -1,6 +1,8 @@
 
 <h2><b>今日点击請下载</b></h2>
 
+抱歉!信箱無法上傳MP4  只好放這裡
+
 <td><h3> <a href="https://github.com/dfchunsring/drdr/blob/master/JRDJA-mp4/jr24s.mp4?raw=true" >12-24s.mp4</a><h3> </td>
 <p>
 
