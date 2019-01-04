@@ -9,7 +9,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/?raw=true" width=880></a><br></div>
 
-<div align="center"><h3>敬请期待下一个档期</h3> </div></br>
+
 
 [ <div align="center"><h2>【突破封锁看“神韵交响乐”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
