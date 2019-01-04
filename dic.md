@@ -7,13 +7,13 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/1-25.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/?raw=true" width=880></a><br></div>
 
-<div align="center"><h3>圣诞及新年期间，《新唐人电视台》将独家播出“2017神韵艺术团交响乐团音乐会”。图为美东播出时间。（新唐人电视台）</h3> </div></br>
+<div align="center"><h3>敬请期待下一个档期</h3> </div></br>
 
 [ <div align="center"><h2>【突破封锁看“神韵交响乐”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
-<div align="center"><h2>*“神韵交响乐”播放时间*公布*,请勿错过,再错过可能要再等一年。*</h2> </div></br>
+<div align="center"><h2>*“神韵交响乐”圣诞及新年期间播放已过,请再等下一个档期。*</h2> </div></br>
 
 <h3>【新唐人2018年12月20日讯】圣诞及新年期间，即12月24日（周一）到1月1日（周二），《新唐人电视台》将独家播出“2017神韵艺术团交响乐团音乐会”，分别在大陆、美东、休斯顿、美西、欧洲等频道播放。同时，新唐人网站（www.ntdtv.com） 首页直播窗口和Roku也同步播放。（在中国大陆需翻墙访问）
 <p><p>
