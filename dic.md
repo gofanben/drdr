@@ -33,14 +33,14 @@
 <div align="center"><h3>
 频道	播出时间（当地时间）<p><p>   大陆	<p>
 <tr>
-	<td width=490;>日期</td>
-	<td width=400;>时间</td>
-	<td width=490;>备注</td>
+	<td width=290;>日期</td>
+	<td width=200;>时间</td>
+	<td width=290;>备注</td>
 </tr>
 <tr>
-	<td width=490;>星期一(除夕)2/4/2019  Mon</td>
-	<td width=400;>20:00</td>
-	<td width=490;>《全球华人新年晚会》(首播)</td>
+	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
+	<td width=200;>20:00</td>
+	<td width=290;>《全球华人新年晚会》(首播)</td>
 </tr>
 <tr>
 	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
@@ -48,15 +48,15 @@
 	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>	
 	<tr>
-	<td width=490;>星期二(初一)2/5/2019  Tue</td>
-	<td width=400;> 8:30</td>
-	<td width=490;>《全球华人新年晚会》(重播)</td>
+	<td width=290;>星期二(初一)2/5/2019  Tue</td>
+	<td width=200;> 8:30</td>
+	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>
 </tr>	
 	<tr>
-	<td width=490;>星期二(初一)2/5/2019  Tue</td>
-	<td width=400;> 14:00</td>
-	<td width=490;>《全球华人新年晚会》(重播)</td>
+	<td width=290;>星期二(初一)2/5/2019  Tue</td>
+	<td width=200;> 14:00</td>
+	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>	</div>
 
 <p>	
@@ -67,45 +67,58 @@
 新唐人亚太台神韵晚会播出时间如下:</h3><p>
 </div>
 	<tr>
-	<td width=490;>日期</td>
-	<td width=400;>时间</td>
-	<td width=490;>备注</td>
+	<td width=290;>日期</td>
+	<td width=200;>时间</td>
+	<td width=290;>备注</td>
 </tr>
 <tr>
-	<td width=490;>星期一(除夕)2/4/2019    Mon</td>
-	<td width=400;>20：00</td>
-	<td width=490;>(神韵晚会)首播</td>
+	<td width=290;>星期一(除夕)2/4/2019    Mon</td>
+	<td width=200;>20：00</td>
+	<td width=290;>(神韵晚会)首播</td>
 </tr>
 <tr>
-	<td width=490;>星期二(初一)2/5/2019    Tue</td>
-	<td width=400;>12：00</td>
-	<td width=490;>(神韵晚会)重播 </td>
+	<td width=290;>星期二(初一)2/5/2019    Tue</td>
+	<td width=200;>12：00</td>
+	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 <tr>
-	<td width=490;>星期二(初一)2/5/2019    Tue</td>
-	<td width=400;>09：00</td>
-	<td width=490;>(神韵晚会)重播 </td>
+	<td width=290;>星期二(初一)2/5/2019    Tue</td>
+	<td width=200;>09：00</td>
+	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 <tr>
-	<td width=490;>星期二(初一)2/5/2019    Tue</td>
-	<td width=400;>15：00</td>
-	<td width=490;>(神韵晚会)重播 </td>
+	<td width=290;>星期二(初一)2/5/2019    Tue</td>
+	<td width=200;>15：00</td>
+	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 </table>
 
 <h3>
 同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
+<table>
 <div align="center"><h3>
-播出时间如下（均为当地时间）：<p>
+播出时间如下（均为当地时间）：<p></h3></div>
 
-2019中国新年期间《2017神韵交响乐团音乐会》播出时间<p>
+<h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间</h2><p>
 
 大陆	<p>
-首播	星期二(初一)	2/5/2019  Tue    20:00<p>
-重播	星期三(初二)	2/6/2019  Wed    10:00<p>
-</h3></div>
-
-
+<tr>
+	<td width=290;>日期</td>
+	<td width=200;>时间</td>
+	<td width=290;>备注</td>
+</tr>	
+<tr>
+	<td width=290;>星期二(初一)	2/5/2019  Tue</td>
+	<td width=200;>20:00</td>
+	<td width=290;>《神韵交响乐团音乐会》首播</td>
+</tr>	
+<tr>
+	<td width=290;>星期三(初二)	2/6/2019  Wed</td>
+	<td width=200;>10:00</td>
+	<td width=290;>《神韵交响乐团音乐会》重播</td>
+</tr>		
+	   
+</table>
 
 <table>
 
