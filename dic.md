@@ -33,30 +33,30 @@
 <div align="center"><h3>
 频道	播出时间（当地时间）<p><p>   大陆	<p>
 <tr>
-	<td width=290;>日期</td>
-	<td width=250;>时间</td>
-	<td width=290;>备注</td>
+	<td width=293;>日期</td>
+	<td width=293;>时间</td>
+	<td width=293;>备注</td>
 </tr>
 <tr>
-	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
-	<td width=250;>20:00</td>
-	<td width=290;>《全球华人新年晚会》(首播)</td>
+	<td width=293;>星期一(除夕)2/4/2019  Mon</td>
+	<td width=293;>20:00</td>
+	<td width=293;>《全球华人新年晚会》(首播)</td>
 </tr>
 <tr>
-	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
-	<td width=250;> 23:00</td>
-	<td width=290;>《全球华人新年晚会》(重播)</td>
+	<td width=293;>星期一(除夕)2/4/2019  Mon</td>
+	<td width=293;> 23:00</td>
+	<td width=293;>《全球华人新年晚会》(重播)</td>
 </tr>	
 	<tr>
-	<td width=290;>星期二(初一)2/5/2019  Tue</td>
-	<td width=250;> 8:30</td>
-	<td width=290;>《全球华人新年晚会》(重播)</td>
+	<td width=293;>星期二(初一)2/5/2019  Tue</td>
+	<td width=293;> 8:30</td>
+	<td width=293;>《全球华人新年晚会》(重播)</td>
 </tr>
 </tr>	
 	<tr>
-	<td width=290;>星期二(初一)2/5/2019  Tue</td>
-	<td width=250;> 14:00</td>
-	<td width=290;>《全球华人新年晚会》(重播)</td>
+	<td width=293;>星期二(初一)2/5/2019  Tue</td>
+	<td width=293;> 14:00</td>
+	<td width=293;>《全球华人新年晚会》(重播)</td>
 </tr>	</div>
 
 <p>	
@@ -67,29 +67,29 @@
 新唐人亚太台神韵晚会播出时间如下:</h3><p>
 </div>
 	<tr>
-	<td width=290;>日期</td>
-	<td width=250;>时间</td>
-	<td width=290;>备注</td>
+	<td width=293;>日期</td>
+	<td width=293;>时间</td>
+	<td width=293;>备注</td>
 </tr>
 <tr>
-	<td width=290;>星期一(除夕)2/4/2019    Mon</td>
-	<td width=250;>20：00</td>
-	<td width=290;>(神韵晚会)首播</td>
+	<td width=293;>星期一(除夕)2/4/2019    Mon</td>
+	<td width=293;>20：00</td>
+	<td width=293;>(神韵晚会)首播</td>
 </tr>
 <tr>
-	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=250;>12：00</td>
-	<td width=290;>(神韵晚会)重播 </td>
+	<td width=293;>星期二(初一)2/5/2019    Tue</td>
+	<td width=293;>12：00</td>
+	<td width=293;>(神韵晚会)重播 </td>
 </tr>
 <tr>
-	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=250;>09：00</td>
-	<td width=290;>(神韵晚会)重播 </td>
+	<td width=293;>星期二(初一)2/5/2019    Tue</td>
+	<td width=293;>09：00</td>
+	<td width=293;>(神韵晚会)重播 </td>
 </tr>
 <tr>
-	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=250;>15：00</td>
-	<td width=290;>(神韵晚会)重播 </td>
+	<td width=293;>星期二(初一)2/5/2019    Tue</td>
+	<td width=293;>15：00</td>
+	<td width=293;>(神韵晚会)重播 </td>
 </tr>
 </table>
 
@@ -103,19 +103,19 @@
 
 大陆	<p></div>
 <tr>
-	<td width=290;>日期</td>
-	<td width=250;>时间</td>
-	<td width=290;>备注</td>
+	<td width=293;>日期</td>
+	<td width=293;>时间</td>
+	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=290;>星期二(初一)	2/5/2019  Tue</td>
-	<td width=250;>20:00</td>
-	<td width=290;>《神韵交响乐团音乐会》首播</td>
+	<td width=293;>星期二(初一)	2/5/2019  Tue</td>
+	<td width=293;>20:00</td>
+	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>	
 <tr>
-	<td width=290;>星期三(初二)	2/6/2019  Wed</td>
-	<td width=250;>10:00</td>
-	<td width=290;>《神韵交响乐团音乐会》重播</td>
+	<td width=293;>星期三(初二)	2/6/2019  Wed</td>
+	<td width=293;>10:00</td>
+	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>		
 	   
 </table>
@@ -131,7 +131,7 @@
 </tr>
 <tr>	
 	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
-	<td><a href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
+	<td><a href='https://git.io/Eph'>播出参数</a></td>
 </tr>	
 	
 <tr>
