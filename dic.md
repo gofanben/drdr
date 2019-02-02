@@ -99,9 +99,9 @@
 <div align="center"><h3>
 播出时间如下（均为当地时间）：<p></h3></div>
 
-<div align="center"><h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间</h2><p>
+<div align="center"><h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间<p>
 
-大陆	<p></div>
+大陆	<p></h2></div>
 <tr>
 	<td width=293;>日期</td>
 	<td width=293;>时间</td>
