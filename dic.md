@@ -34,28 +34,28 @@
 频道	播出时间（当地时间）<p><p>   大陆	<p>
 <tr>
 	<td width=290;>日期</td>
-	<td width=200;>时间</td>
+	<td width=250;>时间</td>
 	<td width=290;>备注</td>
 </tr>
 <tr>
 	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
-	<td width=200;>20:00</td>
+	<td width=250;>20:00</td>
 	<td width=290;>《全球华人新年晚会》(首播)</td>
 </tr>
 <tr>
 	<td width=290;>星期一(除夕)2/4/2019  Mon</td>
-	<td width=200;> 23:00</td>
+	<td width=250;> 23:00</td>
 	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>	
 	<tr>
 	<td width=290;>星期二(初一)2/5/2019  Tue</td>
-	<td width=200;> 8:30</td>
+	<td width=250;> 8:30</td>
 	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>
 </tr>	
 	<tr>
 	<td width=290;>星期二(初一)2/5/2019  Tue</td>
-	<td width=200;> 14:00</td>
+	<td width=250;> 14:00</td>
 	<td width=290;>《全球华人新年晚会》(重播)</td>
 </tr>	</div>
 
@@ -68,27 +68,27 @@
 </div>
 	<tr>
 	<td width=290;>日期</td>
-	<td width=200;>时间</td>
+	<td width=250;>时间</td>
 	<td width=290;>备注</td>
 </tr>
 <tr>
 	<td width=290;>星期一(除夕)2/4/2019    Mon</td>
-	<td width=200;>20：00</td>
+	<td width=250;>20：00</td>
 	<td width=290;>(神韵晚会)首播</td>
 </tr>
 <tr>
 	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=200;>12：00</td>
+	<td width=250;>12：00</td>
 	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 <tr>
 	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=200;>09：00</td>
+	<td width=250;>09：00</td>
 	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 <tr>
 	<td width=290;>星期二(初一)2/5/2019    Tue</td>
-	<td width=200;>15：00</td>
+	<td width=250;>15：00</td>
 	<td width=290;>(神韵晚会)重播 </td>
 </tr>
 </table>
@@ -99,22 +99,22 @@
 <div align="center"><h3>
 播出时间如下（均为当地时间）：<p></h3></div>
 
-<h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间</h2><p>
+<div align="center"><h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间</h2><p>
 
-大陆	<p>
+大陆	<p></div>
 <tr>
 	<td width=290;>日期</td>
-	<td width=200;>时间</td>
+	<td width=250;>时间</td>
 	<td width=290;>备注</td>
 </tr>	
 <tr>
 	<td width=290;>星期二(初一)	2/5/2019  Tue</td>
-	<td width=200;>20:00</td>
+	<td width=250;>20:00</td>
 	<td width=290;>《神韵交响乐团音乐会》首播</td>
 </tr>	
 <tr>
 	<td width=290;>星期三(初二)	2/6/2019  Wed</td>
-	<td width=200;>10:00</td>
+	<td width=250;>10:00</td>
 	<td width=290;>《神韵交响乐团音乐会》重播</td>
 </tr>		
 	   
