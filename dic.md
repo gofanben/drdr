@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://111.241.88.75</h3></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://220.141.120.7</h3></div>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
@@ -131,7 +131,7 @@
 </tr>
 <tr>	
 	<td>1.大陆观众可通过韩星五号的新唐人中国频道收看</td>
-	<td><a href='https://git.io/Eph'>播出参数</a></td>
+	<td><a href='https://git.io/2Ead'>播出参数</a></td>
 </tr>	
 	
 <tr>
