@@ -98,8 +98,12 @@
 </tr>
 </table>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
+
 <h3>
 同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
+
 <table>
 <div align="center"><h3>
 播出时间如下（均为当地时间）：<p></h3></div>
@@ -124,6 +128,9 @@
 </tr>		
 	   
 </table>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
 <table>
 
@@ -181,11 +188,10 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 <p><p>
 
 <div align="center"><h2>特別推薦~  <a href='https://github.com/dfchunsring/drdr/blob/master/fg/Green_iPPOTV.exe?raw=true'>*爱博电视桌机版* </a></h2></div>
+</table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
-	
-</table>
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
 <table>
 
@@ -210,7 +216,8 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <h2>翻墙软件自由门'无界浏览。无界一点通最新版下载地址：<a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
 
-
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
 
 
 
