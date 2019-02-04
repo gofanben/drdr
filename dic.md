@@ -11,7 +11,7 @@
 
 
 
-[ <div align="center"><h2>【突破封锁看“神韵交响乐”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看“全球华人新年晚会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>*【预告】新唐人中国新年期间独家播出2019全球华人新年晚会*</h2> </div>
 
