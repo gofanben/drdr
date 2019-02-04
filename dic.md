@@ -134,7 +134,7 @@
 
 <table>
 
-<div align="center"><h1>收看新唐人神韵交响乐团的方法</h1>
+<div align="center"><h1>收看新唐人神韵晚会'交响乐团的方法</h1>
 
 <h3>	
 <tr>
