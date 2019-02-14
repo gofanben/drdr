@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/315be-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。http://61.228.112.116</h3></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/315be-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。http://220.141.139.204</h3></div>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
