@@ -31,7 +31,7 @@
 </table>
 <h2>神韵晚会</h2>
 
-<h3>神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。</h3><h3>网站和Roku不播出，只限于电视收看。<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/19-SY-4.jpg?raw=true" ></h3>
+<h3>神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。</h3><h3><a href="http://sy.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></h3>
 
 <table>
 <div align="center"><h3>
