@@ -51,12 +51,12 @@
 <tr>
 	<td width=293;>星期二(元宵)2/19/2019  Tue</td>
 	<td width=293;>20:00</td>
-	<td width=293;>元宵节《全球华人新年晚会》(首播)</td>
+	<td width=293;>元宵《全球华人神韵晚会》(首播)</td>
 </tr>
 <tr>
 	<td width=293;>星期二(元宵)2/19/2019  Tue</td>
 	<td width=293;> 23:00</td>
-	<td width=293;>元宵节《全球华人新年晚会》(重播)</td>
+	<td width=293;>元宵《全球华人神韵晚会》(重播)</td>
 </tr>	
 	</div>
 
@@ -89,12 +89,12 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>星期三	2/20/2019  Wed</td>
+	<td width=293;>星期三  2/20/2019    十六Wed</td>
 	<td width=293;>8:00</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>	
 <tr>
-	<td width=293;>星期三	2/20/2019  Wed</td>
+	<td width=293;>星期三  2/20/2019    十六Wed</td>
 	<td width=293;>14:00</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>		
