@@ -63,49 +63,27 @@
 <p>	
 </table>
 <p>
-<table>
-<div align="center"><h3>
-新唐人亚太台神韵晚会播出时间如下:</h3><p>
-</div>
-	<tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
-</tr>
-<tr>
-	<td width=293;>星期一(除夕)2/4/2019    Mon</td>
-	<td width=293;>20：00</td>
-	<td width=293;>(神韵晚会)首播</td>
-</tr>
-<tr>
-	<td width=293;>星期二(初一)2/5/2019    Tue</td>
-	<td width=293;>12：00</td>
-	<td width=293;>(神韵晚会)重播 </td>
-</tr>
-<tr>
-	<td width=293;>星期二(初一)2/5/2019    Tue</td>
-	<td width=293;>09：00</td>
-	<td width=293;>(神韵晚会)重播 </td>
-</tr>
-<tr>
-	<td width=293;>星期二(初一)2/5/2019    Tue</td>
-	<td width=293;>15：00</td>
-	<td width=293;>(神韵晚会)重播 </td>
-</tr>
-</table>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
-<h3>
-同时，在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
+<h2>
+神韵交响乐</h2>
+
+<h3>新唐人电视台播出的“神韵艺术团交响乐团2017年演出”，分别在大陆、纽约、美西、休斯顿、欧洲等全球五个频道与新唐人网站同时播放。</h3>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/2017_SY-3.png?raw=true" width=880></a><br></div>
+
 
 <table>
 <div align="center"><h3>
 播出时间如下（均为当地时间）：<p></h3></div>
 
-<div align="center"><h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间<p>
-
+<div align="center"><h2>2019中国元宵期间《2017神韵交响乐团音乐会》播出时间<p>
+大陆	
+首播		2/20/2019 
+重播	Wed	2/20/2019 
 大陆	<p></h2></div>
 <tr>
 	<td width=293;>日期</td>
@@ -113,13 +91,13 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>星期二(初一)	2/5/2019  Tue</td>
-	<td width=293;>20:00</td>
+	<td width=293;>星期三	2/20/2019  Wed</td>
+	<td width=293;>8:00</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>	
 <tr>
-	<td width=293;>星期三(初二)	2/6/2019  Wed</td>
-	<td width=293;>10:00</td>
+	<td width=293;>星期三	2/20/2019  Wed</td>
+	<td width=293;>14:00</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>		
 	   
