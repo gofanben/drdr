@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/psd-2-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 对中国大陆播出的是“神韵艺术团2019年演出”。网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。http://220.141.139.204</h3></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/psd-2-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   http://220.141.139.204</h3></div>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
@@ -11,13 +11,13 @@
 
 
 
-[ <div align="center"><h2>【突破封锁看“全球华人新年晚会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看“元宵节神韵晚会及音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>*【预告】新唐人元宵节将播神韵晚会及音乐会*</h2> </div>
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
-[ <div align="center"><h2>2019全球华人新年晚会【神韵世界巡演预告片】~連結</h2></div>](http://sy.epub.vin/sy)
+[ <div align="center"><h2>元宵节将播神韵晚会及音乐会~連結</h2></div>](http://sy.epub.vin/sy)
 
 <h3>【新唐人2019年02月15日讯】元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，新唐人还将播出“神韵艺术团交响乐团2017年演出”。（在中国大陆需翻墙访问）
 <p><p>
