@@ -7,7 +7,7 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/2019_SY-2.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-1.jfif?raw=true" width=880></a><br></div>
 
 
 
@@ -74,7 +74,7 @@
 <h3>新唐人电视台播出的“神韵艺术团交响乐团2017年演出”，分别在大陆、纽约、美西、休斯顿、欧洲等全球五个频道与新唐人网站同时播放。</h3>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/2017_SY-3.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/images-2.jfif?raw=true" width=880></a><br></div>
 
 
 <table>
