@@ -7,7 +7,7 @@
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-12.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy-22_1.jpg?raw=true" width=880></a><br></div>
 
 
 
