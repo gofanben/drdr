@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/sy_n.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   http://220.141.133.2</h3></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/sy_n.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   http://220.141.133.89</h3></div>
 
 <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
