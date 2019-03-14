@@ -4,6 +4,9 @@
 <IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>必看 精彩视频   请直接点击 http://114.37.27.200</h3></div>
 </table>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/919-2.jpg?raw=true" width=780></a><br></div>
+
 <a name=list><b>目錄</b><p>
 <a href="#10">10.中共解体在即 国人如何逃生</a><br>
 <a href="#9">9.三退大潮二〇一八年综合报告</a><br>
@@ -21,9 +24,6 @@
 
 <a name=10><h1 align="center">中共解体在即 国人如何逃生</h1>
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/919-2.jpg?raw=true" width=780></a><br></div>
- 
 【明慧网二零一九年一月二十七日】自古以来朝代的灭亡与更迭，都会有先兆的出现。即有上天的启示，又有当权者逆天意民心的灭亡之象。虽然不同时期朝代灭亡的方式各不相同，有被百姓推翻的，也有被外部环境消灭改朝换代的，也有被上天安排解体的。所以在中国的历史上一直流传着这样一句名言，“顺天者生，逆天者亡”。
 欧洲社会主义阵营的解体宿命，对人类的启示
 
