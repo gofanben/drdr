@@ -5,7 +5,7 @@
 </table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/919-2.jpg?raw=true" width=780></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/919-2.jpg?raw=true" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
 <a href="#10">10.中共解体在即 国人如何逃生</a><br>
