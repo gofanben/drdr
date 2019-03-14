@@ -16,7 +16,13 @@
 <a href="#2">2.退党大潮</a><br>
 <a href="#1">1."三退"近三亿 民众感谢法轮功</a><br>
 
-<h1 align="center">三退大潮二〇一八年综合报告</h1>
+
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<a name=9><h1 align="center">三退大潮二〇一八年综合报告</h1>
 <h3 align="center">全球退党服务中心</h3>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3te0.jpg?raw=true" width=800></td>
@@ -86,20 +92,22 @@
 
 虽然中共疯狂禁止《九评共产党》的传播，但是仅仅在《九评共产党》出版后两周，《大纪元时报》编辑就开始收到中国读者要求退出中共组织的声明。这就是退党大潮的开始。
 
-现在，《共产主义的终极目的》更是彻底揭露了邪灵的来源本质和终极目的，清除共产邪灵刻不容缓。（待续）
+现在，《共产主义的终极目的》更是彻底揭露了邪灵的来源本质和终极目的，清除共产邪灵刻不容缓。
 
 ──转自《大纪元》
 
 
 
-<hr>
-<h1 align="center"><b>在西澳珀斯听真相 陆游客：劝三退就是救人</b></h1>
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<a name=8><h1 align="center"><b>在西澳珀斯听真相 陆游客：劝三退就是救人</b></h1>
 <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e3t-1.jpg?raw=true" width=800></td>
 </tr>  </div> 
 <br>
-
- <a href=https://git.io/duun><h6 align="right">回首頁</h6></a>
 
 【大纪元2018年05月07日讯】（大纪元记者周鑫澳洲珀斯报导）共产党的倒行逆施激起天怒人怨，海内外华人加速退出中共党、团、队组织，全球“三退”人数在3月底突破三亿。全球各地有数不清的义工帮助中国人“三退”。在澳大利亚西澳州首府珀斯，也有一群常年奉献的义工。他们讲述的“三退”故事让人感叹生命在善念中的正确选择。
 
@@ -140,8 +148,13 @@
 “我好羡慕你们。”有一次她说，“你们在这多好，做好事，又救人。”罗女士很惊讶她的认识，北京女士说：“劝人三退，不就是救人吗？”#
 
 责任编辑：杨亦慧
-<hr>
- <div align="center"><tr>
+
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<a name=7> <div align="center"><tr>
  <td><h1><a href='http://www.epochtimes.com/gb/'>全球民众 庆祝三亿中国人三退获新生</a></h1></td>
 </tr> </div> 
 <div align="center">  <tr>
@@ -153,7 +166,13 @@
 
 游行分为“法轮大法好”、“停止迫害法轮功”及“声援三亿多中华儿女退出中共党、团、队”三大方阵。打头阵的是由两百多名法轮功学员组成的“天国乐团”，他们阵容壮观，步伐整齐，训练有素，正能量十足，威风凛凛。紧随其后的是法轮功著作《转法轮》的中文版和英文版的巨型书模、送福小花船队、功法展示队、彩旗队、横幅队、腰鼓队等依次亮相。法轮功学员打出“法轮功是佛法修炼 迫害者必遭天惩、“法办江泽民”、“退党自救”等横幅，传递著关乎每个中国人未来的信息，希望中国人为自己生命做出正确的选择。
 
-<div align="center">  <tr>
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+
+<a name=6><div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e3t-1-31.jpg?raw=true" width=800></td>
 </tr>  </div> 
 <hr>
@@ -281,8 +300,12 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 </tr> <br>从布里斯班来的Anna Schroder（左）和Kylie Grant表示，知道中共活摘法轮功学员器官的罪行，她们会一直支持法轮功学员。（安平雅／大纪元）</div> 
 责任编辑：宗敏清
 
-<hr>
- <div align="center"><tr>
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<a name=5> <div align="center"><tr>
  <td><h1><a href='https://goo.gl/fBK7Zx'>425上访19周年 台湾法轮功反迫害游行.mp4</a></h1></td>
 </tr> </div> 
 
@@ -320,9 +343,12 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 </tr>	
 </tbody> 
 
-<hr>
+<a href=#list><h5 align="right">回目錄</h5></a>
 
-<div align="center">  <tr>
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<a name=4><div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img--6/hsic_7-ok.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
@@ -402,8 +428,13 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 
 责任编辑：昌英
 
-<hr>
-<div align="center">  <tr>
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+
+<a name=3><div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3e3t---.jpg?raw=true" width=750></td>
 </tr>  </div> 
 
@@ -540,10 +571,12 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 </tr>	
 </tbody> 
 
-  
-  
- <hr> 
- <div align="center">  <tr>
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+   
+<a name=2> <div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/3eee4-4.jpg?raw=true" width=850></td>
 </tr>  </div> 
 <div align="center">  <tr>
@@ -607,9 +640,12 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 </tr>	
 </tbody> 
 
-<hr>
- <tbody> 
- 
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+ <tbody>  
 <a name=1><div align="center">  <tr>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3e-4.jpg?raw=true" width=700></td>
 </tr>  </div>   
@@ -695,7 +731,9 @@ Parramatta市市长威尔森（Andrew Wilson）说： “当我今天站在这�
 
  <h1 align="center"><a href='https://git.io/duun'> 点击连结~看更多~</a><h1>
 
-
-
-
 </tbody>
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_23_2M.png?raw=true" width=780></a><br></div>
+
