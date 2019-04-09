@@ -60,13 +60,13 @@
   <td><h3><a href='https://git.io/Sing'>反迫害19年 磨难中铸就辉煌</a></h3></td><p>
 </tr>
 
+<tr> <td><h3><a href='https://git.io/Eph'>迫害大法弟子遭恶报</a></h3></td><p>
+ 
+  <td><h3><a href='https://git.io/ssbbaaa'>群体灭绝罪、反人类罪、酷刑罪</a></h3></td><p>
+</tr>
 </table>
-
- <div align=center><h3><a href='https://git.io/Eph'>迫害大法弟子遭恶报</a></h3></div>
-
  </br>
-
-
+ 
    <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/222203.jpg?raw=true" width=550></td></div>
 
