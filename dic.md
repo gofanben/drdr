@@ -9,7 +9,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy-22_1.jpg?raw=true" width=880></a><br></div>
 
-
+<h3><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h3>
 
 [ <div align="center"><h2>【突破封锁看“元宵节神韵晚会及音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
