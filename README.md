@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://111.243.38.249</h3></div>
+<IMG SRC="https://github.com/dfchunsring/yue/blob/master/img/555-1.jpg?raw=true" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://114.37.71.239</h3></div>
 </table>
 
 <h1 align="center"><b>江泽民为何要迫害法轮功？</b></h1>
