@@ -22,7 +22,7 @@
 </table>
 
   <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/a-1.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/ok-425-1.jpg?raw=true" width=700></td>
 </div>
 </tr>
 
