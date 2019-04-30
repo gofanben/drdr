@@ -54,7 +54,7 @@
 
   <div align=center>
 
-<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/a-2.jpg?raw=true" width=700></td>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-3/a-2.jpg?raw=true" width=880></td>
 </div>
 法轮功学员的上访极其和平理性，既没有大声喧哗，更没有阻塞交通。对中南海，他们既没有“围困”，更没有“攻击”，他们只是依法集体到信访办公室上访，而该办公室在中南海附近。中共江泽民集团为迫害法轮功，把法轮功学员的依法上访诬陷为“闹事”、“围攻中南海”，这是栽赃陷害。闹事的恰恰是中共。是因为中共迫害在先，才有法轮功学员依法上访在后。
 
