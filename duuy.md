@@ -4,12 +4,10 @@
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/3-9.jpg?raw=true" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://114.37.64.122</h3></div>
    
  <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
-
  <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
-   
+ <h2 align="center"> 真相总览➤ https://git.io/01 </h2>   
 </table>
-
-   <div align=center>
+<div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
  
 <table>
