@@ -8,7 +8,7 @@
  <h2 align="center"> 真相总览➤ https://git.io/01 </h2>   
 </table>
 <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=850></td></div>
  
 <table>
  <tr>
@@ -68,4 +68,4 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/222203.jpg?raw=true" width=550></td></div>
 
    <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/b_ornament_50_0S.png?raw=true" width=850></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=850></td></div>
