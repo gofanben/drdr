@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-1.jpg" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://61.228.112.77</h3></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy1.jpg" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://61.228.112.77</h3></div>
 
  <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
  <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
@@ -11,7 +11,7 @@
 <a href=https://git.io/duun><h2 align="right">回真相探詢首頁</h2></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-2.jpg" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy2.jpg" width=880></a><br></div>
 
 <h3><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h3>
 
