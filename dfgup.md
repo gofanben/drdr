@@ -27,7 +27,8 @@
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
 <a name=11><h1 align="center">三退三亿三千万 劝退义工心声：快退党保命</h1>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3tde-1.jpg" width=800></a><br>5月16日，来自欧洲、亚洲、南美洲、北美洲、非洲、大洋洲六大洲的部分法轮功修炼者，聚集在纽约曼哈顿，游行庆祝法轮大法洪传27周年。（爱德华／大纪元）</div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3tde-1.jpg" width=800></a><br><h5>5月16日，来自欧洲、亚洲、南美洲、北美洲、非洲、大洋洲六大洲的部分法轮功修炼者，聚集在纽约曼哈顿，游行庆祝法轮大法洪传27周年。（爱德华／大纪元）</h5></div><p>
+ 
 
 【大纪元2019年05月17日讯】（大纪元记者施萍纽约报导）在5月16日的纽约市曼哈顿第42街上，法轮功庆祝第20届世界法轮大法日的游行队伍延绵数英里，一眼望不到头。当游行的第三个主题方阵走来时，一个蓝底金字的“全球退党服务中心”的巨大立幅告诉人们一个重大天象：已经有三亿三千万中国人宣布退出了共产党的党团队组织。
 
@@ -41,7 +42,7 @@
 曾是大陆电视媒体人的韩华表示，现在中国人的思想变化很大，绝大多数中国人都已经知道真相，因而出现了明真相的人退党后推荐其他人来退的现象。
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3tde-2.jpg" width=800></a><br>5月16日在游行队伍中的旧金山景点退党义工刘志（女）、韩华（男）夫妇。（施萍／大纪元）</div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3tde-2.jpg" width=800></a><br><h5>5月16日在游行队伍中的旧金山景点退党义工刘志（女）、韩华（男）夫妇。（施萍／大纪元）</h5></div><p>
 
 “最近有人跟我说，你一三、一四年就给我退了，这些人还没退，你给他们都退了吧。”韩华说，“一来就是五六个或者七八个，他们就全都退了。”
 
