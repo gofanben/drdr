@@ -11,6 +11,11 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=850></td></div>
  
 <table>
+  <tr>
+ <td><h2><a href="https://git.io/bb99bbss">法轮大法好</a></h2></td><p>
+ 
+ <td><h2><a href='https://git.io/kkdada'>他们的改变来自法轮大法</a></h2></td><p></tr>   
+   
  <tr>
  <td><h2><a href="https://git.io/cvs">法轮大法洪传世界</a></h2></td><p>
  
