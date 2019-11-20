@@ -43,6 +43,9 @@
 
 <td><h3><a href='https://git.io/trtptp'>探询真相 兼听则明</a></h3></td><p></tr>
 
+<tr><td><h3><a href='https://git.io/wnn'>小之真相</a></h3></td><p>
+
+<td><h3><a href='https://git.io/birdf'>明真相能保命</a></h3></td><p></tr>
 
 <tr><td><h3><a href='https://git.io/zfzfzf'>世纪(伪案)大骗局</a></h3></td><p>
 
