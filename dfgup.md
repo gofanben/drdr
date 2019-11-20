@@ -27,8 +27,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
 
-<a name=12><h1 align="center">九评问世15载 3亿4千万民众抛弃中共</h1>
-
+<a name=12><div align=center><h1><b><a href="https://git.io/3th">九评问世15载 3亿4千万民众抛弃中共</a></b></h1></div> 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-1.jpg" width=800></a><br><h5>海外法轮功修炼者在美国首都举行盛大游行活动。图为法轮功学员以横幅告诉世人“九评引发退党大潮”。（戴兵／大纪元）</h5></div><p>
 
