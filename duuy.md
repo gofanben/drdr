@@ -55,7 +55,7 @@
 
 <td><h3><a href='https://git.io/mbbasn'>真相驿站 国内看不到的</a></h3></td><p></tr>
 
-<tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人"三退"</a></h3></td></td> <p>
+<tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>3亿4千万民众抛弃中共</a></h3></td></td> <p>
 
 <td><h3><a href='http://git.io/zb'>为什么要"三退"?及"三退"的重要性~</a></h3></td></td><p></tr>
  
