@@ -38,7 +38,7 @@
  
 <tr><td><h3><a href='https://git.io/zxtk1'> 澄清谎言与疑问>>解开你的迷津</a></h3></td><p>
 
-<td><h3><a href='https://git.io/ming2'>真相驿站 国内看不到的</a></h3></td><p></tr>
+<td><h3><a href='https://git.io/mbbasn'>真相驿站 国内看不到的</a></h3></td><p></tr>
 
 <tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>三亿中国人"三退"</a></h3></td></td> <p>
 
