@@ -59,7 +59,7 @@
 在2019年10月23日的退出少先队组织的声明中，一位老人写道：“我现在80多岁了，我看过《九评共产党》，里面说的都是事实，现在的年轻人都不知道共产党有多坏，真是太坏了！”
 
 <table>
-  <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-3.jpg" width=880></a></p></div>
+  <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-3.jpg" width=780></a></p></div>
 </table>
 
 <b>明真相三退</b>
@@ -213,7 +213,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
 
-<a name=11><h1 align="center">三退三亿三千万 劝退义工心声：快退党保命</h1>
+ <a name=11><div align=center><h1><b><a href="https://git.io/3th">三退三亿三千万 劝退义工心声：快退党保命</a></b></h1></div> 
+ 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/3tde-1.jpg" width=800></a><br><h5>5月16日，来自欧洲、亚洲、南美洲、北美洲、非洲、大洋洲六大洲的部分法轮功修炼者，聚集在纽约曼哈顿，游行庆祝法轮大法洪传27周年。（爱德华／大纪元）</h5></div><p>
  
