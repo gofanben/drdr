@@ -27,13 +27,17 @@
 <td><h3> <a href='https://git.io/9p9pos'>九评共产党 相关</a></h3></td></tr>
 
 <tr><td><h3> <a href='https://git.io/Cich'>“四•二五”上访真相</a></h3></td><p>
+   
 <td><h3> <a href='https://git.io/ykykyk'>世界各地法轮功学原纪念四二五合平上访</a></h3></td><p></tr>
+
+<tr><td><h3><a href='https://github.com/dfchunsring/wer/blob/master/jzmqr.md'>江泽民其人</a></h3></td><p>
+
+<td><h3><a href='https://git.io/czz'>《真实的江泽民》</a></h3></td><p></tr>
 
 <tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/README.md'>江泽民为何要迫害法轮功？</a></h3></td><p>
 
-<td><h3><a href='https://github.com/dfchunsring/wer/blob/master/jzmqr.md'>江泽民其人</a></h3></td><p>
+<td><h3><a href='https://git.io/trtptp'>探询真相 兼听则明</a></h3></td><p></tr>
 
-<td><h3><a href='https://git.io/czz'>《真实的江泽民》</a></h3></td><p></tr>
 
 <tr><td><h3><a href='https://git.io/zfzfzf'>世纪(伪案)大骗局</a></h3></td><p>
 
