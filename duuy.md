@@ -57,7 +57,7 @@
 
 <tr><td><h3><a href='https://github.com/dfchunsring/drdr/blob/master/dfgup.md'>3亿4千万民众抛弃中共</a></h3></td></td> <p>
 
-<td><h3><a href='http://git.io/zb'>为什么要"三退"?及"三退"的重要性~</a></h3></td></td><p></tr>
+<td><h3><a href='https://git.io/3w'>为什么要"三退"?</a></h3></td></td><p></tr>
  
 <tr> <td><h3><a href='https://git.io/3th'>“三退”才能上“方舟”</a></h3></td></td><p>
  
