@@ -29,7 +29,6 @@
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
 
 <a name=13><div align=center><h1><b><a href="https://git.io/3th">《九评》发表15周年 加拿大各界华人在觉醒</a></b></h1></div> 
-<div align="center">
 
 <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-10.jpg" width=680></a></p>2019年10月12日，多伦多法轮功学员及支持者在市中心唐人街举行盛大游行活动，庆祝3亿4千多万勇士退出中共。（周行／大纪元）</div>
 
@@ -37,14 +36,16 @@
 
 15年来，全球法轮功学员坚持不懈讲真相，掀起一场浩浩荡荡的全民精神觉醒运动。大量的民众通过大纪元退党网站，声明退出中共党、团、队组织（三退），抛弃共产主义意识形态，获得精神自由与新生。截止目前，大纪元网站显示三退人数超过3亿4千6百多万人，且每天以10万左右的三退人数持续攀升。
 
-全球第一个公开声明退党的勇士
+<b>全球第一个公开声明退党的勇士</b>
+ 
 2004年11月，加拿大电气工程博士江帆读完《九评共产党》后，随即向大纪元寄送了退党声明，他成为《九评》发表后，全球第一位公开发表退党声明的人。
 
 江帆表示，当时读了《九评》之后非常震惊，有一种如梦方醒的感觉。他发现原来在国内所受到的教育是如此不堪，很多东西都是假的。感觉受骗了，认为共产党员这个记号并不光彩，决定退出中共组织。
 
 江帆曾在中国大陆读研究生时入党。因为那时研究生班有指标，要求大部分人都要入党。于是他也随大流，加入中共党组织。
 
-唐人街民众的觉醒
+<b>唐人街民众的觉醒</b>
+
 多伦多唐人街地处繁华的商业中心，是多伦多一个重要的旅游景点，也是全球华人来多伦多的必游之地。自1999年7月中共疯狂打压法轮功之后，为了让可贵的中国人明白真相，多伦多法轮功学员在唐人街建立了真相点。
 
 <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-11.jpg" width=680></a></p>唐人街景点的义工讲真相。（伊铃/大纪元）</div>
@@ -69,7 +70,8 @@
 
 张女士告诉他：“我们在这里是给中国人讲真相，你不能这样干扰我们。”那天，这位老人的生意一直不开张，他似乎有所觉悟，干脆不卖菜了，帮助义工发资料。有人上来问，他赶紧说：“过来看看，法轮功真相资料。”第二天，他就把摊位摆到一边，再也不来干扰了。
 
-中领馆前的变化
+<b>中领馆前的变化</b>
+
 中领馆是中共政府在海外的窗口，也是华人进出中国办签证的地方。中共发动迫害法轮功以来，这里也是配合中共政府延伸海外迫害法轮功的窗口。
 
 <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-14.jpg" width=680></a></p>在中领馆前讲真相的部分义工。（伊铃/大纪元）</div>
@@ -96,6 +98,7 @@
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
 
 <a name=12><div align=center><h1><b><a href="https://git.io/3th">九评问世15载 3亿4千万民众抛弃中共</a></b></h1></div> 
+ 
 <table><div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-1.jpg" width=800></a><br><h5>海外法轮功修炼者在美国首都举行盛大游行活动。图为法轮功学员以横幅告诉世人“九评引发退党大潮”。（戴兵／大纪元）</h5></div><p></table>
 
