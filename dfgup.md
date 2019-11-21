@@ -31,7 +31,7 @@
 <a name=13><div align=center><h1><b><a href="https://git.io/3th">《九评》发表15周年 加拿大各界华人在觉醒</a></b></h1></div> 
 <div align="center">
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-10.jpg" width=680></a></p>2019年10月12日，多伦多法轮功学员及支持者在市中心唐人街举行盛大游行活动，庆祝3亿4千多万勇士退出中共。（周行／大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-10.jpg" width=680></a></p>2019年10月12日，多伦多法轮功学员及支持者在市中心唐人街举行盛大游行活动，庆祝3亿4千多万勇士退出中共。（周行／大纪元）</div>
 
 【大纪元2019年11月20日讯】（大纪元记者伊铃多伦多报导）2004年11月19日，《大纪元时报》系列社论《九评共产党》（简称《九评》）横空出世，被世人喻为旷世奇书，并打出“天灭中共”的震世警言，引发了持续15年的“三退”（退共产党、退共青团、退少先队）大潮。
 
@@ -47,13 +47,13 @@
 唐人街民众的觉醒
 多伦多唐人街地处繁华的商业中心，是多伦多一个重要的旅游景点，也是全球华人来多伦多的必游之地。自1999年7月中共疯狂打压法轮功之后，为了让可贵的中国人明白真相，多伦多法轮功学员在唐人街建立了真相点。
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-11.jpg" width=680></a></p>唐人街景点的义工讲真相。（伊铃/大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-11.jpg" width=680></a></p>唐人街景点的义工讲真相。（伊铃/大纪元）</div>
 
 在这里，真相点成了一个窗口，很多大陆的民众看到了：原来，法轮功在海外是合法的，大法学员可以这样堂堂正正地讲真相；也有很多中共610人员、国安、公安看到了这个真相点。
 
 曾经常年在这里讲真相的法轮功学员李晓策说，那时他们（中共610人员、国安、公安人员）还很嚣张，几个人一起来的，每次来都一言不发，围着真相点转圈，背后把展板划破了。
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-12.jpg" width=680></a></p>在唐人街景点讲真相的李晓策女士。（伊铃/大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-12.jpg" width=680></a></p>在唐人街景点讲真相的李晓策女士。（伊铃/大纪元）</div>
 
 他们离开时，李晓策说：“你们在海外也看到了，中共迫害法轮功是错的，‘真善忍’是好的。如果连‘真善忍’都不能认可的话，这个人还能说是好人吗？”
 
@@ -63,7 +63,7 @@
 
 张玉敏女士也是唐人街真相点的义工，她说：“现在世人变化很大，以前给他们资料，态度很不好，说话也不好听。现在不同了，即使不要，态度也很好。”
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-13.jpg" width=680></a></p>在唐人街讲真相的张玉敏女士。（伊铃/大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-13.jpg" width=680></a></p>在唐人街讲真相的张玉敏女士。（伊铃/大纪元）</div>
 
 有一次，一个卖菜的老人挑着菜筐，故意挡在展板前面。法轮功学员让他挪开一点，以免影响别人了解真相，他根本不理会。
 
@@ -72,13 +72,13 @@
 中领馆前的变化
 中领馆是中共政府在海外的窗口，也是华人进出中国办签证的地方。中共发动迫害法轮功以来，这里也是配合中共政府延伸海外迫害法轮功的窗口。
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-14.jpg" width=680></a></p>在中领馆前讲真相的部分义工。（伊铃/大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-14.jpg" width=680></a></p>在中领馆前讲真相的部分义工。（伊铃/大纪元）</div>
 
 法轮功学员王工石回忆，迫害最初那段时间，中领馆的人员经常出来骚扰在门外静坐抗议的法轮功学员，照相机几乎贴着法轮功学员的鼻子拍照，大冷天向他们身上浇水等。随着时间的推移，这里也在悄悄发生变化。
 
 经常在这里讲真相的潘学峰还记得，有一天中午，一个年轻人过来说：“大姐，你们不是跟我们过不去吧？我们是工作人员，不是决策者。”
 
-<table><div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-15.jpg" width=680></a></p>在中领馆前讲真相的潘学峰女士。（伊铃/大纪元）</div></table>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-15.jpg" width=680></a></p>在中领馆前讲真相的潘学峰女士。（伊铃/大纪元）</div>
 
 潘学峰回答：“当然不是。是共产党与江泽民发动对法轮功的迫害，我们是针对他们，不是针对你们。”并告诉他，“我们站在这里是让民众明白真相，不受中共欺骗。”
 
