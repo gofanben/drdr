@@ -80,9 +80,9 @@
  
   <td><h3><a href='https://git.io/ssbbaaa'>群体灭绝罪、反人类罪、酷刑罪</a></h3></td><p>
 </tr>
-
-  <div align=center><h2><b><a href="https://git.io/ls02">放开你的眼界 获得更多</a></b></h2></div> 
 </table>
+  <div align=center><h2><b><a href="https://git.io/ls02">放开你的眼界 获得更多</a></b></h2></div> 
+
  </br>
 
    <div align=center>
