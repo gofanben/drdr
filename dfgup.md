@@ -8,7 +8,7 @@
   <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/18-3.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/19-1.jpg?raw=true" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
 <a href="#15">九评15周年 看大陆民众弃中共 句句真情</a><br>
