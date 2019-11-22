@@ -8,9 +8,10 @@
   <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/919-2.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/19-5-6.jpg?raw=true" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
+<a href="#14">九评15周年 看大陆民众弃中共 句句真情</a><br>
 <a href="#13">《九评》发表15周年 加拿大各界华人在觉醒</a><br>
 <a href="#12">九评问世15载 3亿4千万民众抛弃中共</a><br>
 <a href="#11">三退三亿三千万 劝退义工心声：快退党保命</a><br>
@@ -27,6 +28,22 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
+
+<a name=14><div align=center><h1><b><a href="https://git.io/3th">九评15周年 看大陆民众弃中共 句句真情</a></b></h1></div> 
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-16.jpg" width=680></a></p><h5>大陆民众在大纪元网站上写道：“我们声明退出中共邪教的一切组织，决不与其为伍，支持香港‘ 反送中’。 天灭中共！”图为2019年9月20日，港大美国旗队请求美国支持香港民主运动，通过《香港人权与民主法案》。（宋碧龙／大纪元）</h5></div>
+<p>
+
+【新唐人北京时间2019年11月21日讯】“在最近的香港‘反送中’运动中，看到邪党极尽造谣、诬蔑之能事，歪曲事实真相、欺骗大陆民众、回避香港人的‘五大诉求’真实状况、颠倒黑白，令人神共愤……因此，我退出曾经加入过的少先队！不与邪党为伍！”
+
+
+
+
+
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
 
 <a name=13><div align=center><h1><b><a href="https://git.io/3th">《九评》发表15周年 加拿大各界华人在觉醒</a></b></h1></div> 
 
