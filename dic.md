@@ -11,7 +11,7 @@
 <a href=https://git.io/duun><h2 align="right">回真相探詢首頁</h2></a>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy2.jpg" width=780></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/sy-27.jpg" width=780></a><br></div>
 
 <h3><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h3>
 
