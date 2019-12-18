@@ -4,11 +4,11 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy1.jpg" width=850></a><br><h3>🌼必看 精彩视频 请直接点击 http://220.141.123.238</h3></div>
 
- <div align=center><h1><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h1></div> 
- <div align=center><h1><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h1></div>
+ <div align=center><h3><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h3></div> 
+ <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
 
  
-<a href=https://git.io/duun><h2 align="right">回真相探詢首頁</h2></a>
+<a href=https://git.io/duun><h3 align="right">回真相探詢首頁</h3></a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/sy-27.jpg" width=780></a><br></div>
