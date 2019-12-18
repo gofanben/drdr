@@ -80,7 +80,7 @@
 神韵交响乐是风靡全球的神韵艺术团原创作品，结合了东西方正统音乐的精髓，以西方管弦乐为基奠烘托中国乐器的特色，再现中华音乐传统、重现失传的美声唱法，每年都推出全新的原创曲目，带给观众盛大的音乐飨宴，好评如潮。</h3>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/Sy-127.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-127.png?raw=true" width=880></a><br></div>
 
 “神韵的音乐非常灿烂，散发一种能量的光芒。非常不寻常的正面能量，有一种解脱、很安详的气氛，让人回到了反璞归真的感觉。”被列于“牛津世界音乐名人录”的国际钢琴家宋允鹏赞道。
 有着百年历史的罗曼德管弦乐团的首席小提琴家伯格丹．兹沃特安卢（Bogdan Zvoristeanu）赞叹：“音乐极为感人，古今结合的乐器演奏将我们带入另外的时空，带到那遥远的、非常干净、非常纯洁、充满真相的地方。”
