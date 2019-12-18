@@ -15,7 +15,7 @@
 
 <h3><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h3>
 
-[ <div align="center"><h2>【突破封锁看“圣诞新年期间音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看“2019圣诞及2020新年期间音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
