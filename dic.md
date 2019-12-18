@@ -17,8 +17,6 @@
 
 [ <div align="center"><h2>【突破封锁看“元宵节神韵晚会及音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
-<div align="center"><h2>*【预告】新唐人元宵节将播神韵晚会及音乐会*</h2> </div>
-
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
 <a href="#1"> <div align="center"><h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a><br>
