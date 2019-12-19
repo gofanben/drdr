@@ -238,7 +238,7 @@ Comegno有着丰富的指挥经验，指挥过许多大型音乐会，同时，�
 
 Kathleen也赞佩道：“神性贯穿在整个交响乐团，你能感觉到她。她美丽，令人沉思、反省，以及充满了能量活力。这是探索中国文化的另一部分。所以我很高兴我们今晚来了。”
 
-<a>金融公司副总裁：感受生命的喜悦</a>
+<h2>金融公司副总裁：感受生命的喜悦</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-8.jpg" width=680></a><br>10月25日晚，一家在全美四地拥有分支机构的金融公司副总裁Phil Dawicki携同太太和儿子观赏神韵交响乐团演出，体会到音乐振奋人心的力量。（新唐人电视台）</div><p>
@@ -264,7 +264,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 她说，非常佩服神韵交响乐团的音乐家，作为艺术家，她知道这场音乐会的难度很大，因此当她看到观众请求舞台上的艺术家加演时，她才非常感动，“因为我知道要达到这种水准需要如何的付出，我知道观众要求加演的请求，才是对演员情感上最好的奖励，他们的惊叹声和掌声，才是对艺术家们最重要的鼓励。”
 
-<a>杨建利：神韵带来传统之美 意义重大</a>
+<h2>杨建利：神韵带来传统之美 意义重大</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-10.jpg" width=680></a><br></div>10月25日晚，二十一世纪中国基金会会长、公民力量召集人杨建利专程从华盛顿DC来到波士顿欣赏神韵交响乐团的演出，并赞叹“不虚此行”。（新唐人电视台）<p>
@@ -284,7 +284,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 
-<a name=4><div align="center"><h1>2019神韵交响乐团 10月25日波士顿登场<p></h1></div></b>
+<a name=5><div align="center"><h1>2019神韵交响乐团 10月25日波士顿登场<p></h1></div></b>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-11.jpg" width=880></a><br></div>2018年10月13日下午，神韵交响乐团在波士顿交响音乐厅(Boston Symphony Hall)演出。小提琴家郑媛慧独奏了一首曲子。(艾文/大纪元)<p>
@@ -293,7 +293,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 接着于10月6日在加拿大多伦多汤姆森音乐厅、12日纽约卡内基音乐厅(两场)、13日华府斯特拉斯莫尔音乐中心、19日芝加哥交响中心管弦乐厅各演出一场。
 
-<a>神韵原创音乐丰富精彩<a>
+<h2>神韵原创音乐丰富精彩</h2>
 	
 神韵艺术团的曲目，根植于中华五千年的文明历史，融合了东西方正统音乐的精髓。这些作品，从各朝各代的历史和灿若星辰的人物中获得灵感，复兴着亘古的主题与旋律。以西方管弦乐为基奠烘托中国乐器的特色，以古老中国音乐的旋律韵味为基础，用西方管弦乐来表现神韵所需要的效果，这是新的开创。很多听过神韵交响乐的观众都说“神韵正在开启古典音乐的新篇章！”
 
@@ -301,7 +301,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 在神韵原创音乐方面，从令人难忘的二胡独奏，到气势恢弘的皇家风格进行曲，到富有民俗风情的民间旋律，神韵原创音乐丰富而精彩纷呈。自2017年开始，神韵推出了描述中国一代帝王系列的原创曲目，已经发表过的包括《大汗》、《贞观之治》，气势恢宏，震撼人心。那么今年，他们又将给观众们带来什么惊喜呢？
 
-<a>演奏西方古典名曲</a>
+<h2>演奏西方古典名曲</h2>
 
 在西方古典名曲方面，今年的曲目有柴可夫斯基的Waltz-Scherzo诙谐圆舞曲，作品第34号；古诺的罗密欧与朱丽叶第四幕进行曲等等。神韵交响乐以完整的西方交响乐为载体，融合古老的中国乐器，如以二胡、琵琶以及打击乐为领奏，全新演绎这些人类历史上长久流传的乐章。
 
@@ -317,7 +317,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 
-<a name=5><div align="center"><h1>“乐器奏出的诗歌”神韵交响乐芝加哥获盛赞<p></h1></div></b>
+<a name=6><div align="center"><h1>“乐器奏出的诗歌”神韵交响乐芝加哥获盛赞<p></h1></div></b>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-12.jpg" width=880></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。（陈虎／大纪元）<p>
@@ -339,7 +339,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-16.jpg" width=780></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为谢幕照。（陈虎/大纪元）<p>
 
 
-<a>乐团指挥：有一种瞬间即逝之美</a>
+<h2>乐团指挥：有一种瞬间即逝之美</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-17.jpg" width=680></a><br></div>乐队指挥John Vishneski欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
@@ -348,7 +348,7 @@ John Vishneski是芝加哥交响乐团的客座黑管音乐家，也是芝加哥
 
 他表示，神韵交响乐带给他与众不同的感受，“当中有震撼力、有美，有一种瞬间即逝的美的感觉，就像诗歌一样，但是用乐器（演奏出的诗歌）。”
 
-<a>公司总裁聆听神韵音乐 想起天国世界</a>
+<h2>公司总裁聆听神韵音乐 想起天国世界</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-18.jpg" width=680></a><br></div>2019年10月19日，工业设计公司总裁Chuck Bokar和太太、心理医疗诊所老板Laura Bokar 观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
@@ -357,7 +357,7 @@ John Vishneski是芝加哥交响乐团的客座黑管音乐家，也是芝加哥
 
 “第一个乐曲让我想起了天国世界， 那首乐曲轻盈灵动， 让我想起了舞蹈演员飞舞着的长裙。”Bokar先生说。
 
-<a>聆赏神韵交响乐 报社总经理如游历中华朝代</a>
+<h2>聆赏神韵交响乐 报社总经理如游历中华朝代</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-19.jpg" width=680></a><br></div>报社总经理Lukasz Dudka欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
@@ -366,7 +366,7 @@ John Vishneski是芝加哥交响乐团的客座黑管音乐家，也是芝加哥
 
 身为东欧人的Dudka说，“我只能想像如果我是一个中国人，坐在美国（的音乐厅）里聆听这样的音乐，受到如此深远的文化的启迪，这种体验深入我的灵魂，真是非常美好，太令人赞叹了！”
 
-<a>心理医师：神韵音乐富有灵性</a>
+<h2>心理医师：神韵音乐富有灵性</h2>
 	
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-20.jpg" width=680></a><br></div>2019年10月19日，心理学家Greg Dziedzic观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
@@ -375,7 +375,7 @@ Greg Dziedzic 在芝加哥一个波兰社区机构担任主持心理医师。他
 
 他表示从神韵音乐中感受到“深邃的精神力量”，“她很有灵性。很难描述这种感受，就觉得她抓住了你的心弦，令你思绪万千。从这一层面讲，整个音乐会实乃精神之旅。”
 
-<a>神韵音乐中西合璧 乐队歌手赞天衣无缝</a>
+<h2>神韵音乐中西合璧 乐队歌手赞天衣无缝</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-21.jpg" width=680></a><br></div>2019年10月19日，乐队歌手Jeff Perry 和太太Heather Perry观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
@@ -384,7 +384,7 @@ Jeff Perry出生于一个音乐家庭，母亲是合唱歌手，父亲是指挥�
 
 Perry表示：“我感觉是作曲家的创作把这（东西方两大音乐体系）成功的结合起来。他很有深意，充分表现了各种不同的乐器特点。如此的天衣无缝，如此的美丽悦耳。”
 
-<a>听神韵音乐 医生体验天人合一</a>
+<h2>听神韵音乐 医生体验天人合一</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-22.jpg" width=680></a><br></div>医生Ibrahim Sadek欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
