@@ -200,15 +200,21 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-2.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为二胡三重奏。（戴兵／大纪元）</div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-3.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为小提琴演奏家郑媛慧在独奏。（戴兵／大纪元）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-3.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-4.jpg" width=880></a><br>10月25日晚，在波士顿交响乐厅119年历史的铜黄色殿堂下，随着神韵交响乐团《康熙大帝》一曲震撼结束，全体观众起立鼓掌，经久不歇。直到两位指挥家又分别献上一首安可曲，观众们才缓缓离去。（戴兵／大纪元）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-4.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为小提琴演奏家郑媛慧在独奏。（戴兵／大纪元）</div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-5.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-6.jpg" width=880></a><br>10月25日晚，在波士顿交响乐厅119年历史的铜黄色殿堂下，随着神韵交响乐团《康熙大帝》一曲震撼结束，全体观众起立鼓掌，经久不歇。直到两位指挥家又分别献上一首安可曲，观众们才缓缓离去。（戴兵／大纪元）</div>
 
 <h2>“与宇宙相连”指挥家赞神韵交响乐宏大无比</h2>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-5.jpg" width=680></a><br>指挥家兼音乐家Arthur Comegno与友人Kathleen于10月25日晚，在波士顿交响乐厅，聆听了神韵交响乐团的音乐会。（甄秀欣／大纪元）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-7.jpg" width=680></a><br>指挥家兼音乐家Arthur Comegno与友人Kathleen于10月25日晚，在波士顿交响乐厅，聆听了神韵交响乐团的音乐会。（甄秀欣／大纪元）</div>
 
 
 “神韵交响乐团宏大无比。”指挥家兼音乐家Arthur Comegno盛赞神韵交响乐团的音乐“神奇美妙”，他表示自己也想加入其中，共享音乐中的神性内涵。
@@ -222,7 +228,7 @@ Comegno有着丰富的指挥经验，指挥过许多大型音乐会，同时，�
 <h2>金融公司副总裁：感受生命的喜悦</h2>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-6.jpg" width=680></a><br>10月25日晚，一家在全美四地拥有分支机构的金融公司副总裁Phil Dawicki携同太太和儿子观赏神韵交响乐团演出，体会到音乐振奋人心的力量。（新唐人电视台）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-8.jpg" width=680></a><br>10月25日晚，一家在全美四地拥有分支机构的金融公司副总裁Phil Dawicki携同太太和儿子观赏神韵交响乐团演出，体会到音乐振奋人心的力量。（新唐人电视台）</div>
 
 一家在全美四地拥有分支机构的金融公司副总裁Phil Dawicki说，他的太太和儿子曾观赏神韵艺术团的演出。当时他无缘同行，但这次总算能与他们分享这场“极其出色”的音乐会。
 
@@ -235,7 +241,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <h2>前芭蕾舞演员：神韵音乐带我去了另一个世界</h2>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-7.jpg" width=680></a><br>前芭蕾舞演员Eleana Santorineou带着儿子于 10月25日晚在波士顿交响乐厅欣赏了神韵交响乐团2019年度的最后一场演出。（新唐人电视台）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-9.jpg" width=680></a><br>前芭蕾舞演员Eleana Santorineou带着儿子于 10月25日晚在波士顿交响乐厅欣赏了神韵交响乐团2019年度的最后一场演出。（新唐人电视台）</div>
 
 前芭蕾舞演员Eleana Santorineou与儿子聆赏之后，久久不愿离开。她说，神韵音乐内涵超越了这个小小的地球。这场演出带她去了另外一个世界，让她对中华历史和文化心生敬意。
 
@@ -248,7 +254,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <h2>杨建利：神韵带来传统之美 意义重大</h2>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-8.jpg" width=680></a><br>10月25日晚，二十一世纪中国基金会会长、公民力量召集人杨建利专程从华盛顿DC来到波士顿欣赏神韵交响乐团的演出，并赞叹“不虚此行”。（新唐人电视台）</div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-10.jpg" width=680></a><br>10月25日晚，二十一世纪中国基金会会长、公民力量召集人杨建利专程从华盛顿DC来到波士顿欣赏神韵交响乐团的演出，并赞叹“不虚此行”。（新唐人电视台）</div>
 
 
 二十一世纪中国基金会会长、公民力量召集人杨建利专程从华盛顿DC来到波士顿欣赏神韵交响乐团的演出，并赞叹“不虚此行”。
