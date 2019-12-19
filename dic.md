@@ -278,7 +278,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <a name=4><div align="center"><h1>2019神韵交响乐团 10月25日波士顿登场<p></h1></div></b>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-11.jpg" width=680></a><br></div>2018年10月13日下午，神韵交响乐团在波士顿交响音乐厅(Boston Symphony Hall)演出。小提琴家郑媛慧独奏了一首曲子。(艾文/大纪元)<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-11.jpg" width=880></a><br></div>2018年10月13日下午，神韵交响乐团在波士顿交响音乐厅(Boston Symphony Hall)演出。小提琴家郑媛慧独奏了一首曲子。(艾文/大纪元)<p>
 
 【大纪元2019年10月19日讯】金秋时节，“神韵交响乐团”于9月、10月间在台湾和北美5大城市进行2019年的巡演，其中10月25日晚8点将第7度莅临波士顿交响音乐厅(Boston Symphony Hall)，带来一场东西方音乐珠联璧合的精彩压轴演出。这是神韵交响乐团今年巡演的最后一个城市。在此之前，神韵交响乐团9月份起在台湾9大城市进行了11场演出，售票率几乎百分百，再度创下场场大爆满的票房纪录，也再次创下台湾艺文界票房奇迹。
 
@@ -311,23 +311,23 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 <a name=5><div align="center"><h1>“乐器奏出的诗歌”神韵交响乐芝加哥获盛赞<p></h1></div></b>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-12.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。（陈虎／大纪元）<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-12.jpg" width=880></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。（陈虎／大纪元）<p>
 
 【大纪元2019年10月20日讯】（大纪元美国芝加哥记者站报导）10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。演出结束后，观众掌声雷鸣，观众起立鼓掌，久久不愿离去，神韵加演两首安可曲才谢幕。
 
 一位乐队指挥盛赞，这是乐器演奏出的诗歌。一位职业音乐人赞神韵把东西方两大音乐体系完美结合，实乃作曲家之功。一位公司总裁赞音乐令他回想起神韵的精彩节目，如见天国世界。一位心理医生赞音乐深富灵性扣人心弦。多名商业精英赞“如精神之旅”、“游历中华文化”。
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-13.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。 （陈虎/大纪元）<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-13.jpg" width=780></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。 （陈虎/大纪元）<p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-14.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为小提琴演奏家郑媛慧的独奏演出。（陈虎/大纪元）<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-14.jpg" width=780></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为小提琴演奏家郑媛慧的独奏演出。（陈虎/大纪元）<p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-15.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为二胡三重奏演出。（陈虎/大纪元）<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-15.jpg" width=780></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为二胡三重奏演出。（陈虎/大纪元）<p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-16.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为谢幕照。（陈虎/大纪元）<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-16.jpg" width=780></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为谢幕照。（陈虎/大纪元）<p>
 
 
 <a>乐团指挥：有一种瞬间即逝之美</a>
