@@ -14,7 +14,7 @@
 <a href="#1"> <div align="center"><h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a><br>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
 <a href="#1">神韵交响乐</a><br>
 <a href="#2">收看新唐人神韵交响乐团的方法</a><br>
@@ -24,7 +24,7 @@
 
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 
 <a name=1><div align="center"><h1><a href="http://www.epochtimes.com/gb/19/12/15/n11723280.htm">神 韵 交 响 乐</a></h1></div></a><br>
 
