@@ -15,7 +15,8 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
-
+<a name=list><b>目錄</b><p>
+<a href="#1">神韵交响乐</a><br>
 <a href="#2">收看新唐人神韵交响乐团的方法</a><br>
 <a href="#3">“传统之美”2019神韵交响乐波士顿落幕</a><br>
 <a href="#4">2019神韵交响乐团 10月25日波士顿登场</a><br>
@@ -95,6 +96,7 @@
 </tr>		
 </table>
 
+<a href=#list><h5 align="right">回目錄</h5></a>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
@@ -182,10 +184,10 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 <h2>翻墙软件自由门'无界浏览。无界一点通最新版下载地址：<a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
 
+<a href=#list><h5 align="right">回目錄</h5></a>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
-
-
 
 <a name=3><div align="center"><h1>“传统之美”2019神韵交响乐波士顿落幕<p></h1></div></b>
 
@@ -213,7 +215,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-6.jpg" width=880></a><br>10月25日晚，在波士顿交响乐厅119年历史的铜黄色殿堂下，随着神韵交响乐团《康熙大帝》一曲震撼结束，全体观众起立鼓掌，经久不歇。直到两位指挥家又分别献上一首安可曲，观众们才缓缓离去。（戴兵／大纪元）</div><p>
 
-<h2>“与宇宙相连”指挥家赞神韵交响乐宏大无比</h2>
+<a>“与宇宙相连”指挥家赞神韵交响乐宏大无比</a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-7.jpg" width=680></a><br>指挥家兼音乐家Arthur Comegno与友人Kathleen于10月25日晚，在波士顿交响乐厅，聆听了神韵交响乐团的音乐会。（甄秀欣／大纪元）</div><p>
@@ -227,7 +229,7 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 
 Comegno有着丰富的指挥经验，指挥过许多大型音乐会，同时，他还做过专业小提琴手，培训过许多音乐人；他也是一名演员、导演，毕业于伊士曼音乐学院和哈佛大学。
 
-<h2>金融公司副总裁：感受生命的喜悦</h2>
+<a>金融公司副总裁：感受生命的喜悦</a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-8.jpg" width=680></a><br>10月25日晚，一家在全美四地拥有分支机构的金融公司副总裁Phil Dawicki携同太太和儿子观赏神韵交响乐团演出，体会到音乐振奋人心的力量。（新唐人电视台）</div><p>
@@ -240,7 +242,7 @@ Dawicki说，神韵音乐感动他的不仅仅是东西方音乐的完美融合�
 
 Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而来的风，带有声音的风，如此振奋人心，令你感到生命的喜悦。”他说。
 
-<h2>前芭蕾舞演员：神韵音乐带我去了另一个世界</h2>
+<a>前芭蕾舞演员：神韵音乐带我去了另一个世界</a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-9.jpg" width=680></a><br>前芭蕾舞演员Eleana Santorineou带着儿子于 10月25日晚在波士顿交响乐厅欣赏了神韵交响乐团2019年度的最后一场演出。（新唐人电视台）</div><p>
@@ -253,7 +255,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 她说，非常佩服神韵交响乐团的音乐家，作为艺术家，她知道这场音乐会的难度很大，因此当她看到观众请求舞台上的艺术家加演时，她才非常感动，“因为我知道要达到这种水准需要如何的付出，我知道观众要求加演的请求，才是对演员情感上最好的奖励，他们的惊叹声和掌声，才是对艺术家们最重要的鼓励。”
 
-<h2>杨建利：神韵带来传统之美 意义重大</h2>
+<a>杨建利：神韵带来传统之美 意义重大</a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-10.jpg" width=680></a><br></div>10月25日晚，二十一世纪中国基金会会长、公民力量召集人杨建利专程从华盛顿DC来到波士顿欣赏神韵交响乐团的演出，并赞叹“不虚此行”。（新唐人电视台）<p>
@@ -269,6 +271,7 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 责任编辑：夏晶
 
+<a href=#list><h5 align="right">回目錄</h5></a>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 
@@ -281,14 +284,16 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 接着于10月6日在加拿大多伦多汤姆森音乐厅、12日纽约卡内基音乐厅(两场)、13日华府斯特拉斯莫尔音乐中心、19日芝加哥交响中心管弦乐厅各演出一场。
 
-神韵原创音乐丰富精彩
+<a>神韵原创音乐丰富精彩<a>
+	
 神韵艺术团的曲目，根植于中华五千年的文明历史，融合了东西方正统音乐的精髓。这些作品，从各朝各代的历史和灿若星辰的人物中获得灵感，复兴着亘古的主题与旋律。以西方管弦乐为基奠烘托中国乐器的特色，以古老中国音乐的旋律韵味为基础，用西方管弦乐来表现神韵所需要的效果，这是新的开创。很多听过神韵交响乐的观众都说“神韵正在开启古典音乐的新篇章！”
 
 根据神韵网站介绍，今年演出曲目包括最受观众喜爱的神韵原创作品，以及西方经典曲目，如德弗札克、法兰兹苏佩、柴可夫斯基等名家的不朽作品。
 
 在神韵原创音乐方面，从令人难忘的二胡独奏，到气势恢弘的皇家风格进行曲，到富有民俗风情的民间旋律，神韵原创音乐丰富而精彩纷呈。自2017年开始，神韵推出了描述中国一代帝王系列的原创曲目，已经发表过的包括《大汗》、《贞观之治》，气势恢宏，震撼人心。那么今年，他们又将给观众们带来什么惊喜呢？
 
-演奏西方古典名曲
+<a>演奏西方古典名曲</a>
+
 在西方古典名曲方面，今年的曲目有柴可夫斯基的Waltz-Scherzo诙谐圆舞曲，作品第34号；古诺的罗密欧与朱丽叶第四幕进行曲等等。神韵交响乐以完整的西方交响乐为载体，融合古老的中国乐器，如以二胡、琵琶以及打击乐为领奏，全新演绎这些人类历史上长久流传的乐章。
 
 在神韵交响乐团的演出中，观众可以听到这一串音符宛如战场上万马奔腾，那一串音符又如彩云间仙袂翩飞；这一段旋律余韵悠长，那一段旋律又触动了心弦，彷如记忆深处的场景。神韵脸书介绍，这些乐曲之所以如此生动，不仅是因为他们曾是舞蹈的伴奏，也是因为他们的创作灵感来源于几千年人类历史的文化底蕴……。
@@ -299,19 +304,90 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 责任编辑：冯文鸾
 
+<a href=#list><h5 align="right">回目錄</h5></a>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 
 <a name=5><div align="center"><h1>“乐器奏出的诗歌”神韵交响乐芝加哥获盛赞<p></h1></div></b>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-12.jpg" width=680></a><br></div>2018年10月13日下午，神韵交响乐团在波士顿交响音乐厅(Boston Symphony Hall)演出。小提琴家郑媛慧独奏了一首曲子。(艾文/大纪元)<p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-12.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。（陈虎／大纪元）<p>
+
+【大纪元2019年10月20日讯】（大纪元美国芝加哥记者站报导）10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。演出结束后，观众掌声雷鸣，观众起立鼓掌，久久不愿离去，神韵加演两首安可曲才谢幕。
+
+一位乐队指挥盛赞，这是乐器演奏出的诗歌。一位职业音乐人赞神韵把东西方两大音乐体系完美结合，实乃作曲家之功。一位公司总裁赞音乐令他回想起神韵的精彩节目，如见天国世界。一位心理医生赞音乐深富灵性扣人心弦。多名商业精英赞“如精神之旅”、“游历中华文化”。
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-13.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。 （陈虎/大纪元）<p>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-14.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为小提琴演奏家郑媛慧的独奏演出。（陈虎/大纪元）<p>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-15.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为二胡三重奏演出。（陈虎/大纪元）<p>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-16.jpg" width=680></a><br></div>2019年10月19日，神韵交响乐团在芝加哥交响乐中心（Symphony Center Orchestra Hall）演出。图为谢幕照。（陈虎/大纪元）<p>
 
 
+<a>乐团指挥：有一种瞬间即逝之美</a>
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-17.jpg" width=680></a><br></div>乐队指挥John Vishneski欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
 
+John Vishneski是芝加哥交响乐团的客座黑管音乐家，也是芝加哥律师协会爵士乐团的指挥。他对神韵交响乐团将东西方乐器融合在一起的方式感到惊叹，“我欣赏西方乐器的华丽，更欣赏乐团里西方乐器与琵琶、二胡等中国乐器融合在一起的方式，真是令人惊叹，太美好了！”
 
+他表示，神韵交响乐带给他与众不同的感受，“当中有震撼力、有美，有一种瞬间即逝的美的感觉，就像诗歌一样，但是用乐器（演奏出的诗歌）。”
 
+<a>公司总裁聆听神韵音乐 想起天国世界</a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-18.jpg" width=680></a><br></div>2019年10月19日，工业设计公司总裁Chuck Bokar和太太、心理医疗诊所老板Laura Bokar 观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
+
+芝加哥一家工业设计公司总裁Chuck Bokar看过2019年的神韵艺术团演出，这次特意来感受神韵交响乐。“上半场最后那首曲子，讲述了蒙古的故事，你可以听到……好像是在战马嘶鸣的音乐，这让我想到了数千年前。”
+
+“第一个乐曲让我想起了天国世界， 那首乐曲轻盈灵动， 让我想起了舞蹈演员飞舞着的长裙。”Bokar先生说。
+
+<a>聆赏神韵交响乐 报社总经理如游历中华朝代</a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-19.jpg" width=680></a><br></div>报社总经理Lukasz Dudka欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
+	
+芝加哥波兰社区最大报纸波兰日报总经理Lukasz Dudka说：“欣赏这场音乐会就如同一场对中华文化和历史的游历，我们在聆听音乐会的演奏中游历了中华所有的朝代，而且每首曲子都有不同的音乐韵味。”
+
+身为东欧人的Dudka说，“我只能想像如果我是一个中国人，坐在美国（的音乐厅）里聆听这样的音乐，受到如此深远的文化的启迪，这种体验深入我的灵魂，真是非常美好，太令人赞叹了！”
+
+<a>心理医师：神韵音乐富有灵性</a>
+	
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-20.jpg" width=680></a><br></div>2019年10月19日，心理学家Greg Dziedzic观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
+	
+Greg Dziedzic 在芝加哥一个波兰社区机构担任主持心理医师。他说：“当我倾听音乐时，我感觉犹如在体验一个个故事，有浪漫、有战斗也有戏剧。我不清楚具体的故事情节，但每一首音乐都在生动地讲述着一个故事。”
+
+他表示从神韵音乐中感受到“深邃的精神力量”，“她很有灵性。很难描述这种感受，就觉得她抓住了你的心弦，令你思绪万千。从这一层面讲，整个音乐会实乃精神之旅。”
+
+<a>神韵音乐中西合璧 乐队歌手赞天衣无缝</a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-21.jpg" width=680></a><br></div>2019年10月19日，乐队歌手Jeff Perry 和太太Heather Perry观看了神韵交响乐团在美国芝加哥交响中心管弦乐厅的演出。（唐明镜／大纪元）<p>
+
+Jeff Perry出生于一个音乐家庭，母亲是合唱歌手，父亲是指挥，而他在一个摇滚乐队任歌手。他说：“神韵音乐非常的独特，这令我很欣赏。我觉得这种差异很可能源自于文化，她蕴含的中国文化，听起来卓尔不群。”
+
+Perry表示：“我感觉是作曲家的创作把这（东西方两大音乐体系）成功的结合起来。他很有深意，充分表现了各种不同的乐器特点。如此的天衣无缝，如此的美丽悦耳。”
+
+<a>听神韵音乐 医生体验天人合一</a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-22.jpg" width=680></a><br></div>医生Ibrahim Sadek欣赏了10月19日下午神韵交响乐团在芝加哥交响中心管弦乐厅（Chicago Symphony Center）的交响乐演出。（新唐人电视台）<p>
+
+医生Ibrahim Sadek专程从芝加哥西郊前来欣赏音乐会。“我觉得（她）真的触动了我的灵魂，那音乐给你一种轻灵的感觉，让你享受其中，与音乐合而为一。”
+
+Sadek赞叹：“音乐触动你的灵魂、触动你的心灵，激发出不同的情感——我首先想到的是‘欢乐’，以及一种‘合一’（ togetherness）的感觉，与生命、与周围的环境，以及生命中的一切都是谐和的一体。”
+
+责任编辑：夏晶
+	
+	
+<a href=#list><h5 align="right">回目錄</h5></a>	
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
