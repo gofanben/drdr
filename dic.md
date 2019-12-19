@@ -201,19 +201,19 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 在交响乐厅场外，正在等车或交谈的观众向路过的神韵音乐家挥手、竖起大拇指致意，称赞他们“优雅大方”（graceful）、“才华出众”（talented）。
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-2.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为二胡三重奏。（戴兵／大纪元）</div><p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-2.jpg" width=780></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为二胡三重奏。（戴兵／大纪元）</div><p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-3.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div><p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-3.jpg" width=780></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div><p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-4.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为小提琴演奏家郑媛慧在独奏。（戴兵／大纪元）</div><p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-4.jpg" width=780></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。图为小提琴演奏家郑媛慧在独奏。（戴兵／大纪元）</div><p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-5.jpg" width=880></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div><p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-5.jpg" width=780></a><br>2019年10月25日，享誉全球的神韵交响乐团光临波士顿交响乐厅（Boston Symphony Hall），为观众带来一场东西方音乐合璧的精彩演出。（戴兵／大纪元）</div><p>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-6.jpg" width=880></a><br>10月25日晚，在波士顿交响乐厅119年历史的铜黄色殿堂下，随着神韵交响乐团《康熙大帝》一曲震撼结束，全体观众起立鼓掌，经久不歇。直到两位指挥家又分别献上一首安可曲，观众们才缓缓离去。（戴兵／大纪元）</div><p>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-6.jpg" width=780></a><br>10月25日晚，在波士顿交响乐厅119年历史的铜黄色殿堂下，随着神韵交响乐团《康熙大帝》一曲震撼结束，全体观众起立鼓掌，经久不歇。直到两位指挥家又分别献上一首安可曲，观众们才缓缓离去。（戴兵／大纪元）</div><p>
 
 <a>“与宇宙相连”指挥家赞神韵交响乐宏大无比</a>
 
