@@ -18,7 +18,7 @@
 
 <a href="#2">收看新唐人神韵交响乐团的方法</a><br>
 <a href="#3">“传统之美”2019神韵交响乐波士顿落幕</a><br>
-
+<a href="#4">2019神韵交响乐团 10月25日波士顿登场</a><br>
 
 
 
@@ -183,7 +183,9 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 <h2>翻墙软件自由门'无界浏览。无界一点通最新版下载地址：<a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
+
+
 
 <a name=3><div align="center"><h1>“传统之美”2019神韵交响乐波士顿落幕<p></h1></div></b>
 
@@ -267,8 +269,24 @@ Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而�
 
 责任编辑：夏晶
 
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
+
+<a name=4><div align="center"><h1>2019神韵交响乐团 10月25日波士顿登场<p></h1></div></b>
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/b_illust_11_2M.png?raw=true" width=880></a><br></div>
