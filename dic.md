@@ -16,6 +16,17 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
+<a href="#3"><div align="center">收看新唐人神韵交响乐团的方法<p></h3></div></a><br>
+<a href="#3"><div align="center">“传统之美”2019神韵交响乐波士顿落幕<p></h3></div></a><br>
+
+
+
+
+
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
+
 <a name=1><div align="center"><h1><a href="http://www.epochtimes.com/gb/19/12/15/n11723280.htm">神 韵 交 响 乐</a></h1></div></a><br>
 
 <h3>【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放，时长90分钟。
@@ -91,7 +102,7 @@
 
 <table>
 
-<div align="center"><h1>收看新唐人神韵交响乐团的方法<p></h1></div>
+<a name=2><div align="center"><h1>收看新唐人神韵交响乐团的方法<p></h1></div>
 
 <h3>	
 <tr>
