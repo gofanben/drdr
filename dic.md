@@ -16,10 +16,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
 
-<a href="#3"><div align="center">收看新唐人神韵交响乐团的方法<p></h3></div></a><br>
-<a href="#3"><div align="center">“传统之美”2019神韵交响乐波士顿落幕<p></h3></div></a><br>
-
-
+<a href="#2">收看新唐人神韵交响乐团的方法</a><br>
+<a href="#3">“传统之美”2019神韵交响乐波士顿落幕</a><br>
 
 
 
@@ -102,7 +100,7 @@
 
 <table>
 
-<a name=2><div align="center"><h1>收看新唐人神韵交响乐团的方法<p></h1></div>
+<a name=2><div align="center"><h1>收看新唐人神韵交响乐团的方法<p></h1></div></b>
 
 <h3>	
 <tr>
