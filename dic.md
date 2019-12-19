@@ -6,62 +6,12 @@
 
 <a href=https://git.io/duun><h4 align="right">探詢首頁</h4></a>
 
-<div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/sy-27.jpg" width=780></a><br></div>
-
-<h3><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h3>
 
 [ <div align="center"><h2>【突破封锁看“2019圣诞及2020新年期间音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
 <a href="#1"> <div align="center"><h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a><br>
-
-
-<h3>【新唐人2019年02月15日讯】元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，新唐人还将播出“神韵艺术团交响乐团2017年演出”。（在中国大陆需翻墙访问）
-<p><p>
-	
-五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。
-
-神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，邀请您踏上五千年的音乐之旅。
-
-亲爱的观众朋友们，让优质的中国古典舞及音乐盛宴陪您与家人共度元宵，敬请阖家观赏！</h3>
-
-</table>
-<h2>神韵晚会</h2>
-
-<h3>神韵晚会将在新唐人电视台的纽约、美西、休斯顿、欧洲、大陆等五个频道播放，对海外播出的是神韵艺术团2018年的演出，对中国大陆播出的是神韵艺术团2019年的演出。<a href="http://sy.epub.vin/sy">网站和Roku不播出，只限于电视收看。</a></h3>
-
-<table>
-<div align="center"><h3>
-播出时间如下（均为当地时间）：
-</h3>
-
-<h2>2019中国元宵期间《新唐人全球华人新年晚会》播出时间</h2><p>
-</div>
-
-<div align="center"><h3>
-频道	播出时间（当地时间）<p><p>   大陆	<p>
-<tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
-</tr>
-<tr>
-	<td width=293;>星期二(元宵)2/19/2019  Tue</td>
-	<td width=293;>20:00</td>
-	<td width=293;>元宵《全球华人神韵晚会》(首播)</td>
-</tr>
-<tr>
-	<td width=293;>星期二(元宵)2/19/2019  Tue</td>
-	<td width=293;> 23:00</td>
-	<td width=293;>元宵《全球华人神韵晚会》(重播)</td>
-</tr>	
-	</div>
-
-<p>	
-</table>
-<p>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/wer/blob/master/img-mf/b_simple_37_3M.png?raw=true" width=880></a><br></div>
