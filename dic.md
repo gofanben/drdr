@@ -252,7 +252,7 @@ Dawicki说，神韵音乐感动他的不仅仅是东西方音乐的完美融合�
 
 Dawicki一家对神韵音乐的能量感受深刻。“这音乐就像扑面而来的风，带有声音的风，如此振奋人心，令你感到生命的喜悦。”他说。
 
-<a>前芭蕾舞演员：神韵音乐带我去了另一个世界</a>
+<h2>前芭蕾舞演员：神韵音乐带我去了另一个世界</h2>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-9.jpg" width=680></a><br>前芭蕾舞演员Eleana Santorineou带着儿子于 10月25日晚在波士顿交响乐厅欣赏了神韵交响乐团2019年度的最后一场演出。（新唐人电视台）</div><p>
