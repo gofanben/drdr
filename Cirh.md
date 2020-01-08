@@ -31,7 +31,7 @@
 
 
 
-<td><h1><a href='https://git.io/duun'>请点击连结~你要的都在这儿~</a><h1></td>
+<td><h3><a href='https://git.io/duun'>请点击连结~你要的都在这儿~</a><h3></td>
   
 <h1 align="center"><b>明慧专题：“四•二五”上访真相</b></h1>
 
