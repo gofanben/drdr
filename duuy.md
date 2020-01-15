@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://111.241.90.121</h3></div>
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>🌼必看 精彩视频 请直接点击 http://36.228.34.197</h3></div>
    
  <div align=center><h3><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h3></div> 
  <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
@@ -93,4 +93,4 @@
 <td align="center"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img-2/222203.jpg?raw=true" width=550></td></div>
 
    <div align=center>
-<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=650></td></div>
+<td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=800></td></div>
