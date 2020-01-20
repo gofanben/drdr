@@ -16,6 +16,8 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
+<a href="#8">2020全球华人新年晚会.mp4</a><br>
+<a href="#9">教人向善 销售总监观神韵获人生启迪</a><br>
 <a href="#1">神韵交响乐</a><br>
 <a href="#2">收看新唐人神韵晚会'神韵交响乐团的方法</a><br>
 <b>相关新闻</b><br>
@@ -28,7 +30,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 
-<a name=1><div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">2020全球华人新年晚会.mp4</a></h1></div></a><br>
+<a name=8><div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">2020全球华人新年晚会.mp4</a></h1></div></a><br>
 
 【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
@@ -197,6 +199,36 @@ StarP2P和新唐人联手推出新唐人安卓版，iNTD TV。新唐人安卓版
 <h4><a href='http://zh-tw.shenyun.com/'>海外观众如要观看最新的〝神韵晚会″，请到当地剧院买票观看，演出行程请查询：http://www.shenyun.com </a></h4>
 
 <h2>翻墙软件自由门'无界浏览。无界一点通最新版下载地址：<a href='https://github.com/dfchunsring/wer/blob/master/epgh.md'>（git.io/epf）</a></h2>
+
+<a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
+
+<a name=9><div align="center"><h1>“传统之美”2019神韵交响乐波士顿落幕<p></h1></div></b>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/2-fg.jpg?raw=true" width=880></a><br>教人向善 销售总监观神韵获人生启迪元</div><p>
+
+【大纪元2020年01月20日讯】（大纪元记者滕冬育美国底特律报导）密执根保险公司Blue Cross Blue Shield的销售总监Tracy Samples和母亲Terisha Tozini一同观赏了神韵世界艺术团1月19日下午在底特律歌剧院的演出。Samples赞叹，神韵演出启迪人们的善念，教人向善。
+
+Samples说，神韵演出不仅丰富多彩、美不胜收，还非常有意义。她说，自己通读过节目册，认识到神韵带给人的信念和信仰非常启迪人心。
+
+她解释说：“神韵演出的精神主题，从头到尾几乎每个节目都紧扣这一真正强大的精神内涵——善待他人，这是基本的价值观，停止争斗、做好人。”
+
+Samples表示，善有善报的精神内涵让自己内心非常共鸣，“这正是我试图尊崇的生活方式，所以我立刻就悟道了这一主题。就像我刚才说的，只要从善如流，就会得到善报。”
+
+谈到女高音的演唱时，Samples表示非常欣赏，“她唱得太好了，当她唱出高音时，让我感到犹如醍醐灌顶。”
+
+神韵天幕的设计，也让Samples推崇，她说：“我喜欢舞蹈演员从背景天幕中飞出，然后骤然展现在眼前，真是完美的时机配合。”
+
+她的母亲Terisha想看神韵已经几年了，今年终于如愿以偿。她说：“我喜欢神韵服装的色彩，如行云流水。”
+
+她说：“演出真的鼓舞人心。这是一种美好，积极向上的感觉。非常美丽，平和。”
+
+责任编辑：岳东卿
+
+
 
 <a href=#list><h5 align="right">回目錄</h5></a>
 
