@@ -45,7 +45,7 @@
 
 <div align="center"><h3>以下是新唐人亚太台播出时间相关资讯：<p></h3></div>
 
-一、2020新唐人全球华人新年晚会
+<div align="center"><h3>一、2020新唐人全球华人新年晚会<p></h3></div>
 <div align="center"><h2>大陆<p></h2></div>
  
 
@@ -66,27 +66,6 @@
 	<td width=293;>《神韵晚会》重播</td>
 </tr>		
 
-二、2018神韵交响乐团音乐会
-
-<p>
-
-<tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
-</tr>	
-<tr>
-	<td width=293;>1/25 (六)</td>
-	<td width=293;>初一 20:00</td>
-	<td width=293;>《神韵交响乐团音乐会》首播</td>
-</tr>		 
-
-<tr>
-	<td width=293;>1/26 (日)</td>
-	<td width=293;>初二 00:00  08:30  14:00</td>
-	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>		
-
 </table>
 
 
@@ -94,9 +73,6 @@
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 <a name=1><div align="center"><h1><a href="http://www.epochtimes.com/gb/19/12/15/n11723280.htm">神 韵 交 响 乐</a></h1></div></a><br>
 
-<h3>【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放，时长90分钟。
-
-神韵交响乐是风靡全球的神韵艺术团原创作品，结合了东西方正统音乐的精髓，以西方管弦乐为基奠烘托中国乐器的特色，再现中华音乐传统、重现失传的美声唱法，每年都推出全新的原创曲目，带给观众盛大的音乐飨宴，好评如潮。</h3>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/imgang/SY-127.png?raw=true" width=880></a><br></div>
@@ -116,51 +92,26 @@
 <div align="center"><h2><p>
  
 大陆	<p></h2></div>
+<div align="center"><h3>二、2018神韵交响乐团音乐会<p></h3></div>
+
 <tr>
 	<td width=293;>日期</td>
 	<td width=293;>时间</td>
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>星期二  12/24/2019     Tue</td>
-	<td width=293;>20:30</td>
+	<td width=293;>1/25 (六)</td>
+	<td width=293;>初一 20:00</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>星期三  12/25/2019    Wed</td>
-	<td width=293;>9:30</td>
-	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>		
-	<tr>
-	<td width=293;>星期三  12/25/2019    Wed</td>
-	<td width=293;>14:00</td>
-	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>	   
-</table>
-
-<div align="center"><h2>2020新年期间<p></h2></div>
-<div align="center"><h3>《2018神韵交响乐团音乐会》播出时间<p></h3></div>
-
-<table>
-	
-<tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
-</tr>	
-<tr>
-	<td width=293;>星期二  12/31/2019     Tue</td>
-	<td width=293;>20:00</td>
-	<td width=293;>《神韵交响乐团音乐会》首播</td>
-</tr>		 
-
-<tr>
-	<td width=293;>星期三  1/1/2020    Wed</td>
-	<td width=293;> 14:00</td>
+	<td width=293;>1/26 (日)</td>
+	<td width=293;>初二 00:00  08:30  14:00</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>		
 </table>
+
 
 <a href=#list><h5 align="right">回目錄</h5></a>
 <div align="center">
