@@ -2,11 +2,9 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/Sy-2.jpg?raw=true" width=880></a><br><h3>🌼请收藏本网址，连上免翻视频即时IP  https://git.io/sygood</h3></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/Sy-2.jpg?raw=true" width=880></a><br><h3>请收藏本网址，连上免翻视频即时IP ➤ https://git.io/sygood</h3></div>
 
 <div align="center"><h3>🌼必看 精彩视频 请直接点击 http://220.141.125.164</h3></div></a><br>
-
-<a href=https://git.io/duun><h5 align="right">探詢首頁</h5></a>
 
 <div align="center"><h1><a href="https://git.io/dfgdfg">大陆需  透过卫星或爱博电视收看</a></h1></div></a><br>
 
@@ -15,6 +13,9 @@
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
 <div align="center"><h2><a href="https://github.com/dfchunsring/arar/blob/master/sy2020.mp4/sy2020-1.mp4">【预告】新唐人中国新年期间独家播出2020全球华人新年晚会.mp4</a></h2></div></a><br>
+
+<a href=https://git.io/duun><h5 align="right">探詢首頁</h5></a>
+
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
