@@ -14,7 +14,7 @@
 <a href="#1"> <div align="center"><h2>【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</h2></div></a><br>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
 <a href="#1">神韵交响乐</a><br>
 <a href="#2">收看新唐人神韵交响乐团的方法</a><br>
@@ -41,21 +41,53 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/2020sy-2.jpg?raw=true" width=880></a><br></div>
 
-一、2020新唐人全球华人新年晚会
+<table>
 
 <div align="center"><h3>以下是新唐人亚太台播出时间相关资讯：<p></h3></div>
 
-1/24 (五)除夕 20:00  23:00
-1/25(六)初一 08:30  14:00
+一、2020新唐人全球华人新年晚会
+<div align="center"><h2>大陆<p></h2></div>
+ 
+
+<tr>
+	<td width=293;>日期</td>
+	<td width=293;>时间</td>
+	<td width=293;>备注</td>
+</tr>	
+<tr>
+	<td width=293;>1/24 (五)</td>
+	<td width=293;>除夕 20:00  23:00</td>
+	<td width=293;>《神韵晚会》首播</td>
+</tr>		 
+
+<tr>
+	<td width=293;>1/25(六)</td>
+	<td width=293;>初一 08:30  14:00</td>
+	<td width=293;>《神韵晚会》重播</td>
+</tr>		
 
 二、2018神韵交响乐团音乐会
 
-1/25 (六)初一 20:00
-1/26 (日)初二 00:00  08:30  14:00
+<p>
 
+<tr>
+	<td width=293;>日期</td>
+	<td width=293;>时间</td>
+	<td width=293;>备注</td>
+</tr>	
+<tr>
+	<td width=293;>1/25 (六)</td>
+	<td width=293;>初一 20:00</td>
+	<td width=293;>《神韵交响乐团音乐会》首播</td>
+</tr>		 
 
+<tr>
+	<td width=293;>1/26 (日)</td>
+	<td width=293;>初二 00:00  08:30  14:00</td>
+	<td width=293;>《神韵交响乐团音乐会》重播</td>
+</tr>		
 
-
+</table>
 
 
 <div align="center">
