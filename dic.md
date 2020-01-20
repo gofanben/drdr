@@ -31,7 +31,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 
-<a name=8><div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">2020全球华人新年晚会.mp4</a></h1></div></a><br>
+<a name=8><div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">2020全球华人新年晚会.mp4【预告】</a></h1></div></a><br>
 
 【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 
