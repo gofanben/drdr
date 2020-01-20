@@ -6,7 +6,7 @@
 
 <a href=https://git.io/duun><h5 align="right">探詢首頁</h5></a>
 
-<div align="center"><h1><a href="https://git.io/dfgdfg">大陸需  透過衛星或愛博電視</a></h1></div></a><br>
+<div align="center"><h1><a href="https://git.io/dfgdfg">大陆需  透过卫星或爱博电视收看</a></h1></div></a><br>
 
 [ <div align="center"><h2>【突破封锁看“新唐人中国新年期间独家播出2020全球华人新年晚会”】<p>翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
