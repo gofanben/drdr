@@ -7,11 +7,11 @@
 <a href=https://git.io/duun><h4 align="right">探詢首頁</h4></a>
 
 
-[ <div align="center"><h2>【突破封锁看“2019圣诞及2020新年期间音乐会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看“新唐人中国新年期间独家播出2020全球华人新年晚会”】翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
-<a href="#1"> <div align="center"><h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a><br>
+<a href="#1"> <div align="center"><h2>【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</h2></div></a><br>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
