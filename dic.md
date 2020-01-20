@@ -11,7 +11,7 @@
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
-<div align="center"><h1><a href="http://tfd23.xyrs.bid/sy/">【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</a></h1></div></a><br>
+<div align="center"><h2><a href="http://tfd23.xyrs.bid/sy/">【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</a></h2></div></a><br>
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
