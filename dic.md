@@ -116,7 +116,7 @@
 
 <table>
 
-<a name=2><div align="center"><h1>收看新唐人神韵交响乐团的方法<p></h1></div></b>
+<a name=2><div align="center"><h1>收看新唐人神韵晚会'神韵交响乐团的方法<p></h1></div></b>
 
 <h3>	
 <tr>
