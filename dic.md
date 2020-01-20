@@ -26,8 +26,40 @@
 <a href="#7">神韵交响乐 您不可错过的五大理由</a><br>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 
+<a name=1><div align="center"><h1><a href="https://www.ntdtv.com/gb/2020/01/20/a102756322.html">2020全球华人新年晚会</a></h1></div></a><br>
+
+【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+
+神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。
+
+<div align="center"><h2>神韵晚会播出时间如下（均为当地时间）：<p></h2></div>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/2020sy-2.jpg?raw=true" width=880></a><br></div>
+
+一、2020新唐人全球华人新年晚会
+
+<div align="center"><h3>以下是新唐人亚太台播出时间相关资讯：<p></h3></div>
+
+1/24 (五)除夕 20:00  23:00
+1/25(六)初一 08:30  14:00
+
+二、2018神韵交响乐团音乐会
+
+1/25 (六)初一 20:00
+1/26 (日)初二 00:00  08:30  14:00
+
+
+
+
+
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/fun.img/fun-a.jpg" width=880></a><br></div>
 <a name=1><div align="center"><h1><a href="http://www.epochtimes.com/gb/19/12/15/n11723280.htm">神 韵 交 响 乐</a></h1></div></a><br>
 
 <h3>【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放，时长90分钟。
