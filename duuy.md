@@ -13,9 +13,9 @@
 <table>
    
    <tr>
- <td><h2><a href="https://github.com/gofanben/gm/blob/master/aaasfa.md">平安秘诀</a></h2></td><p>
+ <td><h2><a href="https://git.io/pnhnan">平安秘诀</a></h2></td><p>
  
- <td><h2><a href='https://github.com/gofanben/gm/blob/master/README.md'>真相探询</a></h2></td><p></tr>    
+ <td><h2><a href='https://git.io/zhtuin'>真相探询</a></h2></td><p></tr>    
    
   <tr>
  <td><h2><a href="https://git.io/bb99bbss">法轮大法好</a></h2></td><p>
