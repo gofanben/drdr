@@ -7,6 +7,18 @@
  <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
 </table>
 
+<table>
+<tr>
+ <td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://36.228.9.144 </b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</h3></td>
+</tr> 
+
+<tr>
+ <td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</h3></td>
+</tr>
+  </table> 
+
 <div align=center>
 <td align="center"><IMG SRC="https://github.com/dfchunsring/wer/blob/master/zxtk-img/fngrchn3.jpg?raw=true" width=650></td></div>
  
