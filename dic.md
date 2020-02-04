@@ -19,7 +19,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/fgc.img/fgc-9.jpg?raw=true" width=880></a><br></div>
 <a name=list><b>目錄</b><p>
-<a href="#8">2020全球华人新年晚会.mp4</a><br>
+<a href="#8">2020全球华人神韵晚会.mp4</a><br>
 <a href="#9">教人向善 销售总监观神韵获人生启迪</a><br>
 <a href="#10">神韵复兴中华文化 学术界棕榈叶勋章得主盛赞</a><br>
 <a href="#1">神韵交响乐</a><br>
