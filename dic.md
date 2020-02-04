@@ -8,11 +8,11 @@
 
 <div align="center"><h1><a href="https://git.io/dfgdfg">大陆需  透过卫星或爱博电视收看</a></h1></div></a><p>
 
-[ <div align="center"><h2>【突破封锁看“新唐人中国新年期间独家播出2020全球华人新年晚会”】<p>翻墙软件免费下载</h2></div>](https://git.io/ubc)
+[ <div align="center"><h2>【突破封锁看“新唐人中国元宵节独家播出2020全球华人新年晚会”】<p>翻墙软件免费下载</h2></div>](https://git.io/ubc)
 
 <div align="center"><h2>请广传  请把握时间观赏  错过要再等一年</h2></div>
 
-<div align="center"><h2><a href="https://github.com/dfchunsring/arar/blob/master/sy2020.mp4/sy2020-1.mp4">【预告】新唐人中国新年期间独家播出2020全球华人新年晚会.mp4</a></h2></div></a><p>
+<div align="center"><h2><a href="https://github.com/dfchunsring/arar/blob/master/sy2020.mp4/sy2020-1.mp4">【预告】元宵节新唐人独家播出“神韵晚会”及“交响乐音乐会”.mp4</a></h2></div></a><p>
 
 <a href=https://git.io/duun><h5 align="right">探詢首頁</h5></a>
 
