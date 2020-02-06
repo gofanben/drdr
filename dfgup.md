@@ -58,12 +58,31 @@
 
 Australia One Party领袖波西（Riccardo Bosi）则表示：“并不是很多澳洲人知道三退。一些人甚至问我三退和自己有什么关系。事实上，中共向海外输出奴工产品，侵犯人权，而且还将黑手伸到澳洲。大量中资在澳投资，腐蚀政界。因此澳洲人应该声援中国人退出中共的组织。”
 
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-6.jpg" width=680></a></p><h5>Australia One Party领袖波西（Riccardo Bosi）在三退集会上发言。（孔昭/大纪元）</h5></div>
 
+澳洲传统家庭守护联盟总经理弗利（Paul Folley）说：“中共是一个反人类的政权，它憎恨一切正信，所以它疯狂迫害法轮功等其他宗教信仰团体。面对所有遭受中共残酷迫害的群体，我们应该肩并肩，支持他们反抗中共暴政。”
 
+大律师约克（Sophie York）认为，各种迹象都表明中共正在末日狂奔，它实施信息审查，侵犯人权，迫害异议人士。她表示：“中共不仅迫害人权，还破坏世界的和平秩序。”“我相信中国总有一天会迎来没有共产党的新纪元，迎来一个法治、自由的社会。”
 
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-7.jpg" width=680></a></p><h5>大律师约克（Sophie York）接受采访。（孔昭/大纪元）</h5></div>
 
+中共自篡政以来，对中国人犯下的罪恶罄竹难书，从三反五反、反右、大跃进、文革，到后来迫害法轮功，这个邪恶政权沾满了人们的鲜血。
 
+人权活动家威尼康伯（Bob Vinnicombe）说：“中共篡政以来残害了很多中国人。中共修建集中营，对法轮功学员等其他少数族裔活摘器官，它是现代的吃人政权。”
 
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-8.jpg" width=680></a></p><h5>人权活动家威尼康伯（Bob Vinnicombe）在三退集会上发言。（孔昭/大纪元）</h5></div>
+
+民主中国阵线主席秦晋表示：“中国的病毒就在于中共，而中共最害怕的就是信息畅通。法轮功学员近二十年坚持向中国人讲述真相，帮助他们退出中共，三亿五千万的三退人数确实非常惊人。”
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-9.jpg" width=680></a></p><h5>民主中国阵线主席秦晋接受采访。（孔昭/大纪元）</h5></div>
+
+中国澳洲之声创办人潘晴表示：“中共邪恶至极、中共就是病毒。中共就是魔鬼。共产党自其在欧洲出现以来，对我们整个人类社会带来了巨大灾难，造成无数生灵死亡。自《九评共产党》推出以来，无数中国人开始觉醒，明白要改变自身命运，必须退出共产党，消灭共产党。”
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-10.jpg" width=680></a></p><h5>中国澳洲之声创办人潘晴接受采访。（孔昭/大纪元）</h5></div>
+
+潘晴十分认同法轮功学员提出“天灭中共”的说法。他说：“我们普通人可能没有力量消灭共产党，但是老天爷会消灭它。天灭中共是神的意旨。”
+
+责任编辑：杨帆
 
  <a href=#list><h5 align="right">回目錄</h5></a>
 
