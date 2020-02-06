@@ -11,6 +11,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/19-1.jpg?raw=true" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
+<a href="#16">宋善：庆贺三亿五千万人三退</a><br>
 <a href="#15">九评15周年 看大陆民众弃中共 句句真情</a><br>
 <a href="#14">《九评》发表15周年 加拿大各界华人在觉醒</a><br>
 <a href="#13">九评问世15载 3亿4千万民众抛弃中共</a><br>
@@ -29,6 +30,20 @@
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
+
+<a name=16><div align=center><h1><b><a href="https://git.io/3th">宋善：庆贺三亿五千万人三退</a></b></h1></div> 
+
+
+
+
+
+
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/9p3t-10.jpg" width=680></a></p><h5>2019年10月12日，多伦多法轮功学员及支持者在市中心唐人街举行盛大游行活动，庆祝3亿4千多万勇士退出中共。（周行／大纪元）</h5></div>
 
 <a name=15><div align=center><h1><b><a href="https://git.io/3th">九评15周年 看大陆民众弃中共 句句真情</a></b></h1></div> 
 
