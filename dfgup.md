@@ -11,6 +11,7 @@
 <IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/19-1.jpg?raw=true" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
+<a href="#17">悉尼集会庆3.5亿人退出中共 各界声援</a><br>
 <a href="#16">宋善：庆贺三亿五千万人三退</a><br>
 <a href="#15">九评15周年 看大陆民众弃中共 句句真情</a><br>
 <a href="#14">《九评》发表15周年 加拿大各界华人在觉醒</a><br>
@@ -32,15 +33,44 @@
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
 
 
+<a name=17><div align=center><h1><b><a href="https://git.io/3th">悉尼集会庆3.5亿人退出中共 各界声援</a></b></h1></div> 
+
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-2.jpg" width=680></a></p><h5>法轮功学员正在展示功法。（孔昭/大纪元）</h5></div>
+
+【大纪元2020年02月01日讯】(大纪元记者王伟标、林岳悉尼报导)1月31日，悉尼部分法轮功学员在悉尼环形码头（Circular Quay）举行集会，庆祝超过3.5亿中国人退出中共组织（党、团、队），获得澳洲各界人士的声援。
+
+当天上午，一部分法轮功学员在集会现场展示功法，另一些则向路人讲述法轮功真相与三退的意义。天国乐团亦奏响雄浑鼓乐，引得众多行人驻足观看。
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-3.jpg" width=680></a></p><h5>1月31日，悉尼部分法轮功学员在环形码头举行庆祝3.5亿人三退集会。图中天国乐团正演奏乐曲。（孔昭/大纪元）</h5></div>
+
+集会开始后，澳洲法轮大法学会发言人戴乐（John Deller）发言表示：“在中国大陆生活的民众，从小就接受中共的洗脑教育。六岁的小学生就被迫要加入中共少先队，向血旗宣誓，说‘要把自己的一生献给中共，为其奋斗终身’。这在澳洲是不可想像的。”
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-4.jpg" width=680></a></p><h5>澳洲法轮大法学会发言人戴乐（John Deller）在三退集会上发言。（孔昭/大纪元）</h5></div>
+
+“过去二十年来，信仰‘真、善、忍’原则的法轮功学员在中国大陆遭到残酷迫害。但他们并未退缩，更是通过各种和平理性的方式帮助中国民众明白中共的邪恶与三退的重要性。”
+
+当日，尽管烈日炎炎，众多民众和正义人士仍参加集会，声援逾三亿五千万华人三退（退出中共的党、团、队）。
+
+帕拉马塔市市议员威尔森（Andrew Wilson）表示：“中共非法关押无辜百姓，残忍折磨良心犯，无怪乎每月都有这么多（逾两百万）人退出中共。”
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-5.jpg" width=680></a></p><h5>悉尼帕拉马塔市市议员威尔森（Andrew Wilson）接受采访。（孔昭/大纪元）</h5></div>
+
+Australia One Party领袖波西（Riccardo Bosi）则表示：“并不是很多澳洲人知道三退。一些人甚至问我三退和自己有什么关系。事实上，中共向海外输出奴工产品，侵犯人权，而且还将黑手伸到澳洲。大量中资在澳投资，腐蚀政界。因此澳洲人应该声援中国人退出中共的组织。”
+
+
+
+
+
+
+
+
  <a href=#list><h5 align="right">回目錄</h5></a>
 
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
 
-
-
 <a name=16><div align=center><h1><b><a href="https://git.io/3th">宋善：庆贺三亿五千万人三退</a></b></h1></div> 
-
 
 <div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-1.jpg" width=680></a></p><h5>2019年7月15日，全球退党服务中心负责人易蓉女士在纪念720反迫害20周年纽约中领馆前的集会上发言。 (戴兵/大纪元)</h5></div>
 
