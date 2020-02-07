@@ -8,9 +8,10 @@
   <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/img.-1/19-1.jpg?raw=true" width=880></a><br></div>
+<IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-0-3.jpg" width=880></a><br></div>
 
 <a name=list><b>目錄</b><p>
+<a href="#18">澳洲民众支持三亿五千万中华儿女退出中共（图）</a><br>
 <a href="#17">悉尼集会庆3.5亿人退出中共 各界声援</a><br>
 <a href="#16">宋善：庆贺三亿五千万人三退</a><br>
 <a href="#15">九评15周年 看大陆民众弃中共 句句真情</a><br>
@@ -32,6 +33,36 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_29_0M.png?raw=true" width=800></a><br></div>
 
+<a name=18><div align=center><h1><b><a href="https://git.io/3th">澳洲民众支持三亿五千万中华儿女退出中共（图）</a></b></h1></div> 
+
+【明慧网二零二零年二月四日】（明慧悉尼记者站报道）二零二零年一月三十一日，澳洲悉尼各界人士和法轮功学员在悉尼市中心海关大楼前举行集会，庆祝三亿五千万中华儿女退出中共。活动当天得到许多澳洲民众和过路游客支持。
+当天清晨，法轮功学员在海关大楼前的广场上展示法轮大法五套功法，缓、慢、圆的炼功动作和优美的炼功音乐吸引了不少行人和游客驻足观看，他们在了解法轮功真相后纷纷在帮助停止迫害的请愿书上签名。尽管武汉肺炎的发生，中国大陆游客锐减，但还是有一些大陆游客驻足聆听集会发言，接受法轮功学员递给的真相资料，表示自己会上网“三退”；也有澳洲华裔当场同意“三退”；还有一位澳洲华裔看到广告特地赶来参加集会并在集会上即兴发言，称法轮功是他非常尊敬的团体，感谢法轮功学员二十年来坚持讲真相。
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-11.jpg" width=680></a></p><h5>图1：在悉尼市中心海关大楼前行人或游客驻足观看法轮功学员展示法轮大五套功法</h5></div>
+
+澳洲华裔：我要喊出对法轮功团体的尊敬
+
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-12.jpg" width=680></a></p><h5>图2：澳洲华裔王先生在集会上即兴发言</h5></div>
+
+王先生是一位移民到澳洲的普通公民，他在中国生活了二十五年，深知中共的邪恶本质。之前他来澳洲旅游时在景点遇到了法轮功学员并退出了中共的团、队组织。他在中文《大纪元》报纸上看到“支持三亿五千万勇士退出中共集会”的消息后，特地来参加集会并要求即兴发言。
+
+当问起他为什么今天想到要即兴发言时，他说：“这是我心中积攒了二十年的想法，我想借此机会向法轮功团体表示深深的敬意！你们二十年来风吹日晒的坚持，为的是唤起中国民众的觉醒，让大家知道真相。生活在中国大陆的人民仍然在水深火热之中，被谎言所蒙蔽，被它的政治教育洗脑。中国的希望就是要中国的百姓每个人发自内心的觉醒，才能够在真正意义上解体中共。我非常想表达，哪怕今天是给我一分钟，我也想喊出自己内心对法轮功团体的尊敬。”
+
+王先生在即兴发言中说：“我首先想说的是，我们应该从心里非常非常感谢风吹日晒坚持向我们的中国游客、向全世界的人民，向所有中国人讲清真相，启迪中国人良知的团体，这就是我们非常非常尊敬的法轮功团体。虽然我不是法轮功学员，但是法轮功二十年的坚持，让全世界的人们觉醒。你们的辛勤汗水、风吹日晒，日后将会被世界的历史所记录。每一个中国人从中共一九四九年建政开始，四清、镇反、反右、文革、大跃进、六四、镇压法轮功、镇压维权团体、抓捕维权律师等等，斑斑血泪，罄竹难书。同胞们，是时候了，是时候了，让我们用自己发自内心的觉醒来解体这个万恶不赦的中共。天佑中华，天灭中共。”
+
+美国游客：我真的很喜欢真善忍
+
+
+
+
+
+
+
+
+ <a href=#list><h5 align="right">回目錄</h5></a>
+
+<div align="center">
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/fnc-perhi.img/b_ornament_149_1M.png?raw=true" width=780></a><br></div>
 
 <a name=17><div align=center><h1><b><a href="https://git.io/3th">悉尼集会庆3.5亿人退出中共 各界声援</a></b></h1></div> 
 
