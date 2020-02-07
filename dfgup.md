@@ -52,7 +52,7 @@
 
 美国游客：我真的很喜欢真善忍
 
-<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-13.jpg" width=680></a></p><h5>图3：美国游客塞缪尔（Samuel）：“我真的很喜欢真善忍。”</h5></div>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-13.jpg" width=580></a></p><h5>图3：美国游客塞缪尔（Samuel）：“我真的很喜欢真善忍。”</h5></div>
 
 美国游客塞缪尔（Samuel）说：“我知道法轮功。我真的很喜欢你们正在做的事情，以便向更多人了解中国的真实情况。我是一位基督教徒。我知道基督教在中国也受到迫害。我也听说过中共活摘器官的事情。总的来说，美国正在为争取自由在与中共邪党作战。我真的很喜欢真善忍。祝你们获得和平与自由。”
 
@@ -62,7 +62,7 @@
 
 他接着说：“我将去脸书（Facebook）上传播，大声疾呼让人们知道这个真相。 我想向受迫害的中国法轮功学员们传达一个信息，我的心永远与你们同在，坚持做你认为正确的事情。我会在法轮功网站上找到视频，从那里学炼法轮功。”
 
-<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-14.jpg" width=680></a></p><h5>图4：布里斯班居民阿德里安·多默（Adrian Dormer）说：“我想向受迫害的中国法轮功学员们传达一个信息：我的心永远与你们同在，坚持做你认为正确的事情。”</h5></div>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-14.jpg" width=580></a></p><h5>图4：布里斯班居民阿德里安·多默（Adrian Dormer）说：“我想向受迫害的中国法轮功学员们传达一个信息：我的心永远与你们同在，坚持做你认为正确的事情。”</h5></div>
 
 “真善忍是人们遵循的最佳原则”
 
@@ -70,7 +70,7 @@
 
 她还表示：“等我回到墨尔本，我会告诉我的丈夫，这样当他回到欧洲时，他会告诉他的朋友我今天所了解到的真相。”
 
-<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-15.jpg" width=680></a></p><h5>图5：来自马其顿的德斯纳（Desna）和父亲</h5></div>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-15.jpg" width=580></a></p><h5>图5：来自马其顿的德斯纳（Desna）和父亲</h5></div>
 
 法轮功做的是一件非常了不起的事情
 
@@ -78,7 +78,7 @@
 
 他接着说：“我真的很担心有些信中共的澳大利亚人或与其合作的公司。有些人并不真正了解共产主义是什么。你永远都不希望生活在共产党统治中，那里没有人权，他们只是控制人民。如果（中共认为）你做错任何事，你将被消失。了解共产主义实际情况的人越多，澳大利亚将从中受益越多。”
 
-<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-16.jpg" width=680></a></p><h5>图6：悉尼居民塞尔克（Selke）先生说：“了解共产主义实际情况的人越多，澳大利亚将从中受益越多。”</h5></div>
+<div align=center><a href="https://youtu.be/NQGQ6-VCWNk"><IMG SRC="https://github.com/dfchunsring/drdr/blob/master/3.513t.img/3.51-16.jpg" width=580></a></p><h5>图6：悉尼居民塞尔克（Selke）先生说：“了解共产主义实际情况的人越多，澳大利亚将从中受益越多。”</h5></div>
 
 “集会有助于提高人们的意识”
 
