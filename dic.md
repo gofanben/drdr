@@ -66,13 +66,13 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>2020/2/7 </td>
+	<td width=293;>02/08 元宵</td>
 	<td width=293;>20:00-23:00</td>
 	<td width=293;>《神韵晚会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>2020/2/7</td>
+	<td width=293;>02/08 元宵</td>
 	<td width=293;>23:00-02:00</td>
 	<td width=293;>《神韵晚会》重播</td>
 </tr>		
@@ -108,13 +108,13 @@
 	<td width=293;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>2020/2/8</td>
+	<td width=293;>02/09 十六</td>
 	<td width=293;>08:30-10:30</td>
 	<td width=293;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>2020/2/8</td>
+	<td width=293;>02/09 十六</td>
 	<td width=293;>20:00-10:00</td>
 	<td width=293;>《神韵交响乐团音乐会》重播</td>
 </tr>		
