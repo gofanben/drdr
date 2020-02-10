@@ -4,7 +4,7 @@
 <div align="center">
 <IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/Sy-2.jpg?raw=true" width=880></a><br><h3>请收藏本网址，连上免翻视频即时IP ➤ https://git.io/sygood</h3></div>
 
-<div align="center"><h3>🌼必看 精彩视频 请直接点击 http://220.141.128.156</h3></div></a><p>
+<div align="center"><h3>🌼必看 精彩视频 请直接点击 http://36.228.14.248</h3></div></a><p>
 
 <div align="center"><h1><a href="https://git.io/dfgdfg">大陆需  透过卫星或爱博电视收看</a></h1></div></a><p>
 
