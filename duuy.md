@@ -1,11 +1,10 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>请收藏本网址，连上即时IP ➤ https://git.io/duk</h3></div>
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>请收藏本网址，连上即时IP ➤ https://git.io/duk  或  https://bit.ly/3ezRQKo</h3></div>
   
- <div align=center><h3><b>🌼必看 精彩视频 请直接点击➤ http://61.228.184.37/300</b></h3></div> 
- <div align=center><h3><b><a href="https://git.io/Ffor">红潮即将倾覆  天之将明</a></b></h3></div> 
- <div align=center><h3><a href="https://git.io/Yange">美将严格执法 拒迫害信仰者入境</a></h3></div>
+ <div align=center><!--<h3><b>🌼必看 精彩视频 请直接点击➤ http://61.228.184.37/300</b></h3>--></div> 
+
 </table>
 
 <div align=center>
@@ -14,12 +13,12 @@
 <table>
 <tr>
  <td>
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，<b>连上面→免翻视频 IP http://61.228.184.37/300</b> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</h3></td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，<!--<b>连上面→免翻视频 IP http://61.228.184.37/300</b>--> →点 【三退大潮】--为什么要退党？ 可留言三退或用翻墙软件自己办理三退</h3></td>
 </tr> 
 
 <tr>
  <td>
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，请点击翻牆网站  https://git.io/opopop  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</h3></td>
+<a target="_blank" target="_blank" target="_blank" target="_blank" href="https://git.io/pamja"> <h3>如何 “ 三退保命 ”</a>，请点击翻牆网站  https://bit.ly/3asSXIA  下载 { 翻牆软件 }→找 { 大紀元網站 }  ( http://www.dajiyuan.com ) 三退</h3></td>
 </tr>
   </table> 
 
