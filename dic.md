@@ -2,7 +2,7 @@
 <table>
 
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/Sy-2.jpg?raw=true" width=880></a><br><h3>请收藏本网址，连上免翻视频即时IP ➤ https://git.io/sygood</h3></div>
+<IMG SRC="https://github.com/dfchunsring/arar/blob/master/sytp.img/Sy-2.jpg?raw=true" width=880></a><br><h3>请收藏本网址，连上免翻视频即时IP ➤   https://git.io/swspip  或  https://bit.ly/3ezRQKo</h3></div>
 
 <div align="center"><!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div></a><p>
 
