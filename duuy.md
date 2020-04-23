@@ -1,7 +1,7 @@
 
 <table>
 <div align="center">
-<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>请收藏本网址，连上即时IP ➤ https://git.io/duk  或  https://bit.ly/3ezRQKo</h3></div>
+<IMG SRC="https://github.com/dfchunsring/nini/blob/master/M-truth.img/123.jpg" width=880></a><br><h3>请收藏本网址，连上即时IP ➤   https://git.io/swspip  或  https://bit.ly/3ezRQKo</h3></div>
   
  <div align=center><!--<h3><b>🌼必看 精彩视频 请直接点击➤ http://61.228.184.37/300</b></h3>--></div> 
 
