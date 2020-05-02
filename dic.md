@@ -6,6 +6,14 @@
 
 <div align="center"><!--<h3>🌼必看 精彩视频 请直接点击 http://61.228.184.37/300</h3>--></div></a><p>
 
+ <div align=center><b>直连不必翻墙 🌼 必看精彩视频https://bit.ly/2VIs51L</b></div>
+<hr>
+<tr><td width=900><h3><b><a href="https://git.io/kkopop">➤ 中国禁闻  点击视频  </a></b></h3></tr>
+</td>
+
+<hr> 
+<h1>看更多真相 https://bit.ly/2RQM1hX</h1>
+
 <div align="center"><h1><a href="https://git.io/dfgdfg">大陆需  透过卫星或爱博电视收看</a></h1></div></a><p>
 
 [ <div align="center"><h2>【突破封锁看“元宵节新唐人独家播出“神韵晚会”及“交响乐音乐会””】<p>翻墙软件免费下载</h2></div>](https://git.io/ubc)
